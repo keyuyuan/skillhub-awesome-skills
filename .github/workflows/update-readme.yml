@@ -1,0 +1,206 @@
+name: Update README
+
+on:
+  schedule:
+    # Run daily at 9:00 UTC
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Create update script
+        run: |
+          cat > update.ts << 'SCRIPT'
+          import { createClient } from "@supabase/supabase-js";
+          import * as fs from "fs";
+          
+          const supabase = createClient(
+            process.env.SUPABASE_URL!,
+            process.env.SUPABASE_SERVICE_ROLE_KEY!
+          );
+          
+          const SKILLHUB_URL = "https://www.skillhub.club";
+          const REPO_NAME = "keyuyuan/skillhub-awesome-skills";
+          
+          const CATEGORY_EMOJI: Record<string, string> = {
+            development: "💻", document: "📄", writing: "✍️",
+            design: "🎨", data: "📊", automation: "🤖", meta: "🧠",
+          };
+          
+          const CATEGORY_NAMES: Record<string, string> = {
+            development: "Development", document: "Documentation",
+            writing: "Writing", design: "Design", data: "Data & Analytics",
+            automation: "Automation", meta: "Meta Skills",
+          };
+          
+          function formatStars(stars: number): string {
+            if (stars >= 1000) return `${(stars / 1000).toFixed(1)}k`;
+            return stars.toString();
+          }
+          
+          function escapeMarkdown(text: string): string {
+            return text.replace(/\|/g, "\\|").replace(/\n/g, " ");
+          }
+          
+          async function main() {
+            const { data: skills } = await supabase
+              .from("skills")
+              .select("id, name, slug, author, description, description_zh, category, github_stars, evaluations(overall_rating)")
+              .eq("status", "published")
+              .neq("is_aggregator", true)
+              .order("github_stars", { ascending: false });
+          
+            if (!skills?.length) { console.error("No skills"); return; }
+          
+            const now = new Date().toISOString().split("T")[0];
+            const byCategory: Record<string, typeof skills> = {};
+            skills.forEach(s => {
+              const cat = s.category || "meta";
+              if (!byCategory[cat]) byCategory[cat] = [];
+              byCategory[cat].push(s);
+            });
+            
+            const sortedCategories = Object.entries(byCategory).sort((a, b) => b[1].length - a[1].length);
+            const topSkills = skills.slice(0, 30);
+            const totalStars = skills.reduce((sum, s) => sum + (s.github_stars || 0), 0);
+          
+            let md = `<div align="center">
+
+          # 🎯 SkillHub Awesome Skills
+
+          ### The Ultimate Collection of Claude Skills
+
+          [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+          [![Skills](https://img.shields.io/badge/Skills-${skills.length}-blue?style=flat-square)](${SKILLHUB_URL})
+          [![Stars](https://img.shields.io/badge/Total%20Stars-${formatStars(totalStars)}-yellow?style=flat-square)](${SKILLHUB_URL})
+          [![Updated](https://img.shields.io/badge/Updated-${now}-green?style=flat-square)](${SKILLHUB_URL})
+
+          **[English](#-about) | [中文](#-关于)**
+
+          <a href="${SKILLHUB_URL}">
+            <img src="https://img.shields.io/badge/🔍_Browse_All_Skills-SkillHub.club-blue?style=for-the-badge" alt="SkillHub">
+          </a>
+
+          </div>
+
+          ---
+
+          ## 📖 About
+
+          A curated collection of **${skills.length}** Claude Skills for [Claude Code](https://claude.ai/code) and Claude Desktop.
+
+          ## 📖 关于
+
+          精选 **${skills.length}** 个 Claude Skills 合集，适用于 Claude Code 和 Claude Desktop。一键复制，即刻使用。
+
+          ---
+
+          ## 📊 Stats | 统计
+
+          | Metric | Value |
+          |--------|-------|
+          | Total Skills | ${skills.length} |
+          | Total GitHub Stars | ${formatStars(totalStars)} |
+          | Categories | ${sortedCategories.length} |
+          | Last Updated | ${now} |
+
+          ---
+
+          ## 🔥 Top Skills | 热门技能
+
+          | Skill | Author | ⭐ Stars | Rating | Description |
+          |-------|--------|---------|--------|-------------|
+          ${topSkills.map(s => {
+            const rating = s.evaluations?.[0]?.overall_rating || "-";
+            const desc = escapeMarkdown(s.description || s.description_zh || "").slice(0, 50);
+            return `| [**${s.name}**](${SKILLHUB_URL}/skill/${s.slug}) | ${s.author} | ${formatStars(s.github_stars)} | ${rating} | ${desc}${desc.length >= 50 ? "..." : ""} |`;
+          }).join("\n")}
+
+          <div align="right"><a href="${SKILLHUB_URL}/skills?sort=stars">View all →</a></div>
+
+          ---
+
+          `;
+
+            for (const [category, catSkills] of sortedCategories) {
+              const emoji = CATEGORY_EMOJI[category] || "📦";
+              const name = CATEGORY_NAMES[category] || category;
+              md += `## ${emoji} ${name}
+
+          <sub>${catSkills.length} skills</sub>
+
+          | Skill | Author | Stars | Description |
+          |-------|--------|-------|-------------|
+          ${catSkills.slice(0, 30).map(s => {
+            const desc = escapeMarkdown(s.description || s.description_zh || "").slice(0, 50);
+            return `| [${s.name}](${SKILLHUB_URL}/skill/${s.slug}) | ${s.author} | ⭐ ${formatStars(s.github_stars)} | ${desc}${desc.length >= 50 ? "..." : ""} |`;
+          }).join("\n")}
+
+          ${catSkills.length > 30 ? `<div align="right"><a href="${SKILLHUB_URL}/skills?category=${category}">View all ${catSkills.length} →</a></div>` : ""}
+
+          ---
+
+          `;
+            }
+
+            md += `## 🚀 How to Use | 使用方法
+
+          1. **Find a skill** on [SkillHub](${SKILLHUB_URL})
+          2. **Copy the SKILL.md** - Click "Copy"
+          3. **Paste to** \`~/.claude/skills/\`
+          4. **Restart Claude**
+
+          ---
+
+          ## 📈 Star History
+
+          [![Star History Chart](https://api.star-history.com/svg?repos=${REPO_NAME}&type=Date)](https://star-history.com/#${REPO_NAME}&Date)
+
+          ---
+
+          <div align="center">
+
+          [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](${SKILLHUB_URL})
+
+          **Auto-generated by [SkillHub](${SKILLHUB_URL})** | Updated: ${now}
+
+          </div>
+          `;
+
+            fs.writeFileSync("README.md", md);
+            console.log(`✅ Updated README with ${skills.length} skills`);
+          }
+
+          main().catch(console.error);
+          SCRIPT
+
+      - name: Install dependencies
+        run: bun add @supabase/supabase-js
+
+      - name: Run update script
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: bun run update.ts
+
+      - name: Cleanup
+        run: rm -f update.ts bun.lockb package.json node_modules -rf
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update skills $(date +%Y-%m-%d)"
+          git push
