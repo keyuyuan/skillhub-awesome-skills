@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-51914.2k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-02-02-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-53874.4k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-02-03-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 51914.2k |
+| Total GitHub Stars | 53874.4k |
 | Categories | 19 |
-| Last Updated | 2026-02-02 |
+| Last Updated | 2026-02-03 |
 
 ---
 
@@ -45,35 +45,35 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Skill | Author | ⭐ Stars | Rating | Description |
 |-------|--------|---------|--------|-------------|
 | [**fix**](https://www.skillhub.club/skill/facebook-react-fix) | facebook | 242.7k | - | Use when you have lint errors, formatting issues, ... |
-| [**vercel-react-best-practices**](https://www.skillhub.club/skill/significant-gravitas-autogpt-vercel-react-best-practices) | Significant-Gravitas | 181.6k | - | React and Next.js performance optimization guideli... |
-| [**docs**](https://www.skillhub.club/skill/significant-gravitas-autogpt-docs) | Significant-Gravitas | 181.6k | - |  |
-| [**tests**](https://www.skillhub.club/skill/significant-gravitas-autogpt-tests) | Significant-Gravitas | 181.6k | - |  |
+| [**docs**](https://www.skillhub.club/skill/significant-gravitas-autogpt-docs) | Significant-Gravitas | 181.7k | - |  |
+| [**vercel-react-best-practices**](https://www.skillhub.club/skill/significant-gravitas-autogpt-vercel-react-best-practices) | Significant-Gravitas | 181.7k | - | React and Next.js performance optimization guideli... |
+| [**Auto-GPT**](https://www.skillhub.club/skill/torantulino-auto-gpt) | Torantulino | 181.7k | - |  |
 | [**autogpt_platform**](https://www.skillhub.club/skill/significant-gravitas-autogpt-autogpt-platform) | Significant-Gravitas | 181.6k | - |  |
-| [**Auto-GPT**](https://www.skillhub.club/skill/torantulino-auto-gpt) | Torantulino | 181.6k | - |  |
+| [**tests**](https://www.skillhub.club/skill/significant-gravitas-autogpt-tests) | Significant-Gravitas | 181.6k | - |  |
 | [**.claude**](https://www.skillhub.club/skill/microsoft-vscode-claude) | microsoft | 181.3k | - |  |
-| [**playwright**](https://www.skillhub.club/skill/n8n-io-n8n-playwright) | n8n-io | 172.5k | - |  |
-| [**.github**](https://www.skillhub.club/skill/n8n-io-n8n-github) | n8n-io | 172.5k | - |  |
-| [**create-pr**](https://www.skillhub.club/skill/n8n-io-n8n-create-pr) | n8n-io | 172.5k | - | Creates GitHub pull requests with properly formatt... |
-| [**ai-workflow-builder.ee**](https://www.skillhub.club/skill/n8n-io-n8n-ai-workflow-builder-ee) | n8n-io | 172.5k | - |  |
-| [**nodes-base**](https://www.skillhub.club/skill/n8n-io-n8n-nodes-base) | n8n-io | 172.5k | - |  |
-| [**frontend**](https://www.skillhub.club/skill/n8n-io-n8n-frontend) | n8n-io | 172.5k | - |  |
-| [**nano-banana-pro**](https://www.skillhub.club/skill/openclaw-openclaw-nano-banana-pro) | openclaw | 144.9k | - | Generate or edit images via Gemini 3 Pro Image (Na... |
-| [**songsee**](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | 144.9k | - | This skill wraps the songsee CLI tool to generate ... |
-| [**imsg**](https://www.skillhub.club/skill/moltbot-moltbot-imsg) | moltbot | 144.9k | - | iMessage/SMS CLI for listing chats, history, watch... |
-| [**nano-banana-pro**](https://www.skillhub.club/skill/moltbot-moltbot-nano-banana-pro) | moltbot | 144.9k | - | Generate or edit images via Gemini 3 Pro Image (Na... |
-| [**food-order**](https://www.skillhub.club/skill/moltbot-moltbot-food-order) | moltbot | 144.9k | - |  |
-| [**nano-banana-pro**](https://www.skillhub.club/skill/molt-bot-clawdbot-nano-banana-pro) | molt-bot | 144.9k | - | Generate or edit images via Gemini 3 Pro Image (Na... |
-| [**openai-whisper**](https://www.skillhub.club/skill/moltbot-moltbot-openai-whisper) | moltbot | 144.9k | - | Local speech-to-text with the Whisper CLI (no API ... |
-| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 144.9k | - | Manage Trello boards, lists, and cards via the Tre... |
-| [**gifgrep**](https://www.skillhub.club/skill/openclaw-openclaw-gifgrep) | openclaw | 144.9k | - | Search GIF providers with CLI/TUI, download result... |
-| [**blucli**](https://www.skillhub.club/skill/moltbot-moltbot-blucli) | moltbot | 144.9k | - | BluOS CLI (blu) for discovery, playback, grouping,... |
-| [**clawhub**](https://www.skillhub.club/skill/openclaw-openclaw-clawhub) | openclaw | 144.9k | - | Use the ClawHub CLI to search, install, update, an... |
-| [**clawdhub**](https://www.skillhub.club/skill/clawdbot-clawdbot-clawdhub) | clawdbot | 144.8k | - | A CLI tool for managing Claude Skills from clawdhu... |
-| [**camsnap**](https://www.skillhub.club/skill/moltbot-moltbot-camsnap) | moltbot | 144.8k | - | Capture frames or clips from RTSP/ONVIF cameras. |
-| [**github**](https://www.skillhub.club/skill/clawdbot-clawdbot-github) | clawdbot | 144.8k | - | Interact with GitHub using the `gh` CLI. Use `gh i... |
-| [**imsg**](https://www.skillhub.club/skill/clawdbot-clawdbot-imsg) | clawdbot | 144.8k | - | iMessage/SMS CLI for listing chats, history, watch... |
-| [**notion**](https://www.skillhub.club/skill/molt-bot-clawdbot-notion) | molt-bot | 144.8k | - | Notion API for creating and managing pages, databa... |
-| [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 144.8k | - | Capture and automate macOS UI with the Peekaboo CL... |
+| [**playwright**](https://www.skillhub.club/skill/n8n-io-n8n-playwright) | n8n-io | 172.7k | - |  |
+| [**frontend**](https://www.skillhub.club/skill/n8n-io-n8n-frontend) | n8n-io | 172.7k | - |  |
+| [**.github**](https://www.skillhub.club/skill/n8n-io-n8n-github) | n8n-io | 172.7k | - |  |
+| [**nodes-base**](https://www.skillhub.club/skill/n8n-io-n8n-nodes-base) | n8n-io | 172.7k | - |  |
+| [**create-pr**](https://www.skillhub.club/skill/n8n-io-n8n-create-pr) | n8n-io | 172.7k | - | Creates GitHub pull requests with properly formatt... |
+| [**ai-workflow-builder.ee**](https://www.skillhub.club/skill/n8n-io-n8n-ai-workflow-builder-ee) | n8n-io | 172.7k | - |  |
+| [**songsee**](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | 152.9k | - | This skill wraps the songsee CLI tool to generate ... |
+| [**nano-banana-pro**](https://www.skillhub.club/skill/moltbot-moltbot-nano-banana-pro) | moltbot | 152.9k | - | Generate or edit images via Gemini 3 Pro Image (Na... |
+| [**nano-banana-pro**](https://www.skillhub.club/skill/molt-bot-clawdbot-nano-banana-pro) | molt-bot | 152.9k | - | Generate or edit images via Gemini 3 Pro Image (Na... |
+| [**gifgrep**](https://www.skillhub.club/skill/openclaw-openclaw-gifgrep) | openclaw | 152.9k | - | Search GIF providers with CLI/TUI, download result... |
+| [**blucli**](https://www.skillhub.club/skill/moltbot-moltbot-blucli) | moltbot | 152.9k | - | BluOS CLI (blu) for discovery, playback, grouping,... |
+| [**camsnap**](https://www.skillhub.club/skill/moltbot-moltbot-camsnap) | moltbot | 152.9k | - | Capture frames or clips from RTSP/ONVIF cameras. |
+| [**github**](https://www.skillhub.club/skill/clawdbot-clawdbot-github) | clawdbot | 152.9k | - | Interact with GitHub using the `gh` CLI. Use `gh i... |
+| [**clawdhub**](https://www.skillhub.club/skill/clawdbot-clawdbot-clawdhub) | clawdbot | 152.9k | - | A CLI tool for managing Claude Skills from clawdhu... |
+| [**notion**](https://www.skillhub.club/skill/molt-bot-clawdbot-notion) | molt-bot | 152.9k | - | Notion API for creating and managing pages, databa... |
+| [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 152.9k | - | Capture and automate macOS UI with the Peekaboo CL... |
+| [**himalaya**](https://www.skillhub.club/skill/molt-bot-clawdbot-himalaya) | molt-bot | 152.9k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
+| [**mcporter**](https://www.skillhub.club/skill/molt-bot-clawdbot-mcporter) | molt-bot | 152.9k | - | Use the mcporter CLI to list, configure, auth, and... |
+| [**github**](https://www.skillhub.club/skill/moltbot-moltbot-github) | moltbot | 152.9k | - | Interact with GitHub using the `gh` CLI. Use `gh i... |
+| [**openai-whisper-api**](https://www.skillhub.club/skill/moltbot-moltbot-openai-whisper-api) | moltbot | 152.9k | - | Transcribe audio via OpenAI Audio Transcriptions A... |
+| [**imsg**](https://www.skillhub.club/skill/openclaw-openclaw-imsg) | openclaw | 152.9k | - | iMessage/SMS CLI for listing chats, history, watch... |
+| [**wacli**](https://www.skillhub.club/skill/clawdbot-clawdbot-wacli) | clawdbot | 152.9k | - | This Skill integrates the wacli CLI tool to send W... |
+| [**openai-image-gen**](https://www.skillhub.club/skill/moltbot-moltbot-openai-image-gen) | moltbot | 152.9k | - | Batch-generate images via OpenAI Images API. Rando... |
 
 <div align="right"><a href="https://www.skillhub.club/skills?sort=stars">View all →</a></div>
 
@@ -81,83 +81,83 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 💻 Development
 
-<sub>769 skills</sub>
+<sub>768 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
 | [fix](https://www.skillhub.club/skill/facebook-react-fix) | facebook | ⭐ 242.7k | Use when you have lint errors, formatting issues, ... |
-| [vercel-react-best-practices](https://www.skillhub.club/skill/significant-gravitas-autogpt-vercel-react-best-practices) | Significant-Gravitas | ⭐ 181.6k | React and Next.js performance optimization guideli... |
-| [docs](https://www.skillhub.club/skill/significant-gravitas-autogpt-docs) | Significant-Gravitas | ⭐ 181.6k |  |
-| [tests](https://www.skillhub.club/skill/significant-gravitas-autogpt-tests) | Significant-Gravitas | ⭐ 181.6k |  |
+| [docs](https://www.skillhub.club/skill/significant-gravitas-autogpt-docs) | Significant-Gravitas | ⭐ 181.7k |  |
+| [vercel-react-best-practices](https://www.skillhub.club/skill/significant-gravitas-autogpt-vercel-react-best-practices) | Significant-Gravitas | ⭐ 181.7k | React and Next.js performance optimization guideli... |
+| [Auto-GPT](https://www.skillhub.club/skill/torantulino-auto-gpt) | Torantulino | ⭐ 181.7k |  |
 | [autogpt_platform](https://www.skillhub.club/skill/significant-gravitas-autogpt-autogpt-platform) | Significant-Gravitas | ⭐ 181.6k |  |
-| [Auto-GPT](https://www.skillhub.club/skill/torantulino-auto-gpt) | Torantulino | ⭐ 181.6k |  |
+| [tests](https://www.skillhub.club/skill/significant-gravitas-autogpt-tests) | Significant-Gravitas | ⭐ 181.6k |  |
 | [.claude](https://www.skillhub.club/skill/microsoft-vscode-claude) | microsoft | ⭐ 181.3k |  |
-| [playwright](https://www.skillhub.club/skill/n8n-io-n8n-playwright) | n8n-io | ⭐ 172.5k |  |
-| [.github](https://www.skillhub.club/skill/n8n-io-n8n-github) | n8n-io | ⭐ 172.5k |  |
-| [create-pr](https://www.skillhub.club/skill/n8n-io-n8n-create-pr) | n8n-io | ⭐ 172.5k | Creates GitHub pull requests with properly formatt... |
-| [ai-workflow-builder.ee](https://www.skillhub.club/skill/n8n-io-n8n-ai-workflow-builder-ee) | n8n-io | ⭐ 172.5k |  |
-| [nodes-base](https://www.skillhub.club/skill/n8n-io-n8n-nodes-base) | n8n-io | ⭐ 172.5k |  |
-| [frontend](https://www.skillhub.club/skill/n8n-io-n8n-frontend) | n8n-io | ⭐ 172.5k |  |
-| [nano-banana-pro](https://www.skillhub.club/skill/openclaw-openclaw-nano-banana-pro) | openclaw | ⭐ 144.9k | Generate or edit images via Gemini 3 Pro Image (Na... |
-| [imsg](https://www.skillhub.club/skill/moltbot-moltbot-imsg) | moltbot | ⭐ 144.9k | iMessage/SMS CLI for listing chats, history, watch... |
-| [nano-banana-pro](https://www.skillhub.club/skill/moltbot-moltbot-nano-banana-pro) | moltbot | ⭐ 144.9k | Generate or edit images via Gemini 3 Pro Image (Na... |
-| [food-order](https://www.skillhub.club/skill/moltbot-moltbot-food-order) | moltbot | ⭐ 144.9k |  |
-| [nano-banana-pro](https://www.skillhub.club/skill/molt-bot-clawdbot-nano-banana-pro) | molt-bot | ⭐ 144.9k | Generate or edit images via Gemini 3 Pro Image (Na... |
-| [openai-whisper](https://www.skillhub.club/skill/moltbot-moltbot-openai-whisper) | moltbot | ⭐ 144.9k | Local speech-to-text with the Whisper CLI (no API ... |
-| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 144.9k | Manage Trello boards, lists, and cards via the Tre... |
-| [gifgrep](https://www.skillhub.club/skill/openclaw-openclaw-gifgrep) | openclaw | ⭐ 144.9k | Search GIF providers with CLI/TUI, download result... |
-| [blucli](https://www.skillhub.club/skill/moltbot-moltbot-blucli) | moltbot | ⭐ 144.9k | BluOS CLI (blu) for discovery, playback, grouping,... |
-| [clawhub](https://www.skillhub.club/skill/openclaw-openclaw-clawhub) | openclaw | ⭐ 144.9k | Use the ClawHub CLI to search, install, update, an... |
-| [camsnap](https://www.skillhub.club/skill/moltbot-moltbot-camsnap) | moltbot | ⭐ 144.8k | Capture frames or clips from RTSP/ONVIF cameras. |
-| [github](https://www.skillhub.club/skill/clawdbot-clawdbot-github) | clawdbot | ⭐ 144.8k | Interact with GitHub using the `gh` CLI. Use `gh i... |
-| [imsg](https://www.skillhub.club/skill/clawdbot-clawdbot-imsg) | clawdbot | ⭐ 144.8k | iMessage/SMS CLI for listing chats, history, watch... |
-| [notion](https://www.skillhub.club/skill/molt-bot-clawdbot-notion) | molt-bot | ⭐ 144.8k | Notion API for creating and managing pages, databa... |
-| [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 144.8k | Capture and automate macOS UI with the Peekaboo CL... |
-| [himalaya](https://www.skillhub.club/skill/molt-bot-clawdbot-himalaya) | molt-bot | ⭐ 144.8k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
-| [mcporter](https://www.skillhub.club/skill/molt-bot-clawdbot-mcporter) | molt-bot | ⭐ 144.8k | Use the mcporter CLI to list, configure, auth, and... |
+| [playwright](https://www.skillhub.club/skill/n8n-io-n8n-playwright) | n8n-io | ⭐ 172.7k |  |
+| [frontend](https://www.skillhub.club/skill/n8n-io-n8n-frontend) | n8n-io | ⭐ 172.7k |  |
+| [.github](https://www.skillhub.club/skill/n8n-io-n8n-github) | n8n-io | ⭐ 172.7k |  |
+| [nodes-base](https://www.skillhub.club/skill/n8n-io-n8n-nodes-base) | n8n-io | ⭐ 172.7k |  |
+| [create-pr](https://www.skillhub.club/skill/n8n-io-n8n-create-pr) | n8n-io | ⭐ 172.7k | Creates GitHub pull requests with properly formatt... |
+| [ai-workflow-builder.ee](https://www.skillhub.club/skill/n8n-io-n8n-ai-workflow-builder-ee) | n8n-io | ⭐ 172.7k |  |
+| [nano-banana-pro](https://www.skillhub.club/skill/moltbot-moltbot-nano-banana-pro) | moltbot | ⭐ 152.9k | Generate or edit images via Gemini 3 Pro Image (Na... |
+| [nano-banana-pro](https://www.skillhub.club/skill/molt-bot-clawdbot-nano-banana-pro) | molt-bot | ⭐ 152.9k | Generate or edit images via Gemini 3 Pro Image (Na... |
+| [gifgrep](https://www.skillhub.club/skill/openclaw-openclaw-gifgrep) | openclaw | ⭐ 152.9k | Search GIF providers with CLI/TUI, download result... |
+| [blucli](https://www.skillhub.club/skill/moltbot-moltbot-blucli) | moltbot | ⭐ 152.9k | BluOS CLI (blu) for discovery, playback, grouping,... |
+| [camsnap](https://www.skillhub.club/skill/moltbot-moltbot-camsnap) | moltbot | ⭐ 152.9k | Capture frames or clips from RTSP/ONVIF cameras. |
+| [github](https://www.skillhub.club/skill/clawdbot-clawdbot-github) | clawdbot | ⭐ 152.9k | Interact with GitHub using the `gh` CLI. Use `gh i... |
+| [notion](https://www.skillhub.club/skill/molt-bot-clawdbot-notion) | molt-bot | ⭐ 152.9k | Notion API for creating and managing pages, databa... |
+| [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 152.9k | Capture and automate macOS UI with the Peekaboo CL... |
+| [himalaya](https://www.skillhub.club/skill/molt-bot-clawdbot-himalaya) | molt-bot | ⭐ 152.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
+| [mcporter](https://www.skillhub.club/skill/molt-bot-clawdbot-mcporter) | molt-bot | ⭐ 152.9k | Use the mcporter CLI to list, configure, auth, and... |
+| [github](https://www.skillhub.club/skill/moltbot-moltbot-github) | moltbot | ⭐ 152.9k | Interact with GitHub using the `gh` CLI. Use `gh i... |
+| [openai-whisper-api](https://www.skillhub.club/skill/moltbot-moltbot-openai-whisper-api) | moltbot | ⭐ 152.9k | Transcribe audio via OpenAI Audio Transcriptions A... |
+| [imsg](https://www.skillhub.club/skill/openclaw-openclaw-imsg) | openclaw | ⭐ 152.9k | iMessage/SMS CLI for listing chats, history, watch... |
+| [openai-image-gen](https://www.skillhub.club/skill/moltbot-moltbot-openai-image-gen) | moltbot | ⭐ 152.9k | Batch-generate images via OpenAI Images API. Rando... |
+| [blucli](https://www.skillhub.club/skill/openclaw-openclaw-blucli) | openclaw | ⭐ 152.9k | BluOS CLI (blu) for discovery, playback, grouping,... |
+| [food-order](https://www.skillhub.club/skill/moltbot-moltbot-food-order) | moltbot | ⭐ 152.9k |  |
+| [canvas](https://www.skillhub.club/skill/moltbot-moltbot-canvas) | moltbot | ⭐ 152.9k |  |
 
-<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 769 →</a></div>
+<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 768 →</a></div>
 
 ---
 
 ## 📦 research
 
-<sub>64 skills</sub>
+<sub>62 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [neuropixels-analysis](https://www.skillhub.club/skill/davila7-claude-code-templates-neuropixels-analysis) | davila7 | ⭐ 19.2k | Provides a complete pipeline for analyzing Neuropi... |
-| [brenda-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-brenda-database) | K-Dense-AI | ⭐ 7.7k | Provides programmatic access to the BRENDA enzyme ... |
-| [matchms](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-matchms) | K-Dense-AI | ⭐ 7.7k | Provides mass spectrometry data processing for met... |
-| [pymatgen](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pymatgen) | K-Dense-AI | ⭐ 7.7k | Provides comprehensive access to pymatgen's materi... |
-| [statistical-analysis](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-statistical-analysis) | K-Dense-AI | ⭐ 7.7k | This skill guides users through selecting appropri... |
-| [paper-2-web](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-paper-2-web) | K-Dense-AI | ⭐ 7.7k | Converts academic papers (LaTeX/PDF) into websites... |
-| [astropy](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-astropy) | K-Dense-AI | ⭐ 7.7k | Provides comprehensive Python tools for astronomy ... |
-| [scientific-brainstorming](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scientific-brainstorming) | K-Dense-AI | ⭐ 7.7k | A structured conversation guide for scientific bra... |
-| [hmdb-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-hmdb-database) | K-Dense-AI | ⭐ 7.7k | Provides access to the Human Metabolome Database w... |
-| [adaptyv](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-adaptyv) | K-Dense-AI | ⭐ 7.7k | This Skill connects Claude to Adaptyv's cloud lab ... |
-| [opentargets-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-opentargets-database) | K-Dense-AI | ⭐ 7.7k | Provides GraphQL API access to Open Targets Platfo... |
-| [venue-templates](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-venue-templates) | K-Dense-AI | ⭐ 7.7k | Provides LaTeX templates and formatting guidelines... |
-| [medchem](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-medchem) | K-Dense-AI | ⭐ 7.7k | A Python library for applying medicinal chemistry ... |
-| [ensembl-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-ensembl-database) | K-Dense-AI | ⭐ 7.7k | This skill provides direct access to the Ensembl g... |
-| [hypothesis-generation](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-hypothesis-generation) | K-Dense-AI | ⭐ 7.7k | This skill provides a structured workflow for gene... |
-| [openalex-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-openalex-database) | K-Dense-AI | ⭐ 7.7k | Provides Python tools to query OpenAlex's 240M+ sc... |
-| [bioservices](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-bioservices) | K-Dense-AI | ⭐ 7.7k | Provides a unified Python interface to query over ... |
-| [literature-review](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-literature-review) | K-Dense-AI | ⭐ 7.7k | This skill automates systematic literature reviews... |
-| [reactome-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-reactome-database) | K-Dense-AI | ⭐ 7.7k | This skill provides programmatic access to Reactom... |
-| [rdkit](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-rdkit) | K-Dense-AI | ⭐ 7.7k | This skill provides guidance for using RDKit, a ch... |
-| [matlab](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-matlab) | K-Dense-AI | ⭐ 7.7k | Provides MATLAB/Octave script generation for matri... |
-| [fda-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-fda-database) | K-Dense-AI | ⭐ 7.7k | This skill provides Python-based access to the FDA... |
-| [geo-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-geo-database) | K-Dense-AI | ⭐ 7.7k | Provides programmatic access to NCBI GEO database ... |
-| [scientific-schematics](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scientific-schematics) | K-Dense-AI | ⭐ 7.7k | Generates scientific diagrams for publications usi... |
-| [scikit-bio](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scikit-bio) | K-Dense-AI | ⭐ 7.7k | This skill provides access to scikit-bio, a Python... |
-| [biorxiv-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-biorxiv-database) | K-Dense-AI | ⭐ 7.7k | This skill provides Python tools to search and ret... |
-| [gene-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-gene-database) | K-Dense-AI | ⭐ 7.7k | This skill provides Python scripts to query NCBI's... |
-| [hypogenic](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-hypogenic) | K-Dense-AI | ⭐ 7.7k | Automates hypothesis generation and testing from t... |
-| [cellxgene-census](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-cellxgene-census) | K-Dense-AI | ⭐ 7.7k | This skill provides programmatic access to the CEL... |
-| [alphafold-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-alphafold-database) | K-Dense-AI | ⭐ 7.7k | This skill provides direct access to AlphaFold's d... |
+| [neuropixels-analysis](https://www.skillhub.club/skill/davila7-claude-code-templates-neuropixels-analysis) | davila7 | ⭐ 19.3k | Provides a complete pipeline for analyzing Neuropi... |
+| [brenda-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-brenda-database) | K-Dense-AI | ⭐ 7.8k | Provides programmatic access to the BRENDA enzyme ... |
+| [matchms](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-matchms) | K-Dense-AI | ⭐ 7.8k | Provides mass spectrometry data processing for met... |
+| [pymatgen](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pymatgen) | K-Dense-AI | ⭐ 7.8k | Provides comprehensive access to pymatgen's materi... |
+| [statistical-analysis](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-statistical-analysis) | K-Dense-AI | ⭐ 7.8k | This skill guides users through selecting appropri... |
+| [paper-2-web](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-paper-2-web) | K-Dense-AI | ⭐ 7.8k | Converts academic papers (LaTeX/PDF) into websites... |
+| [astropy](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-astropy) | K-Dense-AI | ⭐ 7.8k | Provides comprehensive Python tools for astronomy ... |
+| [rdkit](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-rdkit) | K-Dense-AI | ⭐ 7.8k | This skill provides guidance for using RDKit, a ch... |
+| [hmdb-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-hmdb-database) | K-Dense-AI | ⭐ 7.8k | Provides access to the Human Metabolome Database w... |
+| [adaptyv](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-adaptyv) | K-Dense-AI | ⭐ 7.8k | This Skill connects Claude to Adaptyv's cloud lab ... |
+| [opentargets-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-opentargets-database) | K-Dense-AI | ⭐ 7.8k | Provides GraphQL API access to Open Targets Platfo... |
+| [hypothesis-generation](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-hypothesis-generation) | K-Dense-AI | ⭐ 7.8k | This skill provides a structured workflow for gene... |
+| [ensembl-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-ensembl-database) | K-Dense-AI | ⭐ 7.8k | This skill provides direct access to the Ensembl g... |
+| [cellxgene-census](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-cellxgene-census) | K-Dense-AI | ⭐ 7.8k | This skill provides programmatic access to the CEL... |
+| [alphafold-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-alphafold-database) | K-Dense-AI | ⭐ 7.8k | This skill provides direct access to AlphaFold's d... |
+| [biopython](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-biopython) | K-Dense-AI | ⭐ 7.8k | This skill wraps the Biopython library for computa... |
+| [scientific-schematics](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scientific-schematics) | K-Dense-AI | ⭐ 7.8k | Generates scientific diagrams for publications usi... |
+| [latex-posters](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-latex-posters) | K-Dense-AI | ⭐ 7.8k | Provides detailed guidance for creating LaTeX rese... |
+| [fda-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-fda-database) | K-Dense-AI | ⭐ 7.8k | This skill provides Python-based access to the FDA... |
+| [drugbank-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-drugbank-database) | K-Dense-AI | ⭐ 7.8k | Provides programmatic access to DrugBank, a major ... |
+| [biomni](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-biomni) | K-Dense-AI | ⭐ 7.8k | Biomni is an autonomous AI agent framework for bio... |
+| [clinical-decision-support](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-clinical-decision-support) | K-Dense-AI | ⭐ 7.8k | Generates LaTeX/PDF clinical decision support docu... |
+| [clinpgx-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-clinpgx-database) | K-Dense-AI | ⭐ 7.8k | Provides programmatic access to the ClinPGx databa... |
+| [geo-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-geo-database) | K-Dense-AI | ⭐ 7.8k | Provides programmatic access to NCBI GEO database ... |
+| [string-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-string-database) | K-Dense-AI | ⭐ 7.8k | This skill provides Python functions to query the ... |
+| [hypogenic](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-hypogenic) | K-Dense-AI | ⭐ 7.8k | Automates hypothesis generation and testing from t... |
+| [literature-review](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-literature-review) | K-Dense-AI | ⭐ 7.8k | This skill automates systematic literature reviews... |
+| [scientific-brainstorming](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scientific-brainstorming) | K-Dense-AI | ⭐ 7.8k | A structured conversation guide for scientific bra... |
+| [openalex-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-openalex-database) | K-Dense-AI | ⭐ 7.8k | Provides Python tools to query OpenAlex's 240M+ sc... |
+| [neuropixels-analysis](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-neuropixels-analysis) | K-Dense-AI | ⭐ 7.8k | This skill provides a complete pipeline for analyz... |
 
-<div align="right"><a href="https://www.skillhub.club/skills?category=research">View all 64 →</a></div>
+<div align="right"><a href="https://www.skillhub.club/skills?category=research">View all 62 →</a></div>
 
 ---
 
@@ -167,36 +167,36 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [nano-banana-pro](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-banana-pro) | clawdbot | ⭐ 144.6k | A CLI wrapper for Google's Gemini 3 Pro Image API ... |
-| [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 144.6k | A Python script that generates multiple images usi... |
-| [agent-builder](https://www.skillhub.club/skill/shareai-lab-learn-claude-code-agent-builder) | shareAI-lab | ⭐ 16.0k | A scaffolding tool that generates working AI agent... |
-| [flow-nexus-neural](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-neural) | ruvnet | ⭐ 13.5k | A comprehensive Skill for distributed neural netwo... |
-| [agentdb-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-advanced) | ruvnet | ⭐ 13.5k | A comprehensive skill covering advanced AgentDB fe... |
-| [swarm-orchestration](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-orchestration) | ruvnet | ⭐ 13.5k | This skill enables coordination of multiple AI age... |
-| [agentdb-vector-search](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-vector-search) | ruvnet | ⭐ 13.5k | Provides vector search capabilities for AgentDB wi... |
-| [agentdb-memory-patterns](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-memory-patterns) | ruvnet | ⭐ 13.5k | A comprehensive memory management system for AI ag... |
-| [reasoningbank-intelligence](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-intelligence) | ruvnet | ⭐ 13.5k | This skill implements an adaptive learning system ... |
-| [agentdb-learning](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-learning) | ruvnet | ⭐ 13.5k | A comprehensive reinforcement learning toolkit for... |
-| [reasoningbank-agentdb](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-agentdb) | ruvnet | ⭐ 13.4k | This skill integrates AgentDB's high-performance v... |
-| [book-sft-pipeline](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-book-sft-pipeline) | muratcankoylan | ⭐ 8.0k | A comprehensive pipeline for creating SFT datasets... |
-| [bdi-mental-states](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-bdi-mental-states) | muratcankoylan | ⭐ 8.0k | A sophisticated skill for implementing BDI cogniti... |
-| [context-fundamentals](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-context-fundamentals) | muratcankoylan | ⭐ 8.0k | Provides foundational knowledge for designing and ... |
-| [context-degradation](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-context-degradation) | muratcankoylan | ⭐ 8.0k | This skill provides patterns for diagnosing and fi... |
-| [memory-systems](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-memory-systems) | muratcankoylan | ⭐ 8.0k | This skill provides a structured guide for impleme... |
-| [aeon](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-aeon) | K-Dense-AI | ⭐ 7.7k | This skill provides a scikit-learn compatible Pyth... |
-| [scikit-survival](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scikit-survival) | K-Dense-AI | ⭐ 7.7k | Provides scikit-survival integration for survival ... |
-| [molfeat](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-molfeat) | K-Dense-AI | ⭐ 7.7k | Molfeat provides a unified Python interface for co... |
-| [histolab](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-histolab) | K-Dense-AI | ⭐ 7.7k | A Python library for processing whole slide images... |
-| [arboreto](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-arboreto) | K-Dense-AI | ⭐ 7.7k | A Python library for inferring gene regulatory net... |
-| [pytorch-lightning](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pytorch-lightning) | K-Dense-AI | ⭐ 7.7k | Provides structured templates and best practices f... |
-| [geniml](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-geniml) | K-Dense-AI | ⭐ 7.7k | A Python package for applying machine learning to ... |
-| [pennylane](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pennylane) | K-Dense-AI | ⭐ 7.7k | This skill provides guidance for using PennyLane, ... |
-| [stable-baselines3](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-stable-baselines3) | K-Dense-AI | ⭐ 7.7k | Provides guidance for using Stable Baselines3, a P... |
-| [perplexity-search](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-perplexity-search) | K-Dense-AI | ⭐ 7.7k | Provides access to Perplexity's AI-powered web sea... |
-| [datamol](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-datamol) | K-Dense-AI | ⭐ 7.7k | Provides a simplified Python interface to RDKit fo... |
-| [deepchem](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-deepchem) | K-Dense-AI | ⭐ 7.7k | Provides DeepChem integration for molecular proper... |
-| [pymoo](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pymoo) | K-Dense-AI | ⭐ 7.7k | This skill provides a Python interface to the pymo... |
-| [pydeseq2](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pydeseq2) | K-Dense-AI | ⭐ 7.7k | This skill enables differential gene expression an... |
+| [nano-banana-pro](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-banana-pro) | clawdbot | ⭐ 152.9k | A CLI wrapper for Google's Gemini 3 Pro Image API ... |
+| [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 152.7k | A Python script that generates multiple images usi... |
+| [agent-builder](https://www.skillhub.club/skill/shareai-lab-learn-claude-code-agent-builder) | shareAI-lab | ⭐ 16.2k | A scaffolding tool that generates working AI agent... |
+| [flow-nexus-neural](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-neural) | ruvnet | ⭐ 13.6k | A comprehensive Skill for distributed neural netwo... |
+| [swarm-orchestration](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-orchestration) | ruvnet | ⭐ 13.6k | This skill enables coordination of multiple AI age... |
+| [agentdb-memory-patterns](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-memory-patterns) | ruvnet | ⭐ 13.6k | A comprehensive memory management system for AI ag... |
+| [reasoningbank-agentdb](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-agentdb) | ruvnet | ⭐ 13.6k | This skill integrates AgentDB's high-performance v... |
+| [agentdb-vector-search](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-vector-search) | ruvnet | ⭐ 13.6k | Provides vector search capabilities for AgentDB wi... |
+| [reasoningbank-intelligence](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-intelligence) | ruvnet | ⭐ 13.6k | This skill implements an adaptive learning system ... |
+| [agentdb-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-advanced) | ruvnet | ⭐ 13.6k | A comprehensive skill covering advanced AgentDB fe... |
+| [agentdb-learning](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-learning) | ruvnet | ⭐ 13.6k | A comprehensive reinforcement learning toolkit for... |
+| [context-fundamentals](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-context-fundamentals) | muratcankoylan | ⭐ 8.1k | Provides foundational knowledge for designing and ... |
+| [context-degradation](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-context-degradation) | muratcankoylan | ⭐ 8.1k | This skill provides patterns for diagnosing and fi... |
+| [book-sft-pipeline](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-book-sft-pipeline) | muratcankoylan | ⭐ 8.1k | A comprehensive pipeline for creating SFT datasets... |
+| [memory-systems](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-memory-systems) | muratcankoylan | ⭐ 8.1k | This skill provides a structured guide for impleme... |
+| [bdi-mental-states](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-bdi-mental-states) | muratcankoylan | ⭐ 8.1k | A sophisticated skill for implementing BDI cogniti... |
+| [scikit-survival](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scikit-survival) | K-Dense-AI | ⭐ 7.8k | Provides scikit-survival integration for survival ... |
+| [aeon](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-aeon) | K-Dense-AI | ⭐ 7.8k | This skill provides a scikit-learn compatible Pyth... |
+| [pytdc](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pytdc) | K-Dense-AI | ⭐ 7.8k | This skill provides access to Therapeutics Data Co... |
+| [shap](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-shap) | K-Dense-AI | ⭐ 7.8k | This skill provides detailed guidance for using SH... |
+| [transformers](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-transformers) | K-Dense-AI | ⭐ 7.8k | This skill provides access to Hugging Face Transfo... |
+| [pytorch-lightning](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pytorch-lightning) | K-Dense-AI | ⭐ 7.8k | Provides structured templates and best practices f... |
+| [pyhealth](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pyhealth) | K-Dense-AI | ⭐ 7.8k | PyHealth provides a specialized toolkit for buildi... |
+| [scvi-tools](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scvi-tools) | K-Dense-AI | ⭐ 7.8k | This skill provides a Python framework for deep ge... |
+| [arboreto](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-arboreto) | K-Dense-AI | ⭐ 7.8k | A Python library for inferring gene regulatory net... |
+| [pathml](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pathml) | K-Dense-AI | ⭐ 7.8k | A Python toolkit for computational pathology workf... |
+| [pufferlib](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pufferlib) | K-Dense-AI | ⭐ 7.8k | PufferLib provides optimized PPO training for rein... |
+| [datamol](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-datamol) | K-Dense-AI | ⭐ 7.8k | Provides a simplified Python interface to RDKit fo... |
+| [molfeat](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-molfeat) | K-Dense-AI | ⭐ 7.8k | Molfeat provides a unified Python interface for co... |
+| [scikit-learn](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scikit-learn) | K-Dense-AI | ⭐ 7.8k | This skill provides detailed guidance for using sc... |
 
 <div align="right"><a href="https://www.skillhub.club/skills?category=ai-ml">View all 44 →</a></div>
 
@@ -204,36 +204,37 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📦 productivity
 
-<sub>26 skills</sub>
+<sub>27 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [blogwatcher](https://www.skillhub.club/skill/clawdbot-clawdbot-blogwatcher) | clawdbot | ⭐ 144.8k | A command-line tool for tracking RSS/Atom feed upd... |
+| [trello](https://www.skillhub.club/skill/clawdbot-clawdbot-trello) | clawdbot | ⭐ 152.9k | Provides curl commands to interact with Trello's R... |
+| [food-order](https://www.skillhub.club/skill/clawdbot-clawdbot-food-order) | clawdbot | ⭐ 152.9k | This Claude Skill automates Foodora order reorderi... |
+| [weather](https://www.skillhub.club/skill/clawdbot-clawdbot-weather) | clawdbot | ⭐ 152.9k | Provides weather data via curl commands using wttr... |
+| [summarize](https://www.skillhub.club/skill/clawdbot-clawdbot-summarize) | clawdbot | ⭐ 152.9k | A CLI tool that summarizes content from URLs, loca... |
+| [things-mac](https://www.skillhub.club/skill/clawdbot-clawdbot-things-mac) | clawdbot | ⭐ 152.9k | This Skill provides CLI access to Things 3 on macO... |
+| [blogwatcher](https://www.skillhub.club/skill/clawdbot-clawdbot-blogwatcher) | clawdbot | ⭐ 152.9k | A command-line tool for tracking RSS/Atom feed upd... |
+| [session-logs](https://www.skillhub.club/skill/clawdbot-clawdbot-session-logs) | clawdbot | ⭐ 152.9k | This skill provides jq-based shell commands to sea... |
+| [bear-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-bear-notes) | clawdbot | ⭐ 152.9k | This skill provides CLI access to Bear notes on ma... |
+| [gifgrep](https://www.skillhub.club/skill/clawdbot-clawdbot-gifgrep) | clawdbot | ⭐ 152.8k | A CLI/TUI tool for searching GIFs from Tenor and G... |
+| [apple-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-notes) | clawdbot | ⭐ 152.8k | This skill wraps the 'memo' CLI tool to manage App... |
+| [video-frames](https://www.skillhub.club/skill/clawdbot-clawdbot-video-frames) | clawdbot | ⭐ 152.8k | A simple wrapper around ffmpeg to extract single f... |
+| [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 152.7k | This skill uses nano-pdf to edit PDF pages via nat... |
+| [obsidian](https://www.skillhub.club/skill/clawdbot-clawdbot-obsidian) | clawdbot | ⭐ 152.7k | This Skill provides CLI access to Obsidian vaults ... |
+| [gog](https://www.skillhub.club/skill/clawdbot-clawdbot-gog) | clawdbot | ⭐ 152.7k | A CLI tool for interacting with Google Workspace s... |
+| [ordercli](https://www.skillhub.club/skill/clawdbot-clawdbot-ordercli) | clawdbot | ⭐ 152.7k | A CLI tool for Foodora that lets users check past ... |
+| [apple-reminders](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | ⭐ 152.7k | This skill provides terminal access to Apple Remin... |
 | [spotify-player](https://www.skillhub.club/skill/clawdbot-clawdbot-spotify-player) | clawdbot | ⭐ 144.8k | This skill provides terminal-based Spotify control... |
-| [trello](https://www.skillhub.club/skill/clawdbot-clawdbot-trello) | clawdbot | ⭐ 144.6k | Provides curl commands to interact with Trello's R... |
-| [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 144.6k | This skill uses nano-pdf to edit PDF pages via nat... |
-| [food-order](https://www.skillhub.club/skill/clawdbot-clawdbot-food-order) | clawdbot | ⭐ 144.6k | This Claude Skill automates Foodora order reorderi... |
-| [gog](https://www.skillhub.club/skill/clawdbot-clawdbot-gog) | clawdbot | ⭐ 144.6k | A CLI tool for interacting with Google Workspace s... |
-| [session-logs](https://www.skillhub.club/skill/clawdbot-clawdbot-session-logs) | clawdbot | ⭐ 144.6k | This skill provides jq-based shell commands to sea... |
-| [bear-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-bear-notes) | clawdbot | ⭐ 144.6k | This skill provides CLI access to Bear notes on ma... |
-| [weather](https://www.skillhub.club/skill/clawdbot-clawdbot-weather) | clawdbot | ⭐ 144.5k | Provides weather data via curl commands using wttr... |
-| [obsidian](https://www.skillhub.club/skill/clawdbot-clawdbot-obsidian) | clawdbot | ⭐ 144.5k | This Skill provides CLI access to Obsidian vaults ... |
-| [video-frames](https://www.skillhub.club/skill/clawdbot-clawdbot-video-frames) | clawdbot | ⭐ 144.3k | A simple wrapper around ffmpeg to extract single f... |
-| [gifgrep](https://www.skillhub.club/skill/clawdbot-clawdbot-gifgrep) | clawdbot | ⭐ 144.3k | A CLI/TUI tool for searching GIFs from Tenor and G... |
-| [apple-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-notes) | clawdbot | ⭐ 144.3k | This skill wraps the 'memo' CLI tool to manage App... |
-| [ordercli](https://www.skillhub.club/skill/clawdbot-clawdbot-ordercli) | clawdbot | ⭐ 144.0k | A CLI tool for Foodora that lets users check past ... |
-| [apple-reminders](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | ⭐ 143.9k | This skill provides terminal access to Apple Remin... |
-| [things-mac](https://www.skillhub.club/skill/clawdbot-clawdbot-things-mac) | clawdbot | ⭐ 134.1k | This Skill provides CLI access to Things 3 on macO... |
-| [summarize](https://www.skillhub.club/skill/clawdbot-clawdbot-summarize) | clawdbot | ⭐ 133.9k | A CLI tool that summarizes content from URLs, loca... |
-| [docx](https://www.skillhub.club/skill/anthropics-skills-docx) | anthropics | ⭐ 60.5k | This skill provides tools for creating, editing, a... |
-| [agent-memory](https://www.skillhub.club/skill/yamadashy-repomix-agent-memory) | yamadashy | ⭐ 21.6k | A file-based memory system for Claude that stores ... |
-| [doc-coauthoring](https://www.skillhub.club/skill/davila7-claude-code-templates-doc-coauthoring) | davila7 | ⭐ 19.2k | Guides users through a three-stage process for cre... |
-| [.claude](https://www.skillhub.club/skill/thedotmack-claude-mem-claude) | thedotmack | ⭐ 16.8k | This Skill adds memory functionality to Claude by ... |
-| [handoff](https://www.skillhub.club/skill/steveyegge-beads-handoff) | steveyegge | ⭐ 13.8k | A tool that transfers work to a new Claude session... |
-| [json-canvas](https://www.skillhub.club/skill/kepano-obsidian-skills-json-canvas) | kepano | ⭐ 8.9k | This skill enables Claude to create and edit JSON ... |
-| [xlsx](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-xlsx) | K-Dense-AI | ⭐ 7.7k | A spreadsheet toolkit for creating, editing, and a... |
-| [pdf](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pdf) | K-Dense-AI | ⭐ 7.7k | This skill provides Python and command-line recipe... |
-| [pptx](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pptx) | K-Dense-AI | ⭐ 7.7k | This skill enables programmatic PowerPoint creatio... |
+| [docx](https://www.skillhub.club/skill/anthropics-skills-docx) | anthropics | ⭐ 61.3k | This skill provides tools for creating, editing, a... |
+| [agent-memory](https://www.skillhub.club/skill/yamadashy-repomix-agent-memory) | yamadashy | ⭐ 21.7k | A file-based memory system for Claude that stores ... |
+| [doc-coauthoring](https://www.skillhub.club/skill/davila7-claude-code-templates-doc-coauthoring) | davila7 | ⭐ 19.3k | Guides users through a three-stage process for cre... |
+| [.claude](https://www.skillhub.club/skill/thedotmack-claude-mem-claude) | thedotmack | ⭐ 18.4k | This Skill adds memory functionality to Claude by ... |
+| [handoff](https://www.skillhub.club/skill/steveyegge-beads-handoff) | steveyegge | ⭐ 14.4k | A tool that transfers work to a new Claude session... |
+| [json-canvas](https://www.skillhub.club/skill/kepano-obsidian-skills-json-canvas) | kepano | ⭐ 9.0k | This skill enables Claude to create and edit JSON ... |
+| [handoff](https://www.skillhub.club/skill/steveyegge-gastown-handoff) | steveyegge | ⭐ 7.8k | A tool for cycling Claude sessions while preservin... |
+| [pptx](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pptx) | K-Dense-AI | ⭐ 7.8k | This skill enables programmatic PowerPoint creatio... |
+| [xlsx](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-xlsx) | K-Dense-AI | ⭐ 7.8k | A spreadsheet toolkit for creating, editing, and a... |
+| [pdf](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pdf) | K-Dense-AI | ⭐ 7.8k | This skill provides Python and command-line recipe... |
 
 
 
@@ -241,26 +242,27 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📊 Data & Analytics
 
-<sub>16 skills</sub>
+<sub>17 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 144.9k | This skill wraps the songsee CLI tool to generate ... |
-| [datacommons-client](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-datacommons-client) | K-Dense-AI | ⭐ 7.7k | Provides a Python client for accessing Data Common... |
-| [deeptools](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-deeptools) | K-Dense-AI | ⭐ 7.7k | This skill provides a comprehensive interface to d... |
-| [anndata](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-anndata) | K-Dense-AI | ⭐ 7.7k | This skill provides comprehensive guidance for wor... |
-| [gtars](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-gtars) | K-Dense-AI | ⭐ 7.7k | A Rust-based toolkit for genomic interval analysis... |
-| [seaborn](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-seaborn) | K-Dense-AI | ⭐ 7.7k | This skill provides comprehensive guidance for usi... |
-| [plotly](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-plotly) | K-Dense-AI | ⭐ 7.7k | Provides comprehensive guidance for using Plotly, ... |
-| [vaex](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-vaex) | K-Dense-AI | ⭐ 7.7k | This skill provides access to Vaex, a Python libra... |
-| [lamindb](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-lamindb) | K-Dense-AI | ⭐ 7.7k | Provides guidance for using LaminDB, an open-sourc... |
-| [ena-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-ena-database) | K-Dense-AI | ⭐ 7.7k | This skill provides programmatic access to the Eur... |
-| [exploratory-data-analysis](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-exploratory-data-analysis) | K-Dense-AI | ⭐ 7.7k | This skill claims to provide exploratory data anal... |
-| [pydicom](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pydicom) | K-Dense-AI | ⭐ 7.7k | Provides guidance for using pydicom to read, write... |
-| [geopandas](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-geopandas) | K-Dense-AI | ⭐ 7.7k | This Skill provides comprehensive documentation fo... |
-| [networkx](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-networkx) | K-Dense-AI | ⭐ 7.7k | This skill provides access to the NetworkX Python ... |
-| [polars](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-polars) | K-Dense-AI | ⭐ 7.7k | This skill provides comprehensive guidance for usi... |
-| [dask](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-dask) | K-Dense-AI | ⭐ 7.7k | Provides Dask integration for scaling pandas/NumPy... |
+| [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 152.9k | This skill wraps the songsee CLI tool to generate ... |
+| [lamindb](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-lamindb) | K-Dense-AI | ⭐ 7.8k | Provides guidance for using LaminDB, an open-sourc... |
+| [plotly](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-plotly) | K-Dense-AI | ⭐ 7.8k | Provides comprehensive guidance for using Plotly, ... |
+| [vaex](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-vaex) | K-Dense-AI | ⭐ 7.8k | This skill provides access to Vaex, a Python libra... |
+| [datacommons-client](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-datacommons-client) | K-Dense-AI | ⭐ 7.8k | Provides a Python client for accessing Data Common... |
+| [deeptools](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-deeptools) | K-Dense-AI | ⭐ 7.8k | This skill provides a comprehensive interface to d... |
+| [zarr-python](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-zarr-python) | K-Dense-AI | ⭐ 7.8k | This skill provides comprehensive guidance for usi... |
+| [polars](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-polars) | K-Dense-AI | ⭐ 7.8k | This skill provides comprehensive guidance for usi... |
+| [gtars](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-gtars) | K-Dense-AI | ⭐ 7.8k | A Rust-based toolkit for genomic interval analysis... |
+| [seaborn](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-seaborn) | K-Dense-AI | ⭐ 7.8k | This skill provides comprehensive guidance for usi... |
+| [dask](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-dask) | K-Dense-AI | ⭐ 7.8k | Provides Dask integration for scaling pandas/NumPy... |
+| [ena-database](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-ena-database) | K-Dense-AI | ⭐ 7.8k | This skill provides programmatic access to the Eur... |
+| [exploratory-data-analysis](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-exploratory-data-analysis) | K-Dense-AI | ⭐ 7.8k | This skill claims to provide exploratory data anal... |
+| [flowio](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-flowio) | K-Dense-AI | ⭐ 7.8k | FlowIO is a Python library for reading and writing... |
+| [geopandas](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-geopandas) | K-Dense-AI | ⭐ 7.8k | This Skill provides comprehensive documentation fo... |
+| [pydicom](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-pydicom) | K-Dense-AI | ⭐ 7.8k | Provides guidance for using pydicom to read, write... |
+| [networkx](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-networkx) | K-Dense-AI | ⭐ 7.8k | This skill provides access to the NetworkX Python ... |
 
 
 
@@ -272,22 +274,22 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [camsnap](https://www.skillhub.club/skill/clawdbot-clawdbot-camsnap) | clawdbot | ⭐ 144.6k | This skill provides command-line access to RTSP/ON... |
-| [model-usage](https://www.skillhub.club/skill/clawdbot-clawdbot-model-usage) | clawdbot | ⭐ 144.5k | This skill extracts per-model cost data from Codex... |
-| [tmux](https://www.skillhub.club/skill/clawdbot-clawdbot-tmux) | clawdbot | ⭐ 144.2k | This skill enables remote control of tmux sessions... |
-| [skill-installer](https://www.skillhub.club/skill/openai-codex-skill-installer) | openai | ⭐ 58.4k | This skill installs Codex skills from GitHub repos... |
+| [model-usage](https://www.skillhub.club/skill/clawdbot-clawdbot-model-usage) | clawdbot | ⭐ 152.9k | This skill extracts per-model cost data from Codex... |
+| [camsnap](https://www.skillhub.club/skill/clawdbot-clawdbot-camsnap) | clawdbot | ⭐ 152.9k | This skill provides command-line access to RTSP/ON... |
+| [tmux](https://www.skillhub.club/skill/clawdbot-clawdbot-tmux) | clawdbot | ⭐ 152.7k | This skill enables remote control of tmux sessions... |
+| [skill-installer](https://www.skillhub.club/skill/openai-codex-skill-installer) | openai | ⭐ 58.6k | This skill installs Codex skills from GitHub repos... |
 | [analyze-ci](https://www.skillhub.club/skill/mlflow-mlflow-analyze-ci) | mlflow | ⭐ 23.9k | This skill analyzes failed GitHub Action jobs for ... |
-| [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 13.5k | This skill automates GitHub release workflows usin... |
+| [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 13.6k | This skill automates GitHub release workflows usin... |
+| [verification-quality](https://www.skillhub.club/skill/ruvnet-claude-code-flow-verification-quality) | ruvnet | ⭐ 13.6k | Provides automated code quality verification with ... |
+| [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-advanced) | ruvnet | ⭐ 13.6k | A comprehensive advanced swarm orchestration skill... |
+| [github-project-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-project-management) | ruvnet | ⭐ 13.6k | An ambitious GitHub project management skill that ... |
+| [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-workflow-automation) | ruvnet | ⭐ 13.6k | This skill provides GitHub Actions automation with... |
+| [agentic-jujutsu](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentic-jujutsu) | ruvnet | ⭐ 13.6k | A version control wrapper that enables multiple AI... |
+| [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 13.6k | A CLI tool for analyzing Claude Flow swarm perform... |
+| [flow-nexus-swarm](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-swarm) | ruvnet | ⭐ 13.6k | A comprehensive cloud-based AI swarm orchestration... |
+| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-multi-repo) | ruvnet | ⭐ 13.6k | This skill orchestrates changes across multiple Gi... |
 | [agentdb-optimization](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-optimization) | ruvnet | ⭐ 13.5k | Provides concrete optimization techniques for Agen... |
-| [agentic-jujutsu](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentic-jujutsu) | ruvnet | ⭐ 13.5k | A version control wrapper that enables multiple AI... |
-| [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-workflow-automation) | ruvnet | ⭐ 13.5k | This skill provides GitHub Actions automation with... |
-| [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-advanced) | ruvnet | ⭐ 13.5k | A comprehensive advanced swarm orchestration skill... |
-| [github-project-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-project-management) | ruvnet | ⭐ 13.5k | An ambitious GitHub project management skill that ... |
-| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-multi-repo) | ruvnet | ⭐ 13.5k | This skill orchestrates changes across multiple Gi... |
-| [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 13.5k | A CLI tool for analyzing Claude Flow swarm perform... |
-| [flow-nexus-swarm](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-swarm) | ruvnet | ⭐ 13.5k | A comprehensive cloud-based AI swarm orchestration... |
-| [verification-quality](https://www.skillhub.club/skill/ruvnet-claude-code-flow-verification-quality) | ruvnet | ⭐ 13.4k | Provides automated code quality verification with ... |
-| [get-available-resources](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-get-available-resources) | K-Dense-AI | ⭐ 7.7k | Detects CPU, GPU, memory, and disk resources to pr... |
+| [get-available-resources](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-get-available-resources) | K-Dense-AI | ⭐ 7.8k | Detects CPU, GPU, memory, and disk resources to pr... |
 
 
 
@@ -299,20 +301,20 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [clawdhub](https://www.skillhub.club/skill/clawdbot-clawdbot-clawdhub) | clawdbot | ⭐ 144.8k | A CLI tool for managing Claude Skills from clawdhu... |
-| [skill-creator](https://www.skillhub.club/skill/langgenius-dify-skill-creator) | langgenius | ⭐ 128.4k | Provides detailed guidance for creating Claude Ski... |
-| [Skill Development](https://www.skillhub.club/skill/anthropics-claude-code-skill-development) | anthropics | ⭐ 63.1k | A comprehensive meta-skill providing clear guideli... |
-| [Agent Development](https://www.skillhub.club/skill/anthropics-claude-code-agent-development) | anthropics | ⭐ 63.1k | Comprehensive guide for creating Claude Code agent... |
-| [Plugin Structure](https://www.skillhub.club/skill/anthropics-claude-code-plugin-structure) | anthropics | ⭐ 63.1k | Provides clear guidelines for structuring Claude C... |
-| [template](https://www.skillhub.club/skill/anthropics-skills-template) | anthropics | ⭐ 60.5k | A minimal template skill with placeholder content,... |
-| [skill-creator](https://www.skillhub.club/skill/openai-codex-skill-creator) | openai | ⭐ 58.3k | Provides guidance and templates for creating Claud... |
+| [clawdhub](https://www.skillhub.club/skill/clawdbot-clawdbot-clawdhub) | clawdbot | ⭐ 152.9k | A CLI tool for managing Claude Skills from clawdhu... |
+| [skill-creator](https://www.skillhub.club/skill/langgenius-dify-skill-creator) | langgenius | ⭐ 128.5k | Provides detailed guidance for creating Claude Ski... |
+| [Skill Development](https://www.skillhub.club/skill/anthropics-claude-code-skill-development) | anthropics | ⭐ 63.4k | A comprehensive meta-skill providing clear guideli... |
+| [Agent Development](https://www.skillhub.club/skill/anthropics-claude-code-agent-development) | anthropics | ⭐ 63.4k | Comprehensive guide for creating Claude Code agent... |
+| [Plugin Structure](https://www.skillhub.club/skill/anthropics-claude-code-plugin-structure) | anthropics | ⭐ 63.4k | Provides clear guidelines for structuring Claude C... |
+| [template](https://www.skillhub.club/skill/anthropics-skills-template) | anthropics | ⭐ 61.3k | A minimal template skill with placeholder content,... |
+| [skill-creator](https://www.skillhub.club/skill/openai-codex-skill-creator) | openai | ⭐ 58.6k | Provides guidance and templates for creating Claud... |
 | [skill-creator](https://www.skillhub.club/skill/tldraw-tldraw-skill-creator) | tldraw | ⭐ 45.0k | A meta-skill that provides structured guidance and... |
-| [writing-skills](https://www.skillhub.club/skill/obra-superpowers-writing-skills) | obra | ⭐ 42.0k | Applies Test-Driven Development methodology to cre... |
+| [writing-skills](https://www.skillhub.club/skill/obra-superpowers-writing-skills) | obra | ⭐ 42.8k | Applies Test-Driven Development methodology to cre... |
 | [skill-developer](https://www.skillhub.club/skill/langfuse-langfuse-skill-developer) | langfuse | ⭐ 21.4k | A meta-skill for creating and managing other Claud... |
-| [skill-builder](https://www.skillhub.club/skill/ruvnet-claude-code-flow-skill-builder) | ruvnet | ⭐ 13.5k | This skill provides detailed guidance for creating... |
-| [hive-mind-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-hive-mind-advanced) | ruvnet | ⭐ 13.5k | This skill implements a queen-worker multi-agent s... |
-| [template](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-template) | muratcankoylan | ⭐ 8.0k | A well-structured template for creating Claude Ski... |
-| [offer-k-dense-web](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-offer-k-dense-web) | K-Dense-AI | ⭐ 7.7k | This skill functions as a persistent advertisement... |
+| [skill-builder](https://www.skillhub.club/skill/ruvnet-claude-code-flow-skill-builder) | ruvnet | ⭐ 13.6k | This skill provides detailed guidance for creating... |
+| [hive-mind-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-hive-mind-advanced) | ruvnet | ⭐ 13.6k | This skill implements a queen-worker multi-agent s... |
+| [template](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-template) | muratcankoylan | ⭐ 8.1k | A well-structured template for creating Claude Ski... |
+| [offer-k-dense-web](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-offer-k-dense-web) | K-Dense-AI | ⭐ 7.8k | This skill functions as a persistent advertisement... |
 
 
 
@@ -324,19 +326,19 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [sonoscli](https://www.skillhub.club/skill/clawdbot-clawdbot-sonoscli) | clawdbot | ⭐ 144.6k | This Skill provides CLI access to control Sonos sp... |
-| [openhue](https://www.skillhub.club/skill/clawdbot-clawdbot-openhue) | clawdbot | ⭐ 144.6k | This skill provides Claude access to the OpenHue C... |
-| [local-places](https://www.skillhub.club/skill/clawdbot-clawdbot-local-places) | clawdbot | ⭐ 144.5k | Provides a local HTTP proxy for Google Places API ... |
-| [eightctl](https://www.skillhub.club/skill/clawdbot-clawdbot-eightctl) | clawdbot | ⭐ 144.3k | This skill provides CLI control for Eight Sleep sm... |
+| [openhue](https://www.skillhub.club/skill/clawdbot-clawdbot-openhue) | clawdbot | ⭐ 152.9k | This skill provides Claude access to the OpenHue C... |
+| [local-places](https://www.skillhub.club/skill/clawdbot-clawdbot-local-places) | clawdbot | ⭐ 152.8k | Provides a local HTTP proxy for Google Places API ... |
+| [sonoscli](https://www.skillhub.club/skill/clawdbot-clawdbot-sonoscli) | clawdbot | ⭐ 152.7k | This Skill provides CLI access to control Sonos sp... |
+| [eightctl](https://www.skillhub.club/skill/clawdbot-clawdbot-eightctl) | clawdbot | ⭐ 152.7k | This skill provides CLI control for Eight Sleep sm... |
+| [blucli](https://www.skillhub.club/skill/clawdbot-clawdbot-blucli) | clawdbot | ⭐ 152.7k | A CLI wrapper for controlling Bluesound/NAD audio ... |
 | [bluebubbles](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | ⭐ 144.2k | This skill provides instructions for building a Bl... |
-| [blucli](https://www.skillhub.club/skill/clawdbot-clawdbot-blucli) | clawdbot | ⭐ 144.0k | A CLI wrapper for controlling Bluesound/NAD audio ... |
-| [MCP Integration](https://www.skillhub.club/skill/anthropics-claude-code-mcp-integration) | anthropics | ⭐ 63.1k | Comprehensive guide for integrating MCP servers in... |
-| [connect](https://www.skillhub.club/skill/composiohq-awesome-claude-skills-connect) | ComposioHQ | ⭐ 29.0k | This skill connects Claude to 1000+ external apps ... |
-| [zapier-workflows](https://www.skillhub.club/skill/davila7-claude-code-templates-zapier-workflows) | davila7 | ⭐ 19.2k | This skill bridges Zapier's MCP tools with webhook... |
-| [omero-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-omero-integration) | K-Dense-AI | ⭐ 7.7k | This skill provides a Python-based interface to OM... |
-| [benchling-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-benchling-integration) | K-Dense-AI | ⭐ 7.7k | Provides Python SDK integration for Benchling's li... |
-| [opentrons-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-opentrons-integration) | K-Dense-AI | ⭐ 7.7k | Provides direct access to Opentrons Protocol API v... |
-| [labarchive-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-labarchive-integration) | K-Dense-AI | ⭐ 7.7k | This skill provides programmatic access to LabArch... |
+| [MCP Integration](https://www.skillhub.club/skill/anthropics-claude-code-mcp-integration) | anthropics | ⭐ 63.4k | Comprehensive guide for integrating MCP servers in... |
+| [connect](https://www.skillhub.club/skill/composiohq-awesome-claude-skills-connect) | ComposioHQ | ⭐ 29.4k | This skill connects Claude to 1000+ external apps ... |
+| [zapier-workflows](https://www.skillhub.club/skill/davila7-claude-code-templates-zapier-workflows) | davila7 | ⭐ 19.3k | This skill bridges Zapier's MCP tools with webhook... |
+| [omero-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-omero-integration) | K-Dense-AI | ⭐ 7.8k | This skill provides a Python-based interface to OM... |
+| [benchling-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-benchling-integration) | K-Dense-AI | ⭐ 7.8k | Provides Python SDK integration for Benchling's li... |
+| [labarchive-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-labarchive-integration) | K-Dense-AI | ⭐ 7.8k | This skill provides programmatic access to LabArch... |
+| [opentrons-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-opentrons-integration) | K-Dense-AI | ⭐ 7.8k | Provides direct access to Opentrons Protocol API v... |
 
 
 
@@ -344,7 +346,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📦 documentation
 
-<sub>13 skills</sub>
+<sub>12 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -354,13 +356,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [docs-review](https://www.skillhub.club/skill/metabase-metabase-docs-review) | metabase | ⭐ 45.8k | A well-structured documentation review skill that ... |
 | [docs-write](https://www.skillhub.club/skill/metabase-metabase-docs-write) | metabase | ⭐ 45.8k | This skill provides specific guidelines for writin... |
 | [cookbook-audit](https://www.skillhub.club/skill/anthropics-claude-cookbooks-cookbook-audit) | anthropics | ⭐ 32.3k | This skill audits Anthropic Cookbook notebooks aga... |
-| [website-maintainer](https://www.skillhub.club/skill/yamadashy-repomix-website-maintainer) | yamadashy | ⭐ 21.6k | This skill provides guidance for maintaining a Vit... |
-| [obsidian-markdown](https://www.skillhub.club/skill/kepano-obsidian-skills-obsidian-markdown) | kepano | ⭐ 8.9k | This skill provides a detailed reference for writi... |
-| [docx](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-docx) | K-Dense-AI | ⭐ 7.7k | Provides tools for creating, editing, and analyzin... |
-| [treatment-plans](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-treatment-plans) | K-Dense-AI | ⭐ 7.7k | Generates structured LaTeX/PDF treatment plans for... |
-| [iso-13485-certification](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-iso-13485-certification) | K-Dense-AI | ⭐ 7.7k | Provides structured guidance and templates for cre... |
-| [clinical-reports](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-clinical-reports) | K-Dense-AI | ⭐ 7.7k | This skill generates structured clinical reports f... |
-| [material-component-doc](https://www.skillhub.club/skill/bytedance-flowgram-ai-material-component-doc) | bytedance | ⭐ 7.6k | This skill provides a structured workflow for gene... |
+| [website-maintainer](https://www.skillhub.club/skill/yamadashy-repomix-website-maintainer) | yamadashy | ⭐ 21.7k | This skill provides guidance for maintaining a Vit... |
+| [obsidian-markdown](https://www.skillhub.club/skill/kepano-obsidian-skills-obsidian-markdown) | kepano | ⭐ 9.0k | This skill provides a detailed reference for writi... |
+| [treatment-plans](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-treatment-plans) | K-Dense-AI | ⭐ 7.8k | Generates structured LaTeX/PDF treatment plans for... |
+| [docx](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-docx) | K-Dense-AI | ⭐ 7.8k | Provides tools for creating, editing, and analyzin... |
+| [clinical-reports](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-clinical-reports) | K-Dense-AI | ⭐ 7.8k | This skill generates structured clinical reports f... |
+| [iso-13485-certification](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-iso-13485-certification) | K-Dense-AI | ⭐ 7.8k | Provides structured guidance and templates for cre... |
 
 
 
@@ -372,10 +373,10 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-code-review](https://www.skillhub.club/skill/langgenius-dify-frontend-code-review) | langgenius | ⭐ 128.4k | A specialized tool for reviewing frontend TypeScri... |
-| [frontend-design](https://www.skillhub.club/skill/anthropics-claude-code-frontend-design) | anthropics | ⭐ 63.1k | Generates frontend code with distinctive visual ae... |
-| [frontend-design](https://www.skillhub.club/skill/frontend-design) | anthropics | ⭐ 63.1k | Generates distinctive frontend code with strong ae... |
-| [browser-extension-developer](https://www.skillhub.club/skill/yamadashy-repomix-browser-extension-developer) | yamadashy | ⭐ 21.6k | This skill helps develop browser extensions using ... |
+| [frontend-code-review](https://www.skillhub.club/skill/langgenius-dify-frontend-code-review) | langgenius | ⭐ 128.5k | A specialized tool for reviewing frontend TypeScri... |
+| [frontend-design](https://www.skillhub.club/skill/anthropics-claude-code-frontend-design) | anthropics | ⭐ 63.4k | Generates frontend code with distinctive visual ae... |
+| [frontend-design](https://www.skillhub.club/skill/frontend-design) | anthropics | ⭐ 63.4k | Generates distinctive frontend code with strong ae... |
+| [browser-extension-developer](https://www.skillhub.club/skill/yamadashy-repomix-browser-extension-developer) | yamadashy | ⭐ 21.7k | This skill helps develop browser extensions using ... |
 | [react-email](https://www.skillhub.club/skill/resend-react-email-skills) | resend | ⭐ 18.0k | React Email provides React components for building... |
 | [G2 Legend Expert](https://www.skillhub.club/skill/antvis-g2-g2-legend-expert) | antvis | ⭐ 12.5k | Provides detailed knowledge of G2 chart library's ... |
 
@@ -385,14 +386,30 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📦 communication
 
+<sub>5 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [wacli](https://www.skillhub.club/skill/clawdbot-clawdbot-wacli) | clawdbot | ⭐ 152.9k | This Skill integrates the wacli CLI tool to send W... |
+| [discord](https://www.skillhub.club/skill/clawdbot-clawdbot-discord) | clawdbot | ⭐ 152.9k | This skill provides comprehensive Discord server m... |
+| [slack](https://www.skillhub.club/skill/clawdbot-clawdbot-slack) | clawdbot | ⭐ 152.8k | Provides programmatic control over Slack through C... |
+| [sag](https://www.skillhub.club/skill/clawdbot-clawdbot-sag) | clawdbot | ⭐ 152.7k | A CLI wrapper for ElevenLabs TTS that adds macOS-s... |
+| [scientific-slides](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scientific-slides) | K-Dense-AI | ⭐ 7.8k | This skill helps researchers create scientific pre... |
+
+
+
+---
+
+## 📦 cloud
+
 <sub>4 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [wacli](https://www.skillhub.club/skill/clawdbot-clawdbot-wacli) | clawdbot | ⭐ 144.7k | This Skill integrates the wacli CLI tool to send W... |
-| [slack](https://www.skillhub.club/skill/clawdbot-clawdbot-slack) | clawdbot | ⭐ 144.6k | Provides programmatic control over Slack through C... |
-| [sag](https://www.skillhub.club/skill/clawdbot-clawdbot-sag) | clawdbot | ⭐ 144.1k | A CLI wrapper for ElevenLabs TTS that adds macOS-s... |
-| [discord](https://www.skillhub.club/skill/clawdbot-clawdbot-discord) | clawdbot | ⭐ 144.1k | This skill provides comprehensive Discord server m... |
+| [flow-nexus-platform](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-platform) | ruvnet | ⭐ 13.4k | Provides a unified interface for managing Flow Nex... |
+| [modal](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-modal) | K-Dense-AI | ⭐ 7.8k | This skill enables running Python code in serverle... |
+| [latchbio-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-latchbio-integration) | K-Dense-AI | ⭐ 7.8k | Provides guidance for using Latch, a Python framew... |
+| [dnanexus-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-dnanexus-integration) | K-Dense-AI | ⭐ 7.8k | Provides detailed documentation for using DNAnexus... |
 
 
 
@@ -412,20 +429,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📦 cloud
-
-<sub>3 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [flow-nexus-platform](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-platform) | ruvnet | ⭐ 13.4k | Provides a unified interface for managing Flow Nex... |
-| [latchbio-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-latchbio-integration) | K-Dense-AI | ⭐ 7.7k | Provides guidance for using Latch, a Python framew... |
-| [dnanexus-integration](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-dnanexus-integration) | K-Dense-AI | ⭐ 7.7k | Provides detailed documentation for using DNAnexus... |
-
-
-
----
-
 ## ✍️ Writing
 
 <sub>3 skills</sub>
@@ -433,8 +436,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
 | [woocommerce-copy-guidelines](https://www.skillhub.club/skill/woocommerce-woocommerce-woocommerce-copy-guidelines) | woocommerce | ⭐ 10.2k | Provides clear guidelines for writing user-facing ... |
-| [research-grants](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-research-grants) | K-Dense-AI | ⭐ 7.7k | This skill provides detailed templates and guidanc... |
-| [scientific-writing](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scientific-writing) | K-Dense-AI | ⭐ 7.7k | This skill provides structured LaTeX templates and... |
+| [research-grants](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-research-grants) | K-Dense-AI | ⭐ 7.8k | This skill provides detailed templates and guidanc... |
+| [scientific-writing](https://www.skillhub.club/skill/k-dense-ai-claude-scientific-skills-scientific-writing) | K-Dense-AI | ⭐ 7.8k | This skill provides structured LaTeX templates and... |
 
 
 
@@ -446,7 +449,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 144.1k | Peekaboo is a CLI tool for macOS UI automation tha... |
+| [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 152.9k | Peekaboo is a CLI tool for macOS UI automation tha... |
 | [writing-bundler-tests](https://www.skillhub.club/skill/oven-sh-bun-writing-bundler-tests) | oven-sh | ⭐ 87.0k | Provides detailed guidance for writing bundler tes... |
 
 
@@ -471,19 +474,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-flow-swarm-advanced) | ruvnet | ⭐ 13.5k | Advanced swarm orchestration patterns for research... |
-
-
-
----
-
-## 📦 github
-
-<sub>1 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-flow-github-workflow-automation) | ruvnet | ⭐ 13.5k | Advanced GitHub Actions workflow automation with A... |
+| [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-flow-swarm-advanced) | ruvnet | ⭐ 13.6k | Advanced swarm orchestration patterns for research... |
 
 
 
@@ -495,7 +486,19 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-flow-github-multi-repo) | ruvnet | ⭐ 13.4k | Multi-repository coordination, synchronization, an... |
+| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-flow-github-multi-repo) | ruvnet | ⭐ 13.6k | Multi-repository coordination, synchronization, an... |
+
+
+
+---
+
+## 📦 github
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-flow-github-workflow-automation) | ruvnet | ⭐ 13.6k | Advanced GitHub Actions workflow automation with A... |
 
 
 
@@ -520,6 +523,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-02-02
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-02-03
 
 </div>
