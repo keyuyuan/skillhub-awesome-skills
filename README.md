@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-75644.1k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-02-26-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-76655.1k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-02-27-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 75644.1k |
+| Total GitHub Stars | 76655.1k |
 | Categories | 19 |
-| Last Updated | 2026-02-26 |
+| Last Updated | 2026-02-27 |
 
 ---
 
@@ -44,36 +44,36 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | ⭐ Stars | Rating | Description |
 |-------|--------|---------|--------|-------------|
-| [**fix**](https://www.skillhub.club/skill/facebook-react-fix) | facebook | 243.4k | - | Use when you have lint errors, formatting issues, ... |
-| [**openai-whisper**](https://www.skillhub.club/skill/openclaw-openclaw-openai-whisper) | openclaw | 230.1k | - | Local speech-to-text with the Whisper CLI (no API ... |
-| [**notion**](https://www.skillhub.club/skill/openclaw-openclaw-notion) | openclaw | 230.1k | - | Notion API for creating and managing pages, databa... |
-| [**video-frames**](https://www.skillhub.club/skill/clawdbot-clawdbot-video-frames) | clawdbot | 230.1k | - | A simple wrapper around ffmpeg to extract single f... |
-| [**nano-banana-pro**](https://www.skillhub.club/skill/moltbot-moltbot-nano-banana-pro) | moltbot | 230.0k | - | Generate or edit images via Gemini 3 Pro Image (Na... |
-| [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 230.0k | - | Terminal Spotify playback/search via spogo (prefer... |
-| [**eightctl**](https://www.skillhub.club/skill/molt-bot-clawdbot-eightctl) | molt-bot | 230.0k | - | Control Eight Sleep pods (status, temperature, ala... |
-| [**blucli**](https://www.skillhub.club/skill/moltbot-moltbot-blucli) | moltbot | 230.0k | - | BluOS CLI (blu) for discovery, playback, grouping,... |
-| [**notion**](https://www.skillhub.club/skill/molt-bot-clawdbot-notion) | molt-bot | 230.0k | - | Notion API for creating and managing pages, databa... |
-| [**bear-notes**](https://www.skillhub.club/skill/clawdbot-clawdbot-bear-notes) | clawdbot | 230.0k | - | This skill provides CLI access to Bear notes on ma... |
-| [**blucli**](https://www.skillhub.club/skill/openclaw-openclaw-blucli) | openclaw | 230.0k | - | BluOS CLI (blu) for discovery, playback, grouping,... |
-| [**openhue**](https://www.skillhub.club/skill/clawdbot-clawdbot-openhue) | clawdbot | 230.0k | - | This skill provides Claude access to the OpenHue C... |
-| [**peekaboo**](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | 230.0k | - | Peekaboo is a CLI tool for macOS UI automation tha... |
-| [**github**](https://www.skillhub.club/skill/molt-bot-clawdbot-github) | molt-bot | 230.0k | - | Interact with GitHub using the `gh` CLI. Use `gh i... |
-| [**eightctl**](https://www.skillhub.club/skill/openclaw-openclaw-eightctl) | openclaw | 230.0k | - | Control Eight Sleep pods (status, temperature, ala... |
-| [**obsidian**](https://www.skillhub.club/skill/openclaw-openclaw-obsidian) | openclaw | 230.0k | - | Work with Obsidian vaults (plain Markdown notes) a... |
-| [**songsee**](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | 230.0k | - | This skill wraps the songsee CLI tool to generate ... |
-| [**imsg**](https://www.skillhub.club/skill/molt-bot-clawdbot-imsg) | molt-bot | 230.0k | - | iMessage/SMS CLI for listing chats, history, watch... |
-| [**summarize**](https://www.skillhub.club/skill/moltbot-moltbot-summarize) | moltbot | 230.0k | - | Summarize or extract text/transcripts from URLs, p... |
-| [**summarize**](https://www.skillhub.club/skill/molt-bot-clawdbot-summarize) | molt-bot | 230.0k | - | Summarize or extract text/transcripts from URLs, p... |
-| [**summarize**](https://www.skillhub.club/skill/openclaw-openclaw-summarize) | openclaw | 230.0k | - | Summarize or extract text/transcripts from URLs, p... |
-| [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 230.0k | - |  |
-| [**openai-whisper**](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-whisper) | clawdbot | 230.0k | - | Local speech-to-text with the Whisper CLI (no API ... |
-| [**bluebubbles**](https://www.skillhub.club/skill/moltbot-moltbot-bluebubbles) | moltbot | 230.0k | - | Build or update the BlueBubbles external channel p... |
-| [**spotify-player**](https://www.skillhub.club/skill/clawdbot-clawdbot-spotify-player) | clawdbot | 230.0k | - | This skill provides terminal-based Spotify control... |
-| [**imsg**](https://www.skillhub.club/skill/openclaw-openclaw-imsg) | openclaw | 230.0k | - | iMessage/SMS CLI for listing chats, history, watch... |
-| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 230.0k | - | Manage Trello boards, lists, and cards via the Tre... |
-| [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 230.0k | - | Capture and automate macOS UI with the Peekaboo CL... |
-| [**apple-reminders**](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | 230.0k | - | This skill provides terminal access to Apple Remin... |
-| [**himalaya**](https://www.skillhub.club/skill/molt-bot-clawdbot-himalaya) | molt-bot | 230.0k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
+| [**fix**](https://www.skillhub.club/skill/facebook-react-fix) | facebook | 243.3k | - | Use when you have lint errors, formatting issues, ... |
+| [**openai-whisper**](https://www.skillhub.club/skill/openclaw-openclaw-openai-whisper) | openclaw | 233.8k | - | Local speech-to-text with the Whisper CLI (no API ... |
+| [**notion**](https://www.skillhub.club/skill/openclaw-openclaw-notion) | openclaw | 233.8k | - | Notion API for creating and managing pages, databa... |
+| [**nano-banana-pro**](https://www.skillhub.club/skill/moltbot-moltbot-nano-banana-pro) | moltbot | 233.8k | - | Generate or edit images via Gemini 3 Pro Image (Na... |
+| [**bluebubbles**](https://www.skillhub.club/skill/moltbot-moltbot-bluebubbles) | moltbot | 233.8k | - | Build or update the BlueBubbles external channel p... |
+| [**ordercli**](https://www.skillhub.club/skill/molt-bot-clawdbot-ordercli) | molt-bot | 233.8k | - | Foodora-only CLI for checking past orders and acti... |
+| [**eightctl**](https://www.skillhub.club/skill/molt-bot-clawdbot-eightctl) | molt-bot | 233.8k | - | Control Eight Sleep pods (status, temperature, ala... |
+| [**blucli**](https://www.skillhub.club/skill/moltbot-moltbot-blucli) | moltbot | 233.8k | - | BluOS CLI (blu) for discovery, playback, grouping,... |
+| [**bear-notes**](https://www.skillhub.club/skill/clawdbot-clawdbot-bear-notes) | clawdbot | 233.8k | - | This skill provides CLI access to Bear notes on ma... |
+| [**apple-reminders**](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | 233.8k | - | This skill provides terminal access to Apple Remin... |
+| [**himalaya**](https://www.skillhub.club/skill/molt-bot-clawdbot-himalaya) | molt-bot | 233.8k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
+| [**apple-reminders**](https://www.skillhub.club/skill/moltbot-moltbot-apple-reminders) | moltbot | 233.8k | - | Manage Apple Reminders via the `remindctl` CLI on ... |
+| [**blucli**](https://www.skillhub.club/skill/openclaw-openclaw-blucli) | openclaw | 233.8k | - | BluOS CLI (blu) for discovery, playback, grouping,... |
+| [**imsg**](https://www.skillhub.club/skill/openclaw-openclaw-imsg) | openclaw | 233.8k | - | iMessage/SMS CLI for listing chats, history, watch... |
+| [**eightctl**](https://www.skillhub.club/skill/openclaw-openclaw-eightctl) | openclaw | 233.8k | - | Control Eight Sleep pods (status, temperature, ala... |
+| [**songsee**](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | 233.8k | - | This skill wraps the songsee CLI tool to generate ... |
+| [**imsg**](https://www.skillhub.club/skill/molt-bot-clawdbot-imsg) | molt-bot | 233.8k | - | iMessage/SMS CLI for listing chats, history, watch... |
+| [**imsg**](https://www.skillhub.club/skill/clawdbot-clawdbot-imsg) | clawdbot | 233.8k | - | iMessage/SMS CLI for listing chats, history, watch... |
+| [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 233.8k | - | Search for places (restaurants, cafes, etc.) via G... |
+| [**himalaya**](https://www.skillhub.club/skill/moltbot-moltbot-himalaya) | moltbot | 233.8k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
+| [**bluebubbles**](https://www.skillhub.club/skill/molt-bot-clawdbot-bluebubbles) | molt-bot | 233.8k | - | Build or update the BlueBubbles external channel p... |
+| [**apple-notes**](https://www.skillhub.club/skill/moltbot-moltbot-apple-notes) | moltbot | 233.8k | - | Manage Apple Notes via the `memo` CLI on macOS (cr... |
+| [**weather**](https://www.skillhub.club/skill/moltbot-moltbot-weather) | moltbot | 233.8k | - | Get current weather and forecasts (no API key requ... |
+| [**obsidian**](https://www.skillhub.club/skill/clawdbot-clawdbot-obsidian) | clawdbot | 233.8k | - | This Skill provides CLI access to Obsidian vaults ... |
+| [**openai-whisper-api**](https://www.skillhub.club/skill/molt-bot-clawdbot-openai-whisper-api) | molt-bot | 233.8k | - | Transcribe audio via OpenAI Audio Transcriptions A... |
+| [**prepare-pr**](https://www.skillhub.club/skill/openclaw-openclaw-prepare-pr) | openclaw | 233.8k | - | Prepare a GitHub PR for merge by rebasing onto mai... |
+| [**openai-image-gen**](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | 233.8k | - | A Python script that generates multiple images usi... |
+| [**1password**](https://www.skillhub.club/skill/openclaw-openclaw-1password) | openclaw | 233.8k | - | Set up and use 1Password CLI (op). Use when instal... |
+| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 233.8k | - | Manage Trello boards, lists, and cards via the Tre... |
+| [**video-frames**](https://www.skillhub.club/skill/clawdbot-clawdbot-video-frames) | clawdbot | 233.8k | - | A simple wrapper around ffmpeg to extract single f... |
 
 <div align="right"><a href="https://www.skillhub.club/skills?sort=stars">View all →</a></div>
 
@@ -85,36 +85,36 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [fix](https://www.skillhub.club/skill/facebook-react-fix) | facebook | ⭐ 243.4k | Use when you have lint errors, formatting issues, ... |
-| [openai-whisper](https://www.skillhub.club/skill/openclaw-openclaw-openai-whisper) | openclaw | ⭐ 230.1k | Local speech-to-text with the Whisper CLI (no API ... |
-| [notion](https://www.skillhub.club/skill/openclaw-openclaw-notion) | openclaw | ⭐ 230.1k | Notion API for creating and managing pages, databa... |
-| [nano-banana-pro](https://www.skillhub.club/skill/moltbot-moltbot-nano-banana-pro) | moltbot | ⭐ 230.0k | Generate or edit images via Gemini 3 Pro Image (Na... |
-| [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 230.0k | Terminal Spotify playback/search via spogo (prefer... |
-| [eightctl](https://www.skillhub.club/skill/molt-bot-clawdbot-eightctl) | molt-bot | ⭐ 230.0k | Control Eight Sleep pods (status, temperature, ala... |
-| [blucli](https://www.skillhub.club/skill/moltbot-moltbot-blucli) | moltbot | ⭐ 230.0k | BluOS CLI (blu) for discovery, playback, grouping,... |
-| [notion](https://www.skillhub.club/skill/molt-bot-clawdbot-notion) | molt-bot | ⭐ 230.0k | Notion API for creating and managing pages, databa... |
-| [blucli](https://www.skillhub.club/skill/openclaw-openclaw-blucli) | openclaw | ⭐ 230.0k | BluOS CLI (blu) for discovery, playback, grouping,... |
-| [github](https://www.skillhub.club/skill/molt-bot-clawdbot-github) | molt-bot | ⭐ 230.0k | Interact with GitHub using the `gh` CLI. Use `gh i... |
-| [eightctl](https://www.skillhub.club/skill/openclaw-openclaw-eightctl) | openclaw | ⭐ 230.0k | Control Eight Sleep pods (status, temperature, ala... |
-| [obsidian](https://www.skillhub.club/skill/openclaw-openclaw-obsidian) | openclaw | ⭐ 230.0k | Work with Obsidian vaults (plain Markdown notes) a... |
-| [imsg](https://www.skillhub.club/skill/molt-bot-clawdbot-imsg) | molt-bot | ⭐ 230.0k | iMessage/SMS CLI for listing chats, history, watch... |
-| [summarize](https://www.skillhub.club/skill/moltbot-moltbot-summarize) | moltbot | ⭐ 230.0k | Summarize or extract text/transcripts from URLs, p... |
-| [summarize](https://www.skillhub.club/skill/molt-bot-clawdbot-summarize) | molt-bot | ⭐ 230.0k | Summarize or extract text/transcripts from URLs, p... |
-| [summarize](https://www.skillhub.club/skill/openclaw-openclaw-summarize) | openclaw | ⭐ 230.0k | Summarize or extract text/transcripts from URLs, p... |
-| [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 230.0k |  |
-| [openai-whisper](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-whisper) | clawdbot | ⭐ 230.0k | Local speech-to-text with the Whisper CLI (no API ... |
-| [bluebubbles](https://www.skillhub.club/skill/moltbot-moltbot-bluebubbles) | moltbot | ⭐ 230.0k | Build or update the BlueBubbles external channel p... |
-| [imsg](https://www.skillhub.club/skill/openclaw-openclaw-imsg) | openclaw | ⭐ 230.0k | iMessage/SMS CLI for listing chats, history, watch... |
-| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 230.0k | Manage Trello boards, lists, and cards via the Tre... |
-| [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 230.0k | Capture and automate macOS UI with the Peekaboo CL... |
-| [himalaya](https://www.skillhub.club/skill/molt-bot-clawdbot-himalaya) | molt-bot | ⭐ 230.0k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
-| [apple-reminders](https://www.skillhub.club/skill/moltbot-moltbot-apple-reminders) | moltbot | ⭐ 230.0k | Manage Apple Reminders via the `remindctl` CLI on ... |
-| [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 230.0k | Search for places (restaurants, cafes, etc.) via G... |
-| [sherpa-onnx-tts](https://www.skillhub.club/skill/molt-bot-clawdbot-sherpa-onnx-tts) | molt-bot | ⭐ 230.0k | Local text-to-speech via sherpa-onnx (offline, no ... |
-| [himalaya](https://www.skillhub.club/skill/moltbot-moltbot-himalaya) | moltbot | ⭐ 230.0k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
-| [mcporter](https://www.skillhub.club/skill/molt-bot-clawdbot-mcporter) | molt-bot | ⭐ 230.0k | Use the mcporter CLI to list, configure, auth, and... |
-| [slack](https://www.skillhub.club/skill/moltbot-moltbot-slack) | moltbot | ⭐ 230.0k | Use when you need to control Slack from Moltbot vi... |
-| [discord](https://www.skillhub.club/skill/moltbot-moltbot-discord) | moltbot | ⭐ 230.0k |  |
+| [fix](https://www.skillhub.club/skill/facebook-react-fix) | facebook | ⭐ 243.3k | Use when you have lint errors, formatting issues, ... |
+| [openai-whisper](https://www.skillhub.club/skill/openclaw-openclaw-openai-whisper) | openclaw | ⭐ 233.8k | Local speech-to-text with the Whisper CLI (no API ... |
+| [notion](https://www.skillhub.club/skill/openclaw-openclaw-notion) | openclaw | ⭐ 233.8k | Notion API for creating and managing pages, databa... |
+| [nano-banana-pro](https://www.skillhub.club/skill/moltbot-moltbot-nano-banana-pro) | moltbot | ⭐ 233.8k | Generate or edit images via Gemini 3 Pro Image (Na... |
+| [bluebubbles](https://www.skillhub.club/skill/moltbot-moltbot-bluebubbles) | moltbot | ⭐ 233.8k | Build or update the BlueBubbles external channel p... |
+| [ordercli](https://www.skillhub.club/skill/molt-bot-clawdbot-ordercli) | molt-bot | ⭐ 233.8k | Foodora-only CLI for checking past orders and acti... |
+| [eightctl](https://www.skillhub.club/skill/molt-bot-clawdbot-eightctl) | molt-bot | ⭐ 233.8k | Control Eight Sleep pods (status, temperature, ala... |
+| [blucli](https://www.skillhub.club/skill/moltbot-moltbot-blucli) | moltbot | ⭐ 233.8k | BluOS CLI (blu) for discovery, playback, grouping,... |
+| [himalaya](https://www.skillhub.club/skill/molt-bot-clawdbot-himalaya) | molt-bot | ⭐ 233.8k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
+| [apple-reminders](https://www.skillhub.club/skill/moltbot-moltbot-apple-reminders) | moltbot | ⭐ 233.8k | Manage Apple Reminders via the `remindctl` CLI on ... |
+| [blucli](https://www.skillhub.club/skill/openclaw-openclaw-blucli) | openclaw | ⭐ 233.8k | BluOS CLI (blu) for discovery, playback, grouping,... |
+| [imsg](https://www.skillhub.club/skill/openclaw-openclaw-imsg) | openclaw | ⭐ 233.8k | iMessage/SMS CLI for listing chats, history, watch... |
+| [eightctl](https://www.skillhub.club/skill/openclaw-openclaw-eightctl) | openclaw | ⭐ 233.8k | Control Eight Sleep pods (status, temperature, ala... |
+| [imsg](https://www.skillhub.club/skill/molt-bot-clawdbot-imsg) | molt-bot | ⭐ 233.8k | iMessage/SMS CLI for listing chats, history, watch... |
+| [imsg](https://www.skillhub.club/skill/clawdbot-clawdbot-imsg) | clawdbot | ⭐ 233.8k | iMessage/SMS CLI for listing chats, history, watch... |
+| [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 233.8k | Search for places (restaurants, cafes, etc.) via G... |
+| [himalaya](https://www.skillhub.club/skill/moltbot-moltbot-himalaya) | moltbot | ⭐ 233.8k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
+| [bluebubbles](https://www.skillhub.club/skill/molt-bot-clawdbot-bluebubbles) | molt-bot | ⭐ 233.8k | Build or update the BlueBubbles external channel p... |
+| [apple-notes](https://www.skillhub.club/skill/moltbot-moltbot-apple-notes) | moltbot | ⭐ 233.8k | Manage Apple Notes via the `memo` CLI on macOS (cr... |
+| [weather](https://www.skillhub.club/skill/moltbot-moltbot-weather) | moltbot | ⭐ 233.8k | Get current weather and forecasts (no API key requ... |
+| [openai-whisper-api](https://www.skillhub.club/skill/molt-bot-clawdbot-openai-whisper-api) | molt-bot | ⭐ 233.8k | Transcribe audio via OpenAI Audio Transcriptions A... |
+| [prepare-pr](https://www.skillhub.club/skill/openclaw-openclaw-prepare-pr) | openclaw | ⭐ 233.8k | Prepare a GitHub PR for merge by rebasing onto mai... |
+| [1password](https://www.skillhub.club/skill/openclaw-openclaw-1password) | openclaw | ⭐ 233.8k | Set up and use 1Password CLI (op). Use when instal... |
+| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 233.8k | Manage Trello boards, lists, and cards via the Tre... |
+| [apple-notes](https://www.skillhub.club/skill/openclaw-openclaw-apple-notes) | openclaw | ⭐ 233.8k | Manage Apple Notes via the `memo` CLI on macOS (cr... |
+| [ordercli](https://www.skillhub.club/skill/moltbot-moltbot-ordercli) | moltbot | ⭐ 233.8k | Foodora-only CLI for checking past orders and acti... |
+| [apple-notes](https://www.skillhub.club/skill/molt-bot-clawdbot-apple-notes) | molt-bot | ⭐ 233.8k | Manage Apple Notes via the `memo` CLI on macOS (cr... |
+| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 233.8k | Search GIF providers with CLI/TUI, download result... |
+| [voice-call](https://www.skillhub.club/skill/molt-bot-clawdbot-voice-call) | molt-bot | ⭐ 233.8k | Start voice calls via the Clawdbot voice-call plug... |
+| [openai-whisper-api](https://www.skillhub.club/skill/openclaw-openclaw-openai-whisper-api) | openclaw | ⭐ 233.8k | Transcribe audio via OpenAI Audio Transcriptions A... |
 
 <div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 895 →</a></div>
 
@@ -126,29 +126,29 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [video-frames](https://www.skillhub.club/skill/clawdbot-clawdbot-video-frames) | clawdbot | ⭐ 230.1k | A simple wrapper around ffmpeg to extract single f... |
-| [bear-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-bear-notes) | clawdbot | ⭐ 230.0k | This skill provides CLI access to Bear notes on ma... |
-| [spotify-player](https://www.skillhub.club/skill/clawdbot-clawdbot-spotify-player) | clawdbot | ⭐ 230.0k | This skill provides terminal-based Spotify control... |
-| [apple-reminders](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | ⭐ 230.0k | This skill provides terminal access to Apple Remin... |
-| [things-mac](https://www.skillhub.club/skill/clawdbot-clawdbot-things-mac) | clawdbot | ⭐ 230.0k | This Skill provides CLI access to Things 3 on macO... |
-| [blogwatcher](https://www.skillhub.club/skill/clawdbot-clawdbot-blogwatcher) | clawdbot | ⭐ 230.0k | A command-line tool for tracking RSS/Atom feed upd... |
-| [weather](https://www.skillhub.club/skill/clawdbot-clawdbot-weather) | clawdbot | ⭐ 230.0k | Provides weather data via curl commands using wttr... |
-| [gog](https://www.skillhub.club/skill/clawdbot-clawdbot-gog) | clawdbot | ⭐ 229.9k | A CLI tool for interacting with Google Workspace s... |
-| [summarize](https://www.skillhub.club/skill/clawdbot-clawdbot-summarize) | clawdbot | ⭐ 229.9k | A CLI tool that summarizes content from URLs, loca... |
-| [apple-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-notes) | clawdbot | ⭐ 229.9k | This skill wraps the 'memo' CLI tool to manage App... |
-| [ordercli](https://www.skillhub.club/skill/clawdbot-clawdbot-ordercli) | clawdbot | ⭐ 229.9k | A CLI tool for Foodora that lets users check past ... |
-| [session-logs](https://www.skillhub.club/skill/clawdbot-clawdbot-session-logs) | clawdbot | ⭐ 229.9k | This skill provides jq-based shell commands to sea... |
-| [gifgrep](https://www.skillhub.club/skill/clawdbot-clawdbot-gifgrep) | clawdbot | ⭐ 229.9k | A CLI/TUI tool for searching GIFs from Tenor and G... |
+| [bear-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-bear-notes) | clawdbot | ⭐ 233.8k | This skill provides CLI access to Bear notes on ma... |
+| [apple-reminders](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | ⭐ 233.8k | This skill provides terminal access to Apple Remin... |
+| [obsidian](https://www.skillhub.club/skill/clawdbot-clawdbot-obsidian) | clawdbot | ⭐ 233.8k | This Skill provides CLI access to Obsidian vaults ... |
+| [video-frames](https://www.skillhub.club/skill/clawdbot-clawdbot-video-frames) | clawdbot | ⭐ 233.8k | A simple wrapper around ffmpeg to extract single f... |
+| [blogwatcher](https://www.skillhub.club/skill/clawdbot-clawdbot-blogwatcher) | clawdbot | ⭐ 233.8k | A command-line tool for tracking RSS/Atom feed upd... |
+| [spotify-player](https://www.skillhub.club/skill/clawdbot-clawdbot-spotify-player) | clawdbot | ⭐ 233.8k | This skill provides terminal-based Spotify control... |
+| [weather](https://www.skillhub.club/skill/clawdbot-clawdbot-weather) | clawdbot | ⭐ 233.8k | Provides weather data via curl commands using wttr... |
+| [things-mac](https://www.skillhub.club/skill/clawdbot-clawdbot-things-mac) | clawdbot | ⭐ 233.8k | This Skill provides CLI access to Things 3 on macO... |
+| [apple-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-notes) | clawdbot | ⭐ 233.8k | This skill wraps the 'memo' CLI tool to manage App... |
+| [session-logs](https://www.skillhub.club/skill/clawdbot-clawdbot-session-logs) | clawdbot | ⭐ 233.8k | This skill provides jq-based shell commands to sea... |
+| [ordercli](https://www.skillhub.club/skill/clawdbot-clawdbot-ordercli) | clawdbot | ⭐ 233.8k | A CLI tool for Foodora that lets users check past ... |
+| [gifgrep](https://www.skillhub.club/skill/clawdbot-clawdbot-gifgrep) | clawdbot | ⭐ 233.8k | A CLI/TUI tool for searching GIFs from Tenor and G... |
+| [food-order](https://www.skillhub.club/skill/clawdbot-clawdbot-food-order) | clawdbot | ⭐ 233.7k | This Claude Skill automates Foodora order reorderi... |
+| [summarize](https://www.skillhub.club/skill/clawdbot-clawdbot-summarize) | clawdbot | ⭐ 233.7k | A CLI tool that summarizes content from URLs, loca... |
+| [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 233.7k | This skill uses nano-pdf to edit PDF pages via nat... |
+| [gog](https://www.skillhub.club/skill/clawdbot-clawdbot-gog) | clawdbot | ⭐ 233.7k | A CLI tool for interacting with Google Workspace s... |
 | [trello](https://www.skillhub.club/skill/clawdbot-clawdbot-trello) | clawdbot | ⭐ 229.8k | Provides curl commands to interact with Trello's R... |
-| [obsidian](https://www.skillhub.club/skill/clawdbot-clawdbot-obsidian) | clawdbot | ⭐ 229.8k | This Skill provides CLI access to Obsidian vaults ... |
-| [food-order](https://www.skillhub.club/skill/clawdbot-clawdbot-food-order) | clawdbot | ⭐ 229.8k | This Claude Skill automates Foodora order reorderi... |
-| [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 229.8k | This skill uses nano-pdf to edit PDF pages via nat... |
 | [docx](https://www.skillhub.club/skill/anthropics-skills-docx) | anthropics | ⭐ 76.0k | This skill provides tools for creating, editing, a... |
-| [.claude](https://www.skillhub.club/skill/thedotmack-claude-mem-claude) | thedotmack | ⭐ 31.0k | This Skill adds memory functionality to Claude by ... |
+| [.claude](https://www.skillhub.club/skill/thedotmack-claude-mem-claude) | thedotmack | ⭐ 31.3k | This Skill adds memory functionality to Claude by ... |
 | [agent-memory](https://www.skillhub.club/skill/yamadashy-repomix-agent-memory) | yamadashy | ⭐ 22.1k | A file-based memory system for Claude that stores ... |
-| [doc-coauthoring](https://www.skillhub.club/skill/davila7-claude-code-templates-doc-coauthoring) | davila7 | ⭐ 21.3k | Guides users through a three-stage process for cre... |
-| [handoff](https://www.skillhub.club/skill/steveyegge-beads-handoff) | steveyegge | ⭐ 17.3k | A tool that transfers work to a new Claude session... |
-| [json-canvas](https://www.skillhub.club/skill/kepano-obsidian-skills-json-canvas) | kepano | ⭐ 10.8k | This skill enables Claude to create and edit JSON ... |
+| [doc-coauthoring](https://www.skillhub.club/skill/davila7-claude-code-templates-doc-coauthoring) | davila7 | ⭐ 21.4k | Guides users through a three-stage process for cre... |
+| [handoff](https://www.skillhub.club/skill/steveyegge-beads-handoff) | steveyegge | ⭐ 17.4k | A tool that transfers work to a new Claude session... |
+| [json-canvas](https://www.skillhub.club/skill/kepano-obsidian-skills-json-canvas) | kepano | ⭐ 11.3k | This skill enables Claude to create and edit JSON ... |
 
 
 
@@ -160,22 +160,22 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [nano-banana-pro](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-banana-pro) | clawdbot | ⭐ 229.9k | A CLI wrapper for Google's Gemini 3 Pro Image API ... |
-| [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 229.9k | A Python script that generates multiple images usi... |
-| [agent-builder](https://www.skillhub.club/skill/shareai-lab-learn-claude-code-agent-builder) | shareAI-lab | ⭐ 18.1k | A scaffolding tool that generates working AI agent... |
-| [flow-nexus-neural](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-neural) | ruvnet | ⭐ 14.6k | A comprehensive Skill for distributed neural netwo... |
-| [agentdb-vector-search](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-vector-search) | ruvnet | ⭐ 14.6k | Provides vector search capabilities for AgentDB wi... |
+| [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 233.8k | A Python script that generates multiple images usi... |
+| [nano-banana-pro](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-banana-pro) | clawdbot | ⭐ 233.7k | A CLI wrapper for Google's Gemini 3 Pro Image API ... |
+| [agent-builder](https://www.skillhub.club/skill/shareai-lab-learn-claude-code-agent-builder) | shareAI-lab | ⭐ 18.8k | A scaffolding tool that generates working AI agent... |
+| [flow-nexus-neural](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-neural) | ruvnet | ⭐ 15.1k | A comprehensive Skill for distributed neural netwo... |
+| [agentdb-vector-search](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-vector-search) | ruvnet | ⭐ 15.1k | Provides vector search capabilities for AgentDB wi... |
+| [agentdb-memory-patterns](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-memory-patterns) | ruvnet | ⭐ 15.1k | A comprehensive memory management system for AI ag... |
+| [reasoningbank-intelligence](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-intelligence) | ruvnet | ⭐ 15.0k | This skill implements an adaptive learning system ... |
+| [agentdb-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-advanced) | ruvnet | ⭐ 15.0k | A comprehensive skill covering advanced AgentDB fe... |
+| [agentdb-learning](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-learning) | ruvnet | ⭐ 15.0k | A comprehensive reinforcement learning toolkit for... |
+| [swarm-orchestration](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-orchestration) | ruvnet | ⭐ 15.0k | This skill enables coordination of multiple AI age... |
 | [reasoningbank-agentdb](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-agentdb) | ruvnet | ⭐ 14.6k | This skill integrates AgentDB's high-performance v... |
-| [agentdb-memory-patterns](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-memory-patterns) | ruvnet | ⭐ 14.6k | A comprehensive memory management system for AI ag... |
-| [reasoningbank-intelligence](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-intelligence) | ruvnet | ⭐ 14.6k | This skill implements an adaptive learning system ... |
-| [agentdb-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-advanced) | ruvnet | ⭐ 14.6k | A comprehensive skill covering advanced AgentDB fe... |
-| [agentdb-learning](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-learning) | ruvnet | ⭐ 14.6k | A comprehensive reinforcement learning toolkit for... |
-| [swarm-orchestration](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-orchestration) | ruvnet | ⭐ 14.6k | This skill enables coordination of multiple AI age... |
-| [bdi-mental-states](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-bdi-mental-states) | muratcankoylan | ⭐ 10.9k | A sophisticated skill for implementing BDI cogniti... |
-| [context-fundamentals](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-context-fundamentals) | muratcankoylan | ⭐ 10.9k | Provides foundational knowledge for designing and ... |
-| [memory-systems](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-memory-systems) | muratcankoylan | ⭐ 10.9k | This skill provides a structured guide for impleme... |
-| [book-sft-pipeline](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-book-sft-pipeline) | muratcankoylan | ⭐ 10.9k | A comprehensive pipeline for creating SFT datasets... |
-| [context-degradation](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-context-degradation) | muratcankoylan | ⭐ 10.9k | This skill provides patterns for diagnosing and fi... |
+| [memory-systems](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-memory-systems) | muratcankoylan | ⭐ 11.9k | This skill provides a structured guide for impleme... |
+| [bdi-mental-states](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-bdi-mental-states) | muratcankoylan | ⭐ 11.9k | A sophisticated skill for implementing BDI cogniti... |
+| [context-fundamentals](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-context-fundamentals) | muratcankoylan | ⭐ 11.9k | Provides foundational knowledge for designing and ... |
+| [context-degradation](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-context-degradation) | muratcankoylan | ⭐ 11.9k | This skill provides patterns for diagnosing and fi... |
+| [book-sft-pipeline](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-book-sft-pipeline) | muratcankoylan | ⭐ 11.9k | A comprehensive pipeline for creating SFT datasets... |
 
 
 
@@ -187,21 +187,21 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [tmux](https://www.skillhub.club/skill/clawdbot-clawdbot-tmux) | clawdbot | ⭐ 230.0k | This skill enables remote control of tmux sessions... |
-| [camsnap](https://www.skillhub.club/skill/clawdbot-clawdbot-camsnap) | clawdbot | ⭐ 230.0k | This skill provides command-line access to RTSP/ON... |
-| [model-usage](https://www.skillhub.club/skill/clawdbot-clawdbot-model-usage) | clawdbot | ⭐ 229.9k | This skill extracts per-model cost data from Codex... |
-| [skill-installer](https://www.skillhub.club/skill/openai-codex-skill-installer) | openai | ⭐ 62.0k | This skill installs Codex skills from GitHub repos... |
+| [tmux](https://www.skillhub.club/skill/clawdbot-clawdbot-tmux) | clawdbot | ⭐ 233.8k | This skill enables remote control of tmux sessions... |
+| [camsnap](https://www.skillhub.club/skill/clawdbot-clawdbot-camsnap) | clawdbot | ⭐ 233.8k | This skill provides command-line access to RTSP/ON... |
+| [model-usage](https://www.skillhub.club/skill/clawdbot-clawdbot-model-usage) | clawdbot | ⭐ 233.8k | This skill extracts per-model cost data from Codex... |
+| [skill-installer](https://www.skillhub.club/skill/openai-codex-skill-installer) | openai | ⭐ 62.1k | This skill installs Codex skills from GitHub repos... |
 | [analyze-ci](https://www.skillhub.club/skill/mlflow-mlflow-analyze-ci) | mlflow | ⭐ 24.4k | This skill analyzes failed GitHub Action jobs for ... |
-| [flow-nexus-swarm](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-swarm) | ruvnet | ⭐ 14.6k | A comprehensive cloud-based AI swarm orchestration... |
-| [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-workflow-automation) | ruvnet | ⭐ 14.6k | This skill provides GitHub Actions automation with... |
-| [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-advanced) | ruvnet | ⭐ 14.6k | A comprehensive advanced swarm orchestration skill... |
-| [verification-quality](https://www.skillhub.club/skill/ruvnet-claude-code-flow-verification-quality) | ruvnet | ⭐ 14.6k | Provides automated code quality verification with ... |
-| [github-project-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-project-management) | ruvnet | ⭐ 14.6k | An ambitious GitHub project management skill that ... |
-| [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 14.6k | This skill automates GitHub release workflows usin... |
-| [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 14.6k | A CLI tool for analyzing Claude Flow swarm perform... |
-| [agentic-jujutsu](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentic-jujutsu) | ruvnet | ⭐ 14.6k | A version control wrapper that enables multiple AI... |
-| [agentdb-optimization](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-optimization) | ruvnet | ⭐ 14.6k | Provides concrete optimization techniques for Agen... |
-| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-multi-repo) | ruvnet | ⭐ 14.4k | This skill orchestrates changes across multiple Gi... |
+| [flow-nexus-swarm](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-swarm) | ruvnet | ⭐ 15.1k | A comprehensive cloud-based AI swarm orchestration... |
+| [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-workflow-automation) | ruvnet | ⭐ 15.1k | This skill provides GitHub Actions automation with... |
+| [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-advanced) | ruvnet | ⭐ 15.1k | A comprehensive advanced swarm orchestration skill... |
+| [verification-quality](https://www.skillhub.club/skill/ruvnet-claude-code-flow-verification-quality) | ruvnet | ⭐ 15.1k | Provides automated code quality verification with ... |
+| [github-project-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-project-management) | ruvnet | ⭐ 15.1k | An ambitious GitHub project management skill that ... |
+| [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 15.1k | A CLI tool for analyzing Claude Flow swarm perform... |
+| [agentdb-optimization](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-optimization) | ruvnet | ⭐ 15.1k | Provides concrete optimization techniques for Agen... |
+| [agentic-jujutsu](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentic-jujutsu) | ruvnet | ⭐ 15.1k | A version control wrapper that enables multiple AI... |
+| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-multi-repo) | ruvnet | ⭐ 15.0k | This skill orchestrates changes across multiple Gi... |
+| [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 15.0k | This skill automates GitHub release workflows usin... |
 
 
 
@@ -213,19 +213,19 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [clawdhub](https://www.skillhub.club/skill/clawdbot-clawdbot-clawdhub) | clawdbot | ⭐ 229.9k | A CLI tool for managing Claude Skills from clawdhu... |
-| [skill-creator](https://www.skillhub.club/skill/langgenius-dify-skill-creator) | langgenius | ⭐ 130.4k | Provides detailed guidance for creating Claude Ski... |
-| [template](https://www.skillhub.club/skill/anthropics-skills-template) | anthropics | ⭐ 76.0k | A minimal template skill with placeholder content,... |
-| [Skill Development](https://www.skillhub.club/skill/anthropics-claude-code-skill-development) | anthropics | ⭐ 70.3k | A comprehensive meta-skill providing clear guideli... |
-| [Agent Development](https://www.skillhub.club/skill/anthropics-claude-code-agent-development) | anthropics | ⭐ 70.3k | Comprehensive guide for creating Claude Code agent... |
-| [Plugin Structure](https://www.skillhub.club/skill/anthropics-claude-code-plugin-structure) | anthropics | ⭐ 70.3k | Provides clear guidelines for structuring Claude C... |
-| [writing-skills](https://www.skillhub.club/skill/obra-superpowers-writing-skills) | obra | ⭐ 62.1k | Applies Test-Driven Development methodology to cre... |
+| [clawdhub](https://www.skillhub.club/skill/clawdbot-clawdbot-clawdhub) | clawdbot | ⭐ 233.8k | A CLI tool for managing Claude Skills from clawdhu... |
+| [skill-creator](https://www.skillhub.club/skill/langgenius-dify-skill-creator) | langgenius | ⭐ 130.5k | Provides detailed guidance for creating Claude Ski... |
+| [template](https://www.skillhub.club/skill/anthropics-skills-template) | anthropics | ⭐ 77.6k | A minimal template skill with placeholder content,... |
+| [Agent Development](https://www.skillhub.club/skill/anthropics-claude-code-agent-development) | anthropics | ⭐ 70.7k | Comprehensive guide for creating Claude Code agent... |
+| [Plugin Structure](https://www.skillhub.club/skill/anthropics-claude-code-plugin-structure) | anthropics | ⭐ 70.7k | Provides clear guidelines for structuring Claude C... |
+| [Skill Development](https://www.skillhub.club/skill/anthropics-claude-code-skill-development) | anthropics | ⭐ 70.7k | A comprehensive meta-skill providing clear guideli... |
+| [writing-skills](https://www.skillhub.club/skill/obra-superpowers-writing-skills) | obra | ⭐ 63.6k | Applies Test-Driven Development methodology to cre... |
 | [skill-creator](https://www.skillhub.club/skill/openai-codex-skill-creator) | openai | ⭐ 61.9k | Provides guidance and templates for creating Claud... |
-| [skill-creator](https://www.skillhub.club/skill/tldraw-tldraw-skill-creator) | tldraw | ⭐ 45.4k | A meta-skill that provides structured guidance and... |
-| [skill-developer](https://www.skillhub.club/skill/langfuse-langfuse-skill-developer) | langfuse | ⭐ 22.3k | A meta-skill for creating and managing other Claud... |
-| [skill-builder](https://www.skillhub.club/skill/ruvnet-claude-code-flow-skill-builder) | ruvnet | ⭐ 14.6k | This skill provides detailed guidance for creating... |
+| [skill-creator](https://www.skillhub.club/skill/tldraw-tldraw-skill-creator) | tldraw | ⭐ 45.5k | A meta-skill that provides structured guidance and... |
+| [skill-developer](https://www.skillhub.club/skill/langfuse-langfuse-skill-developer) | langfuse | ⭐ 22.4k | A meta-skill for creating and managing other Claud... |
+| [skill-builder](https://www.skillhub.club/skill/ruvnet-claude-code-flow-skill-builder) | ruvnet | ⭐ 15.1k | This skill provides detailed guidance for creating... |
 | [hive-mind-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-hive-mind-advanced) | ruvnet | ⭐ 14.6k | This skill implements a queen-worker multi-agent s... |
-| [template](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-template) | muratcankoylan | ⭐ 11.0k | A well-structured template for creating Claude Ski... |
+| [template](https://www.skillhub.club/skill/muratcankoylan-agent-skills-for-context-engineering-template) | muratcankoylan | ⭐ 11.9k | A well-structured template for creating Claude Ski... |
 
 
 
@@ -237,15 +237,15 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [openhue](https://www.skillhub.club/skill/clawdbot-clawdbot-openhue) | clawdbot | ⭐ 230.0k | This skill provides Claude access to the OpenHue C... |
-| [eightctl](https://www.skillhub.club/skill/clawdbot-clawdbot-eightctl) | clawdbot | ⭐ 230.0k | This skill provides CLI control for Eight Sleep sm... |
-| [local-places](https://www.skillhub.club/skill/clawdbot-clawdbot-local-places) | clawdbot | ⭐ 230.0k | Provides a local HTTP proxy for Google Places API ... |
-| [blucli](https://www.skillhub.club/skill/clawdbot-clawdbot-blucli) | clawdbot | ⭐ 230.0k | A CLI wrapper for controlling Bluesound/NAD audio ... |
-| [sonoscli](https://www.skillhub.club/skill/clawdbot-clawdbot-sonoscli) | clawdbot | ⭐ 230.0k | This Skill provides CLI access to control Sonos sp... |
-| [bluebubbles](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | ⭐ 229.8k | This skill provides instructions for building a Bl... |
-| [MCP Integration](https://www.skillhub.club/skill/anthropics-claude-code-mcp-integration) | anthropics | ⭐ 70.3k | Comprehensive guide for integrating MCP servers in... |
-| [connect](https://www.skillhub.club/skill/composiohq-awesome-claude-skills-connect) | ComposioHQ | ⭐ 37.8k | This skill connects Claude to 1000+ external apps ... |
-| [zapier-workflows](https://www.skillhub.club/skill/davila7-claude-code-templates-zapier-workflows) | davila7 | ⭐ 21.3k | This skill bridges Zapier's MCP tools with webhook... |
+| [local-places](https://www.skillhub.club/skill/clawdbot-clawdbot-local-places) | clawdbot | ⭐ 233.8k | Provides a local HTTP proxy for Google Places API ... |
+| [bluebubbles](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | ⭐ 233.8k | This skill provides instructions for building a Bl... |
+| [openhue](https://www.skillhub.club/skill/clawdbot-clawdbot-openhue) | clawdbot | ⭐ 233.8k | This skill provides Claude access to the OpenHue C... |
+| [eightctl](https://www.skillhub.club/skill/clawdbot-clawdbot-eightctl) | clawdbot | ⭐ 233.8k | This skill provides CLI control for Eight Sleep sm... |
+| [blucli](https://www.skillhub.club/skill/clawdbot-clawdbot-blucli) | clawdbot | ⭐ 233.8k | A CLI wrapper for controlling Bluesound/NAD audio ... |
+| [sonoscli](https://www.skillhub.club/skill/clawdbot-clawdbot-sonoscli) | clawdbot | ⭐ 233.8k | This Skill provides CLI access to control Sonos sp... |
+| [MCP Integration](https://www.skillhub.club/skill/anthropics-claude-code-mcp-integration) | anthropics | ⭐ 70.7k | Comprehensive guide for integrating MCP servers in... |
+| [connect](https://www.skillhub.club/skill/composiohq-awesome-claude-skills-connect) | ComposioHQ | ⭐ 38.2k | This skill connects Claude to 1000+ external apps ... |
+| [zapier-workflows](https://www.skillhub.club/skill/davila7-claude-code-templates-zapier-workflows) | davila7 | ⭐ 21.4k | This skill bridges Zapier's MCP tools with webhook... |
 
 
 
@@ -259,11 +259,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 |-------|--------|-------|-------------|
 | [docstring](https://www.skillhub.club/skill/pytorch-pytorch-docstring) | pytorch | ⭐ 97.8k | Provides detailed guidelines for writing PyTorch d... |
 | [resource-curator](https://www.skillhub.club/skill/leonardomso-33-js-concepts-resource-curator) | leonardomso | ⭐ 66.3k | This skill provides a systematic method for auditi... |
-| [docs-write](https://www.skillhub.club/skill/metabase-metabase-docs-write) | metabase | ⭐ 46.1k | This skill provides specific guidelines for writin... |
-| [docs-review](https://www.skillhub.club/skill/metabase-metabase-docs-review) | metabase | ⭐ 46.1k | A well-structured documentation review skill that ... |
+| [docs-review](https://www.skillhub.club/skill/metabase-metabase-docs-review) | metabase | ⭐ 46.2k | A well-structured documentation review skill that ... |
+| [docs-write](https://www.skillhub.club/skill/metabase-metabase-docs-write) | metabase | ⭐ 46.2k | This skill provides specific guidelines for writin... |
 | [cookbook-audit](https://www.skillhub.club/skill/anthropics-claude-cookbooks-cookbook-audit) | anthropics | ⭐ 33.4k | This skill audits Anthropic Cookbook notebooks aga... |
 | [website-maintainer](https://www.skillhub.club/skill/yamadashy-repomix-website-maintainer) | yamadashy | ⭐ 22.1k | This skill provides guidance for maintaining a Vit... |
-| [obsidian-markdown](https://www.skillhub.club/skill/kepano-obsidian-skills-obsidian-markdown) | kepano | ⭐ 10.8k | This skill provides a detailed reference for writi... |
+| [obsidian-markdown](https://www.skillhub.club/skill/kepano-obsidian-skills-obsidian-markdown) | kepano | ⭐ 11.3k | This skill provides a detailed reference for writi... |
 
 
 
@@ -275,9 +275,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-code-review](https://www.skillhub.club/skill/langgenius-dify-frontend-code-review) | langgenius | ⭐ 130.4k | A specialized tool for reviewing frontend TypeScri... |
-| [frontend-design](https://www.skillhub.club/skill/frontend-design) | anthropics | ⭐ 69.8k | Generates distinctive frontend code with strong ae... |
-| [frontend-design](https://www.skillhub.club/skill/anthropics-claude-code-frontend-design) | anthropics | ⭐ 69.8k | Generates frontend code with distinctive visual ae... |
+| [frontend-code-review](https://www.skillhub.club/skill/langgenius-dify-frontend-code-review) | langgenius | ⭐ 130.5k | A specialized tool for reviewing frontend TypeScri... |
+| [frontend-design](https://www.skillhub.club/skill/anthropics-claude-code-frontend-design) | anthropics | ⭐ 70.7k | Generates frontend code with distinctive visual ae... |
+| [frontend-design](https://www.skillhub.club/skill/frontend-design) | anthropics | ⭐ 70.7k | Generates distinctive frontend code with strong ae... |
 | [browser-extension-developer](https://www.skillhub.club/skill/yamadashy-repomix-browser-extension-developer) | yamadashy | ⭐ 22.1k | This skill helps develop browser extensions using ... |
 | [react-email](https://www.skillhub.club/skill/resend-react-email-skills) | resend | ⭐ 18.1k | React Email provides React components for building... |
 | [G2 Legend Expert](https://www.skillhub.club/skill/antvis-g2-g2-legend-expert) | antvis | ⭐ 12.5k | Provides detailed knowledge of G2 chart library's ... |
@@ -292,10 +292,10 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [slack](https://www.skillhub.club/skill/clawdbot-clawdbot-slack) | clawdbot | ⭐ 230.0k | Provides programmatic control over Slack through C... |
-| [discord](https://www.skillhub.club/skill/clawdbot-clawdbot-discord) | clawdbot | ⭐ 230.0k | This skill provides comprehensive Discord server m... |
-| [wacli](https://www.skillhub.club/skill/clawdbot-clawdbot-wacli) | clawdbot | ⭐ 230.0k | This Skill integrates the wacli CLI tool to send W... |
-| [sag](https://www.skillhub.club/skill/clawdbot-clawdbot-sag) | clawdbot | ⭐ 229.8k | A CLI wrapper for ElevenLabs TTS that adds macOS-s... |
+| [slack](https://www.skillhub.club/skill/clawdbot-clawdbot-slack) | clawdbot | ⭐ 233.8k | Provides programmatic control over Slack through C... |
+| [wacli](https://www.skillhub.club/skill/clawdbot-clawdbot-wacli) | clawdbot | ⭐ 233.8k | This Skill integrates the wacli CLI tool to send W... |
+| [discord](https://www.skillhub.club/skill/clawdbot-clawdbot-discord) | clawdbot | ⭐ 233.8k | This skill provides comprehensive Discord server m... |
+| [sag](https://www.skillhub.club/skill/clawdbot-clawdbot-sag) | clawdbot | ⭐ 233.8k | A CLI wrapper for ElevenLabs TTS that adds macOS-s... |
 
 
 
@@ -307,7 +307,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 230.0k | Peekaboo is a CLI tool for macOS UI automation tha... |
+| [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 233.8k | Peekaboo is a CLI tool for macOS UI automation tha... |
 | [writing-bundler-tests](https://www.skillhub.club/skill/oven-sh-bun-writing-bundler-tests) | oven-sh | ⭐ 87.7k | Provides detailed guidance for writing bundler tes... |
 
 
@@ -321,7 +321,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
 | [Add Admin API Endpoint](https://www.skillhub.club/skill/tryghost-ghost-add-admin-api-endpoint) | TryGhost | ⭐ 51.9k | This skill provides step-by-step instructions for ... |
-| [backend-dev-guidelines](https://www.skillhub.club/skill/langfuse-langfuse-backend-dev-guidelines) | langfuse | ⭐ 22.3k | Provides detailed checklists and patterns for deve... |
+| [backend-dev-guidelines](https://www.skillhub.club/skill/langfuse-langfuse-backend-dev-guidelines) | langfuse | ⭐ 22.4k | Provides detailed checklists and patterns for deve... |
 
 
 
@@ -333,7 +333,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 230.0k | This skill wraps the songsee CLI tool to generate ... |
+| [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 233.8k | This skill wraps the songsee CLI tool to generate ... |
 
 
 
@@ -345,7 +345,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [1password](https://www.skillhub.club/skill/clawdbot-clawdbot-1password) | clawdbot | ⭐ 230.0k | This skill provides a structured workflow for usin... |
+| [1password](https://www.skillhub.club/skill/clawdbot-clawdbot-1password) | clawdbot | ⭐ 233.8k | This skill provides a structured workflow for usin... |
 
 
 
@@ -357,19 +357,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [neuropixels-analysis](https://www.skillhub.club/skill/davila7-claude-code-templates-neuropixels-analysis) | davila7 | ⭐ 21.3k | Provides a complete pipeline for analyzing Neuropi... |
-
-
-
----
-
-## 📦 cloud
-
-<sub>1 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [flow-nexus-platform](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-platform) | ruvnet | ⭐ 14.6k | Provides a unified interface for managing Flow Nex... |
+| [neuropixels-analysis](https://www.skillhub.club/skill/davila7-claude-code-templates-neuropixels-analysis) | davila7 | ⭐ 21.4k | Provides a complete pipeline for analyzing Neuropi... |
 
 
 
@@ -381,7 +369,19 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-flow-github-workflow-automation) | ruvnet | ⭐ 14.6k | Advanced GitHub Actions workflow automation with A... |
+| [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-flow-github-workflow-automation) | ruvnet | ⭐ 15.1k | Advanced GitHub Actions workflow automation with A... |
+
+
+
+---
+
+## 📦 cloud
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [flow-nexus-platform](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-platform) | ruvnet | ⭐ 15.1k | Provides a unified interface for managing Flow Nex... |
 
 
 
@@ -393,19 +393,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-flow-github-multi-repo) | ruvnet | ⭐ 14.6k | Multi-repository coordination, synchronization, an... |
-
-
-
----
-
-## 📦 orchestration
-
-<sub>1 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-flow-swarm-advanced) | ruvnet | ⭐ 14.6k | Advanced swarm orchestration patterns for research... |
+| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-flow-github-multi-repo) | ruvnet | ⭐ 15.1k | Multi-repository coordination, synchronization, an... |
 
 
 
@@ -417,7 +405,19 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [stream-chain](https://www.skillhub.club/skill/ruvnet-claude-flow-stream-chain) | ruvnet | ⭐ 14.6k | Stream-JSON chaining for multi-agent pipelines, da... |
+| [stream-chain](https://www.skillhub.club/skill/ruvnet-claude-flow-stream-chain) | ruvnet | ⭐ 15.0k | Stream-JSON chaining for multi-agent pipelines, da... |
+
+
+
+---
+
+## 📦 orchestration
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-flow-swarm-advanced) | ruvnet | ⭐ 15.0k | Advanced swarm orchestration patterns for research... |
 
 
 
@@ -442,6 +442,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-02-26
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-02-27
 
 </div>
