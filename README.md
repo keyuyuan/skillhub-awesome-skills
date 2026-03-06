@@ -105,6 +105,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [prepare-pr](https://www.skillhub.club/skill/openclaw-openclaw-prepare-pr) | openclaw | ⭐ 266.6k | Prepare a GitHub PR for merge by rebasing onto mai... |
 | [1password](https://www.skillhub.club/skill/openclaw-openclaw-1password) | openclaw | ⭐ 266.6k | Set up and use 1Password CLI (op). Use when instal... |
 | [gemini](https://www.skillhub.club/skill/clawdbot-clawdbot-gemini) | clawdbot | ⭐ 266.6k | Gemini CLI for one-shot Q&A, summaries, and genera... |
+| [emblem-ai-agent-wallet](https://www.skillhub.club/skill/emblemcompany-agent-skills-emblem-ai-agent-wallet) | EmblemCompany | ⭐ - | Multi-chain crypto wallet management across Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin via EmblemAI. |
 | [openai-whisper-api](https://www.skillhub.club/skill/molt-bot-clawdbot-openai-whisper-api) | molt-bot | ⭐ 266.6k | Transcribe audio via OpenAI Audio Transcriptions A... |
 | [himalaya](https://www.skillhub.club/skill/clawdbot-clawdbot-himalaya) | clawdbot | ⭐ 266.6k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [apple-notes](https://www.skillhub.club/skill/moltbot-moltbot-apple-notes) | moltbot | ⭐ 266.6k | Manage Apple Notes via the `memo` CLI on macOS (cr... |
