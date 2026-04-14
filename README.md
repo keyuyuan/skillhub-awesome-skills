@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-121053.1k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-04-13-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-04-14-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 121053.1k |
 | Categories | 30 |
-| Last Updated | 2026-04-13 |
+| Last Updated | 2026-04-14 |
 
 ---
 
@@ -44,9 +44,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | ⭐ Stars | Rating | Description |
 |-------|--------|---------|--------|-------------|
-| [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
 | [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
+| [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
@@ -62,8 +62,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**peekaboo**](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | 344.9k | - | Capture and automate macOS UI with the Peekaboo CL... |
 | [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
 | [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
-| [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
 | [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 344.8k | - | Capture and automate macOS UI with the Peekaboo CL... |
+| [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
 | [**songsee**](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | 344.8k | - | Generate spectrograms and feature-panel visualizat... |
 | [**1password**](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | 344.8k | - | Set up and use 1Password CLI (op). Use when instal... |
 | [**goplaces**](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | 344.8k | - | Query Google Places API (New) via the goplaces CLI... |
@@ -85,9 +85,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
 | [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
+| [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
@@ -102,8 +102,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [peekaboo](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | ⭐ 344.9k | Capture and automate macOS UI with the Peekaboo CL... |
 | [openai-image-gen](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | ⭐ 344.9k | Batch-generate images via OpenAI Images API. Rando... |
 | [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
-| [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
 | [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 344.8k | Capture and automate macOS UI with the Peekaboo CL... |
+| [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
 | [songsee](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | ⭐ 344.8k | Generate spectrograms and feature-panel visualizat... |
 | [1password](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | ⭐ 344.8k | Set up and use 1Password CLI (op). Use when instal... |
 | [goplaces](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | ⭐ 344.8k | Query Google Places API (New) via the goplaces CLI... |
@@ -166,11 +166,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 29.0k | This skill automates GitHub release workflows usin... |
 | [agentic-jujutsu](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentic-jujutsu) | ruvnet | ⭐ 29.0k | A version control wrapper that enables multiple AI... |
 | [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-advanced) | ruvnet | ⭐ 29.0k | A comprehensive advanced swarm orchestration skill... |
-| [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 29.0k | A CLI tool for analyzing Claude Flow swarm perform... |
-| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-multi-repo) | ruvnet | ⭐ 29.0k | This skill orchestrates changes across multiple Gi... |
 | [github-project-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-project-management) | ruvnet | ⭐ 29.0k | An ambitious GitHub project management skill that ... |
-| [flow-nexus-swarm](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-swarm) | ruvnet | ⭐ 29.0k | A comprehensive cloud-based AI swarm orchestration... |
+| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-multi-repo) | ruvnet | ⭐ 29.0k | This skill orchestrates changes across multiple Gi... |
+| [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 29.0k | A CLI tool for analyzing Claude Flow swarm perform... |
 | [verification-quality](https://www.skillhub.club/skill/ruvnet-claude-code-flow-verification-quality) | ruvnet | ⭐ 29.0k | Provides automated code quality verification with ... |
+| [flow-nexus-swarm](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-swarm) | ruvnet | ⭐ 29.0k | A comprehensive cloud-based AI swarm orchestration... |
 | [agentdb-optimization](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-optimization) | ruvnet | ⭐ 29.0k | Provides concrete optimization techniques for Agen... |
 | [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-workflow-automation) | ruvnet | ⭐ 28.9k | This skill provides GitHub Actions automation with... |
 
@@ -193,8 +193,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [Skill Development](https://www.skillhub.club/skill/anthropics-claude-code-skill-development) | anthropics | ⭐ 94.4k | A comprehensive meta-skill providing clear guideli... |
 | [skill-creator](https://www.skillhub.club/skill/openai-codex-skill-creator) | openai | ⭐ 70.6k | Provides guidance and templates for creating Claud... |
 | [skill-creator](https://www.skillhub.club/skill/tldraw-tldraw-skill-creator) | tldraw | ⭐ 46.1k | A meta-skill that provides structured guidance and... |
-| [skill-builder](https://www.skillhub.club/skill/ruvnet-claude-code-flow-skill-builder) | ruvnet | ⭐ 29.0k | This skill provides detailed guidance for creating... |
 | [hive-mind-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-hive-mind-advanced) | ruvnet | ⭐ 29.0k | This skill implements a queen-worker multi-agent s... |
+| [skill-builder](https://www.skillhub.club/skill/ruvnet-claude-code-flow-skill-builder) | ruvnet | ⭐ 29.0k | This skill provides detailed guidance for creating... |
 
 
 
@@ -571,6 +571,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-04-13
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-04-14
 
 </div>
