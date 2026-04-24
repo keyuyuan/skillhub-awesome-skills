@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-121053.1k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-04-23-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-04-24-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 121053.1k |
 | Categories | 30 |
-| Last Updated | 2026-04-23 |
+| Last Updated | 2026-04-24 |
 
 ---
 
@@ -44,9 +44,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | ⭐ Stars | Rating | Description |
 |-------|--------|---------|--------|-------------|
-| [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
 | [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
+| [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
 | [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
@@ -85,9 +85,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
 | [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
+| [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
 | [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
@@ -210,9 +210,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 340.2k | A Python script that generates multiple images usi... |
 | [agent-builder](https://www.skillhub.club/skill/shareai-lab-learn-claude-code-agent-builder) | shareAI-lab | ⭐ 45.7k | A scaffolding tool that generates working AI agent... |
 | [agentdb-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-advanced) | ruvnet | ⭐ 29.0k | A comprehensive skill covering advanced AgentDB fe... |
-| [swarm-orchestration](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-orchestration) | ruvnet | ⭐ 29.0k | This skill enables coordination of multiple AI age... |
 | [reasoningbank-intelligence](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-intelligence) | ruvnet | ⭐ 29.0k | This skill implements an adaptive learning system ... |
 | [reasoningbank-agentdb](https://www.skillhub.club/skill/ruvnet-claude-code-flow-reasoningbank-agentdb) | ruvnet | ⭐ 29.0k | This skill integrates AgentDB's high-performance v... |
+| [swarm-orchestration](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-orchestration) | ruvnet | ⭐ 29.0k | This skill enables coordination of multiple AI age... |
 | [agentdb-vector-search](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-vector-search) | ruvnet | ⭐ 29.0k | Provides vector search capabilities for AgentDB wi... |
 | [flow-nexus-neural](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-neural) | ruvnet | ⭐ 29.0k | A comprehensive Skill for distributed neural netwo... |
 | [agentdb-memory-patterns](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-memory-patterns) | ruvnet | ⭐ 29.0k | A comprehensive memory management system for AI ag... |
@@ -571,6 +571,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-04-23
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-04-24
 
 </div>
