@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-121845.3k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-05-28-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-05-29-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 121845.3k |
 | Categories | 30 |
-| Last Updated | 2026-05-28 |
+| Last Updated | 2026-05-29 |
 
 ---
 
@@ -55,8 +55,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
-| [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
+| [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
 | [**peekaboo**](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | 344.9k | - | Capture and automate macOS UI with the Peekaboo CL... |
 | [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
@@ -70,8 +70,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**bear-notes**](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | 344.8k | - | Create, search, and manage Bear notes via grizzly ... |
 | [**openclaw-release-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw releases, prerele... |
 | [**openclaw-pr-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | 344.6k | - | Maintainer workflow for reviewing, triaging, prepa... |
-| [**openclaw-parallels-smoke**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | 344.6k | - | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [**openclaw-ghsa-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw GitHub Security A... |
+| [**openclaw-parallels-smoke**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | 344.6k | - | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [**node-connect**](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | 344.3k | - | Diagnose OpenClaw node connection and pairing fail... |
 | [**parallels-discord-roundtrip**](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | 344.3k | - | Run the macOS Parallels smoke harness with Discord... |
 
@@ -110,8 +110,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [bear-notes](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | ⭐ 344.8k | Create, search, and manage Bear notes via grizzly ... |
 | [openclaw-release-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw releases, prerele... |
 | [openclaw-pr-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for reviewing, triaging, prepa... |
-| [openclaw-parallels-smoke](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | ⭐ 344.6k | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [openclaw-ghsa-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw GitHub Security A... |
+| [openclaw-parallels-smoke](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | ⭐ 344.6k | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [node-connect](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | ⭐ 344.3k | Diagnose OpenClaw node connection and pairing fail... |
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
 | [model-usage](https://www.skillhub.club/skill/moltbot-moltbot-model-usage) | moltbot | ⭐ 343.7k | Use CodexBar CLI local cost usage to summarize per... |
@@ -163,12 +163,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [canary](https://www.skillhub.club/skill/garrytan-gstack-canary) | garrytan | ⭐ 60.0k | Post-deploy monitoring for console errors, perform... |
 | [land-and-deploy](https://www.skillhub.club/skill/garrytan-gstack-land-and-deploy) | garrytan | ⭐ 59.9k | Complete merge-to-production workflow with CI wait... |
 | [setup-deploy](https://www.skillhub.club/skill/garrytan-gstack-setup-deploy) | garrytan | ⭐ 59.9k | Configures deployment settings detecting platform,... |
-| [agentic-jujutsu](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentic-jujutsu) | ruvnet | ⭐ 29.0k | A version control wrapper that enables multiple AI... |
-| [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 29.0k | This skill automates GitHub release workflows usin... |
 | [github-project-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-project-management) | ruvnet | ⭐ 29.0k | An ambitious GitHub project management skill that ... |
+| [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 29.0k | A CLI tool for analyzing Claude Flow swarm perform... |
+| [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 29.0k | This skill automates GitHub release workflows usin... |
+| [agentic-jujutsu](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentic-jujutsu) | ruvnet | ⭐ 29.0k | A version control wrapper that enables multiple AI... |
 | [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-advanced) | ruvnet | ⭐ 29.0k | A comprehensive advanced swarm orchestration skill... |
 | [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-multi-repo) | ruvnet | ⭐ 29.0k | This skill orchestrates changes across multiple Gi... |
-| [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 29.0k | A CLI tool for analyzing Claude Flow swarm perform... |
 | [verification-quality](https://www.skillhub.club/skill/ruvnet-claude-code-flow-verification-quality) | ruvnet | ⭐ 29.0k | Provides automated code quality verification with ... |
 | [flow-nexus-swarm](https://www.skillhub.club/skill/ruvnet-claude-code-flow-flow-nexus-swarm) | ruvnet | ⭐ 29.0k | A comprehensive cloud-based AI swarm orchestration... |
 | [agentdb-optimization](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentdb-optimization) | ruvnet | ⭐ 29.0k | Provides concrete optimization techniques for Agen... |
@@ -250,8 +250,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [docstring](https://www.skillhub.club/skill/pytorch-pytorch-docstring) | pytorch | ⭐ 98.7k | Provides detailed guidelines for writing PyTorch d... |
 | [resource-curator](https://www.skillhub.club/skill/leonardomso-33-js-concepts-resource-curator) | leonardomso | ⭐ 66.3k | This skill provides a systematic method for auditi... |
 | [document-release](https://www.skillhub.club/skill/garrytan-gstack-document-release) | garrytan | ⭐ 59.9k | Post-ship documentation updates syncing README, AR... |
-| [docs-write](https://www.skillhub.club/skill/metabase-metabase-docs-write) | metabase | ⭐ 46.7k | This skill provides specific guidelines for writin... |
 | [docs-review](https://www.skillhub.club/skill/metabase-metabase-docs-review) | metabase | ⭐ 46.7k | A well-structured documentation review skill that ... |
+| [docs-write](https://www.skillhub.club/skill/metabase-metabase-docs-write) | metabase | ⭐ 46.7k | This skill provides specific guidelines for writin... |
 | [cookbook-audit](https://www.skillhub.club/skill/anthropics-claude-cookbooks-cookbook-audit) | anthropics | ⭐ 36.9k | This skill audits Anthropic Cookbook notebooks aga... |
 
 
@@ -571,6 +571,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-05-28
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-05-29
 
 </div>
