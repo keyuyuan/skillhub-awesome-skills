@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-122782.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-06-16-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-06-17-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 122782.6k |
 | Categories | 30 |
-| Last Updated | 2026-06-16 |
+| Last Updated | 2026-06-17 |
 
 ---
 
@@ -50,9 +50,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
+| [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
 | [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
-| [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
@@ -91,9 +91,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
+| [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
 | [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
-| [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
@@ -163,9 +163,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [canary](https://www.skillhub.club/skill/garrytan-gstack-canary) | garrytan | ⭐ 60.0k | Post-deploy monitoring for console errors, perform... |
 | [land-and-deploy](https://www.skillhub.club/skill/garrytan-gstack-land-and-deploy) | garrytan | ⭐ 59.9k | Complete merge-to-production workflow with CI wait... |
 | [setup-deploy](https://www.skillhub.club/skill/garrytan-gstack-setup-deploy) | garrytan | ⭐ 59.9k | Configures deployment settings detecting platform,... |
+| [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 29.0k | This skill automates GitHub release workflows usin... |
 | [github-project-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-project-management) | ruvnet | ⭐ 29.0k | An ambitious GitHub project management skill that ... |
 | [github-multi-repo](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-multi-repo) | ruvnet | ⭐ 29.0k | This skill orchestrates changes across multiple Gi... |
-| [github-release-management](https://www.skillhub.club/skill/ruvnet-claude-code-flow-github-release-management) | ruvnet | ⭐ 29.0k | This skill automates GitHub release workflows usin... |
 | [swarm-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-swarm-advanced) | ruvnet | ⭐ 29.0k | A comprehensive advanced swarm orchestration skill... |
 | [agentic-jujutsu](https://www.skillhub.club/skill/ruvnet-claude-code-flow-agentic-jujutsu) | ruvnet | ⭐ 29.0k | A version control wrapper that enables multiple AI... |
 | [performance-analysis](https://www.skillhub.club/skill/ruvnet-claude-code-flow-performance-analysis) | ruvnet | ⭐ 29.0k | A CLI tool for analyzing Claude Flow swarm perform... |
@@ -193,8 +193,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [Skill Development](https://www.skillhub.club/skill/anthropics-claude-code-skill-development) | anthropics | ⭐ 94.4k | A comprehensive meta-skill providing clear guideli... |
 | [skill-creator](https://www.skillhub.club/skill/openai-codex-skill-creator) | openai | ⭐ 70.6k | Provides guidance and templates for creating Claud... |
 | [skill-creator](https://www.skillhub.club/skill/tldraw-tldraw-skill-creator) | tldraw | ⭐ 46.1k | A meta-skill that provides structured guidance and... |
-| [hive-mind-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-hive-mind-advanced) | ruvnet | ⭐ 29.0k | This skill implements a queen-worker multi-agent s... |
 | [skill-builder](https://www.skillhub.club/skill/ruvnet-claude-code-flow-skill-builder) | ruvnet | ⭐ 29.0k | This skill provides detailed guidance for creating... |
+| [hive-mind-advanced](https://www.skillhub.club/skill/ruvnet-claude-code-flow-hive-mind-advanced) | ruvnet | ⭐ 29.0k | This skill implements a queen-worker multi-agent s... |
 
 
 
@@ -571,6 +571,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-06-16
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-06-17
 
 </div>
