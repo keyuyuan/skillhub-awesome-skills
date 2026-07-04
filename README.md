@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-127514.9k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-07-03-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-129890.1k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-07-04-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 127514.9k |
-| Categories | 25 |
-| Last Updated | 2026-07-03 |
+| Total GitHub Stars | 129890.1k |
+| Categories | 33 |
+| Last Updated | 2026-07-04 |
 
 ---
 
@@ -45,10 +45,10 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Skill | Author | ⭐ Stars | Rating | Description |
 |-------|--------|---------|--------|-------------|
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
-| [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
-| [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
+| [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
+| [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
@@ -81,15 +81,15 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 💻 Development
 
-<sub>913 skills</sub>
+<sub>897 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
-| [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
-| [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
+| [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
+| [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
@@ -116,13 +116,13 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
 | [model-usage](https://www.skillhub.club/skill/moltbot-moltbot-model-usage) | moltbot | ⭐ 343.7k | Use CodexBar CLI local cost usage to summarize per... |
 
-<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 913 →</a></div>
+<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 897 →</a></div>
 
 ---
 
 ## 📦 productivity
 
-<sub>19 skills</sub>
+<sub>20 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -145,6 +145,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 342.7k | This skill uses nano-pdf to edit PDF pages via nat... |
 | [docx](https://www.skillhub.club/skill/anthropics-skills-docx) | anthropics | ⭐ 107.3k | This skill provides tools for creating, editing, a... |
 | [.claude](https://www.skillhub.club/skill/thedotmack-claude-mem-claude) | thedotmack | ⭐ 44.2k | This Skill adds memory functionality to Claude by ... |
+| [ask-matt](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-ask-matt) | sickn33 | ⭐ 42.3k | Ask which skill or flow fits your situation. A rou... |
 
 
 
@@ -239,6 +240,21 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
+## 📦 frontend
+
+<sub>4 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [frontend-code-review](https://www.skillhub.club/skill/langgenius-dify-frontend-code-review) | langgenius | ⭐ 135.3k | A specialized tool for reviewing frontend TypeScri... |
+| [frontend-design](https://www.skillhub.club/skill/anthropics-claude-code-frontend-design) | anthropics | ⭐ 94.5k | Generates frontend code with distinctive visual ae... |
+| [frontend-design](https://www.skillhub.club/skill/frontend-design) | anthropics | ⭐ 94.3k | Generates distinctive frontend code with strong ae... |
+| [astro](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-astro) | sickn33 | ⭐ 42.3k | Build content-focused websites with Astro — zero J... |
+
+
+
+---
+
 ## 📦 safety
 
 <sub>4 skills</sub>
@@ -268,15 +284,15 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📦 frontend
+## 📦 testing
 
 <sub>3 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-code-review](https://www.skillhub.club/skill/langgenius-dify-frontend-code-review) | langgenius | ⭐ 135.3k | A specialized tool for reviewing frontend TypeScri... |
-| [frontend-design](https://www.skillhub.club/skill/anthropics-claude-code-frontend-design) | anthropics | ⭐ 94.5k | Generates frontend code with distinctive visual ae... |
-| [frontend-design](https://www.skillhub.club/skill/frontend-design) | anthropics | ⭐ 94.3k | Generates distinctive frontend code with strong ae... |
+| [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 342.5k | Peekaboo is a CLI tool for macOS UI automation tha... |
+| [writing-bundler-tests](https://www.skillhub.club/skill/oven-sh-bun-writing-bundler-tests) | oven-sh | ⭐ 88.6k | Provides detailed guidance for writing bundler tes... |
+| [android-ui-journey-testing](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-android-ui-journey-testing) | sickn33 | ⭐ 42.3k | XML-specified Android UI journey testing, interact... |
 
 
 
@@ -324,6 +340,47 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
+## 📦 granular-workflow-bundle
+
+<sub>3 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [api-security-testing](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-api-security-testing) | sickn33 | ⭐ 42.3k | API security testing workflow for REST and GraphQL... |
+| [api-documentation](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-api-documentation) | sickn33 | ⭐ 42.3k | API documentation workflow for generating OpenAPI ... |
+| [ai-agent-development](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-ai-agent-development) | sickn33 | ⭐ 42.3k | AI agent development workflow for building autonom... |
+
+
+
+---
+
+## 📦 andruia
+
+<sub>3 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [00-andruia-consultant](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-00-andruia-consultant) | sickn33 | ⭐ 42.3k | Arquitecto de Soluciones Principal y Consultor Tec... |
+| [20-andruia-niche-intelligence](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-20-andruia-niche-intelligence) | sickn33 | ⭐ 42.3k | Estratega de Inteligencia de Dominio de Andru.ia. ... |
+| [10-andruia-skill-smith](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-10-andruia-skill-smith) | sickn33 | ⭐ 42.3k | Ingeniero de Sistemas de Andru.ia. Diseña, redacta... |
+
+
+
+---
+
+## 📊 Data & Analytics
+
+<sub>2 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 343.7k | This skill wraps the songsee CLI tool to generate ... |
+| [arrowspace](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-arrowspace) | sickn33 | ⭐ 42.3k | Spectral vector search using graph Laplacian eigen... |
+
+
+
+---
+
 ## 📦 security
 
 <sub>2 skills</sub>
@@ -337,19 +394,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📦 testing
-
-<sub>2 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 342.5k | Peekaboo is a CLI tool for macOS UI automation tha... |
-| [writing-bundler-tests](https://www.skillhub.club/skill/oven-sh-bun-writing-bundler-tests) | oven-sh | ⭐ 88.6k | Provides detailed guidance for writing bundler tes... |
-
-
-
----
-
 ## 📦 code-review
 
 <sub>2 skills</sub>
@@ -358,18 +402,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 |-------|--------|-------|-------------|
 | [codex](https://www.skillhub.club/skill/garrytan-gstack-codex) | garrytan | ⭐ 59.9k | OpenAI Codex CLI wrapper for code review, adversar... |
 | [review](https://www.skillhub.club/skill/garrytan-gstack-review) | garrytan | ⭐ 59.9k | Pre-landing PR review checking SQL safety, LLM tru... |
-
-
-
----
-
-## 📊 Data & Analytics
-
-<sub>1 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 343.7k | This skill wraps the songsee CLI tool to generate ... |
 
 
 
@@ -471,6 +503,78 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
+## 📦 creative
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [article-illustrations](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-article-illustrations) | sickn33 | ⭐ 42.3k | Generate hand-drawn 16:9 article illustrations wit... |
+
+
+
+---
+
+## 📦 workflow
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [ai-loop](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-ai-loop) | sickn33 | ⭐ 42.3k | Runs a bounded spec-build-review development loop ... |
+
+
+
+---
+
+## 📦 data-ai
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [ai-engineering-toolkit](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-ai-engineering-toolkit) | sickn33 | ⭐ 42.3k | 6 production-ready AI engineering workflows: promp... |
+
+
+
+---
+
+## 📦 mcp
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [ai-dev-jobs-mcp](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-ai-dev-jobs-mcp) | sickn33 | ⭐ 42.3k | Search 8,400+ AI and ML jobs across 489 companies,... |
+
+
+
+---
+
+## 📦 workflow-bundle
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [ai-ml](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-ai-ml) | sickn33 | ⭐ 42.3k | AI and machine learning workflow covering LLM appl... |
+
+
+
+---
+
+## 📦 api-integration
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [2slides-ppt-generator](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-2slides-ppt-generator) | sickn33 | ⭐ 42.3k | AI-powered presentation generation via the 2slides... |
+
+
+
+---
+
 ## 🚀 How to Use | 使用方法
 
 1. **Find a skill** on [SkillHub](https://www.skillhub.club)
@@ -490,6 +594,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-07-03
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-07-04
 
 </div>
