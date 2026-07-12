@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-160083.5k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-07-11-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-160091.7k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-07-12-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 160083.5k |
+| Total GitHub Stars | 160091.7k |
 | Categories | 34 |
-| Last Updated | 2026-07-11 |
+| Last Updated | 2026-07-12 |
 
 ---
 
@@ -48,29 +48,29 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
 | [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
-| [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
+| [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
+| [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
+| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
-| [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
-| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**himalaya**](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | 344.9k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
 | [**peekaboo**](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | 344.9k | - | Capture and automate macOS UI with the Peekaboo CL... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
-| [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 344.8k | - | Capture and automate macOS UI with the Peekaboo CL... |
 | [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
+| [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**songsee**](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | 344.8k | - | Generate spectrograms and feature-panel visualizat... |
 | [**1password**](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | 344.8k | - | Set up and use 1Password CLI (op). Use when instal... |
-| [**bear-notes**](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | 344.8k | - | Create, search, and manage Bear notes via grizzly ... |
 | [**goplaces**](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | 344.8k | - | Query Google Places API (New) via the goplaces CLI... |
+| [**bear-notes**](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | 344.8k | - | Create, search, and manage Bear notes via grizzly ... |
 | [**openclaw-release-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw releases, prerele... |
-| [**openclaw-parallels-smoke**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | 344.6k | - | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [**openclaw-ghsa-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw GitHub Security A... |
+| [**openclaw-parallels-smoke**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | 344.6k | - | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [**openclaw-pr-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | 344.6k | - | Maintainer workflow for reviewing, triaging, prepa... |
 | [**parallels-discord-roundtrip**](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | 344.3k | - | Run the macOS Parallels smoke harness with Discord... |
 | [**node-connect**](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | 344.3k | - | Diagnose OpenClaw node connection and pairing fail... |
@@ -89,28 +89,28 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
 | [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
-| [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
+| [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
+| [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
+| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
-| [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
-| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [openai-image-gen](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | ⭐ 344.9k | Batch-generate images via OpenAI Images API. Rando... |
 | [peekaboo](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | ⭐ 344.9k | Capture and automate macOS UI with the Peekaboo CL... |
 | [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
-| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 344.8k | Capture and automate macOS UI with the Peekaboo CL... |
 | [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
+| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [songsee](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | ⭐ 344.8k | Generate spectrograms and feature-panel visualizat... |
 | [1password](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | ⭐ 344.8k | Set up and use 1Password CLI (op). Use when instal... |
-| [bear-notes](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | ⭐ 344.8k | Create, search, and manage Bear notes via grizzly ... |
 | [goplaces](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | ⭐ 344.8k | Query Google Places API (New) via the goplaces CLI... |
+| [bear-notes](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | ⭐ 344.8k | Create, search, and manage Bear notes via grizzly ... |
 | [openclaw-release-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw releases, prerele... |
-| [openclaw-parallels-smoke](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | ⭐ 344.6k | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [openclaw-ghsa-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw GitHub Security A... |
+| [openclaw-parallels-smoke](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | ⭐ 344.6k | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [openclaw-pr-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for reviewing, triaging, prepa... |
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
 | [node-connect](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | ⭐ 344.3k | Diagnose OpenClaw node connection and pairing fail... |
@@ -606,6 +606,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-07-11
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-07-12
 
 </div>
