@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-171569.8k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-07-16-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-173829.0k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-07-17-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 171569.8k |
+| Total GitHub Stars | 173829.0k |
 | Categories | 30 |
-| Last Updated | 2026-07-16 |
+| Last Updated | 2026-07-17 |
 
 ---
 
@@ -69,8 +69,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**bear-notes**](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | 344.8k | - | Create, search, and manage Bear notes via grizzly ... |
 | [**goplaces**](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | 344.8k | - | Query Google Places API (New) via the goplaces CLI... |
 | [**openclaw-release-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw releases, prerele... |
-| [**openclaw-ghsa-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw GitHub Security A... |
 | [**openclaw-parallels-smoke**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | 344.6k | - | End-to-end Parallels smoke, upgrade, and rerun wor... |
+| [**openclaw-ghsa-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw GitHub Security A... |
 | [**openclaw-pr-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | 344.6k | - | Maintainer workflow for reviewing, triaging, prepa... |
 | [**parallels-discord-roundtrip**](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | 344.3k | - | Run the macOS Parallels smoke harness with Discord... |
 | [**node-connect**](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | 344.3k | - | Diagnose OpenClaw node connection and pairing fail... |
@@ -81,7 +81,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 💻 Development
 
-<sub>904 skills</sub>
+<sub>905 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -109,20 +109,20 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [bear-notes](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | ⭐ 344.8k | Create, search, and manage Bear notes via grizzly ... |
 | [goplaces](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | ⭐ 344.8k | Query Google Places API (New) via the goplaces CLI... |
 | [openclaw-release-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw releases, prerele... |
-| [openclaw-ghsa-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw GitHub Security A... |
 | [openclaw-parallels-smoke](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | ⭐ 344.6k | End-to-end Parallels smoke, upgrade, and rerun wor... |
+| [openclaw-ghsa-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw GitHub Security A... |
 | [openclaw-pr-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for reviewing, triaging, prepa... |
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
 | [node-connect](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | ⭐ 344.3k | Diagnose OpenClaw node connection and pairing fail... |
 | [model-usage](https://www.skillhub.club/skill/moltbot-moltbot-model-usage) | moltbot | ⭐ 343.7k | Use CodexBar CLI local cost usage to summarize per... |
 
-<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 904 →</a></div>
+<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 905 →</a></div>
 
 ---
 
 ## 📦 productivity
 
-<sub>20 skills</sub>
+<sub>19 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -145,7 +145,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 342.7k | This skill uses nano-pdf to edit PDF pages via nat... |
 | [docx](https://www.skillhub.club/skill/anthropics-skills-docx) | anthropics | ⭐ 107.3k | This skill provides tools for creating, editing, a... |
 | [.claude](https://www.skillhub.club/skill/thedotmack-claude-mem-claude) | thedotmack | ⭐ 44.2k | This Skill adds memory functionality to Claude by ... |
-| [ask-matt](https://www.skillhub.club/skill/sickn33-antigravity-awesome-skills-ask-matt) | sickn33 | ⭐ 42.3k | Ask which skill or flow fits your situation. A rou... |
 
 
 
@@ -554,6 +553,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-07-16
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-07-17
 
 </div>
