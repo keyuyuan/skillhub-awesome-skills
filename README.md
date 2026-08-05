@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-173962.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-04-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-191673.4k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-05-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 173962.6k |
-| Categories | 30 |
-| Last Updated | 2026-08-04 |
+| Total GitHub Stars | 191673.4k |
+| Categories | 34 |
+| Last Updated | 2026-08-05 |
 
 ---
 
@@ -81,7 +81,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 💻 Development
 
-<sub>906 skills</sub>
+<sub>879 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -116,13 +116,13 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
 | [model-usage](https://www.skillhub.club/skill/moltbot-moltbot-model-usage) | moltbot | ⭐ 343.7k | Use CodexBar CLI local cost usage to summarize per... |
 
-<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 906 →</a></div>
+<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 879 →</a></div>
 
 ---
 
 ## 📦 productivity
 
-<sub>19 skills</sub>
+<sub>21 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -143,8 +143,52 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [gifgrep](https://www.skillhub.club/skill/clawdbot-clawdbot-gifgrep) | clawdbot | ⭐ 343.5k | A CLI/TUI tool for searching GIFs from Tenor and G... |
 | [apple-reminders](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | ⭐ 343.5k | This skill provides terminal access to Apple Remin... |
 | [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 342.7k | This skill uses nano-pdf to edit PDF pages via nat... |
+| [mle-workflow](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mle-workflow) | affaan-m | ⭐ 237.8k | Production machine-learning engineering workflow f... |
+| [inventory-demand-planning](https://www.skillhub.club/skill/affaan-m-everything-claude-code-inventory-demand-planning) | affaan-m | ⭐ 237.8k | 在庫管理、需要予測、補充戦略、およびサプライチェーン最適化。 Codified expertise ... |
+| [netmiko-ssh-automation](https://www.skillhub.club/skill/affaan-m-ecc-netmiko-ssh-automation) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは netmiko-ssh-automation 用の日本語翻訳が必要です |
 | [docx](https://www.skillhub.club/skill/anthropics-skills-docx) | anthropics | ⭐ 107.3k | This skill provides tools for creating, editing, a... |
-| [.claude](https://www.skillhub.club/skill/thedotmack-claude-mem-claude) | thedotmack | ⭐ 44.2k | This Skill adds memory functionality to Claude by ... |
+
+
+
+---
+
+## 📦 integration
+
+<sub>11 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [bluebubbles](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | ⭐ 344.9k | This skill provides instructions for building a Bl... |
+| [eightctl](https://www.skillhub.club/skill/clawdbot-clawdbot-eightctl) | clawdbot | ⭐ 343.7k | This skill provides CLI control for Eight Sleep sm... |
+| [local-places](https://www.skillhub.club/skill/clawdbot-clawdbot-local-places) | clawdbot | ⭐ 343.6k | Provides a local HTTP proxy for Google Places API ... |
+| [blucli](https://www.skillhub.club/skill/clawdbot-clawdbot-blucli) | clawdbot | ⭐ 343.6k | A CLI wrapper for controlling Bluesound/NAD audio ... |
+| [openhue](https://www.skillhub.club/skill/clawdbot-clawdbot-openhue) | clawdbot | ⭐ 343.6k | This skill provides Claude access to the OpenHue C... |
+| [sonoscli](https://www.skillhub.club/skill/clawdbot-clawdbot-sonoscli) | clawdbot | ⭐ 342.1k | This Skill provides CLI access to control Sonos sp... |
+| [laravel-plugin-discovery](https://www.skillhub.club/skill/affaan-m-everything-claude-code-laravel-plugin-discovery) | affaan-m | ⭐ 237.8k | Laravel プラグイン検出、パッケージ管理、依存関係解決、およびサービスプロバイダ統合。 |
+| [jira-integration](https://www.skillhub.club/skill/affaan-m-everything-claude-code-jira-integration) | affaan-m | ⭐ 237.8k | Jira チケットの取得、要件分析、チケットステータスの更新、コメントの追加、またはイシューのトラン... |
+| [laravel-plugin-discovery](https://www.skillhub.club/skill/affaan-m-ecc-laravel-plugin-discovery) | affaan-m | ⭐ 237.8k | Laravel プラグイン検出、パッケージ管理、依存関係解決、およびサービスプロバイダ統合。 |
+| [MCP Integration](https://www.skillhub.club/skill/anthropics-claude-code-mcp-integration) | anthropics | ⭐ 94.5k | Comprehensive guide for integrating MCP servers in... |
+| [connect](https://www.skillhub.club/skill/composiohq-awesome-claude-skills-connect) | ComposioHQ | ⭐ 50.0k | This skill connects Claude to 1000+ external apps ... |
+
+
+
+---
+
+## 📦 devops
+
+<sub>9 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [tmux](https://www.skillhub.club/skill/clawdbot-clawdbot-tmux) | clawdbot | ⭐ 343.6k | This skill enables remote control of tmux sessions... |
+| [model-usage](https://www.skillhub.club/skill/clawdbot-clawdbot-model-usage) | clawdbot | ⭐ 343.6k | This skill extracts per-model cost data from Codex... |
+| [camsnap](https://www.skillhub.club/skill/clawdbot-clawdbot-camsnap) | clawdbot | ⭐ 343.5k | This skill provides command-line access to RTSP/ON... |
+| [kubernetes-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-kubernetes-patterns) | affaan-m | ⭐ 237.8k | Kubernetes workload patterns, resource management,... |
+| [kubernetes-patterns](https://www.skillhub.club/skill/affaan-m-ecc-kubernetes-patterns) | affaan-m | ⭐ 237.8k | Kubernetes workload patterns, resource management,... |
+| [skill-installer](https://www.skillhub.club/skill/openai-codex-skill-installer) | openai | ⭐ 68.6k | This skill installs Codex skills from GitHub repos... |
+| [canary](https://www.skillhub.club/skill/garrytan-gstack-canary) | garrytan | ⭐ 60.0k | Post-deploy monitoring for console errors, perform... |
+| [land-and-deploy](https://www.skillhub.club/skill/garrytan-gstack-land-and-deploy) | garrytan | ⭐ 59.9k | Complete merge-to-production workflow with CI wait... |
+| [setup-deploy](https://www.skillhub.club/skill/garrytan-gstack-setup-deploy) | garrytan | ⭐ 59.9k | Configures deployment settings detecting platform,... |
 
 
 
@@ -152,7 +196,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 🧠 Meta Skills
 
-<sub>9 skills</sub>
+<sub>8 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -164,44 +208,24 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [Agent Development](https://www.skillhub.club/skill/anthropics-claude-code-agent-development) | anthropics | ⭐ 94.5k | Comprehensive guide for creating Claude Code agent... |
 | [Skill Development](https://www.skillhub.club/skill/anthropics-claude-code-skill-development) | anthropics | ⭐ 94.4k | A comprehensive meta-skill providing clear guideli... |
 | [skill-creator](https://www.skillhub.club/skill/openai-codex-skill-creator) | openai | ⭐ 70.6k | Provides guidance and templates for creating Claud... |
-| [skill-creator](https://www.skillhub.club/skill/tldraw-tldraw-skill-creator) | tldraw | ⭐ 46.1k | A meta-skill that provides structured guidance and... |
 
 
 
 ---
 
-## 📦 integration
-
-<sub>8 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [bluebubbles](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | ⭐ 344.9k | This skill provides instructions for building a Bl... |
-| [eightctl](https://www.skillhub.club/skill/clawdbot-clawdbot-eightctl) | clawdbot | ⭐ 343.7k | This skill provides CLI control for Eight Sleep sm... |
-| [local-places](https://www.skillhub.club/skill/clawdbot-clawdbot-local-places) | clawdbot | ⭐ 343.6k | Provides a local HTTP proxy for Google Places API ... |
-| [blucli](https://www.skillhub.club/skill/clawdbot-clawdbot-blucli) | clawdbot | ⭐ 343.6k | A CLI wrapper for controlling Bluesound/NAD audio ... |
-| [openhue](https://www.skillhub.club/skill/clawdbot-clawdbot-openhue) | clawdbot | ⭐ 343.6k | This skill provides Claude access to the OpenHue C... |
-| [sonoscli](https://www.skillhub.club/skill/clawdbot-clawdbot-sonoscli) | clawdbot | ⭐ 342.1k | This Skill provides CLI access to control Sonos sp... |
-| [MCP Integration](https://www.skillhub.club/skill/anthropics-claude-code-mcp-integration) | anthropics | ⭐ 94.5k | Comprehensive guide for integrating MCP servers in... |
-| [connect](https://www.skillhub.club/skill/composiohq-awesome-claude-skills-connect) | ComposioHQ | ⭐ 50.0k | This skill connects Claude to 1000+ external apps ... |
-
-
-
----
-
-## 📦 devops
+## 🎨 Design
 
 <sub>7 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [tmux](https://www.skillhub.club/skill/clawdbot-clawdbot-tmux) | clawdbot | ⭐ 343.6k | This skill enables remote control of tmux sessions... |
-| [model-usage](https://www.skillhub.club/skill/clawdbot-clawdbot-model-usage) | clawdbot | ⭐ 343.6k | This skill extracts per-model cost data from Codex... |
-| [camsnap](https://www.skillhub.club/skill/clawdbot-clawdbot-camsnap) | clawdbot | ⭐ 343.5k | This skill provides command-line access to RTSP/ON... |
-| [skill-installer](https://www.skillhub.club/skill/openai-codex-skill-installer) | openai | ⭐ 68.6k | This skill installs Codex skills from GitHub repos... |
-| [canary](https://www.skillhub.club/skill/garrytan-gstack-canary) | garrytan | ⭐ 60.0k | Post-deploy monitoring for console errors, perform... |
-| [land-and-deploy](https://www.skillhub.club/skill/garrytan-gstack-land-and-deploy) | garrytan | ⭐ 59.9k | Complete merge-to-production workflow with CI wait... |
-| [setup-deploy](https://www.skillhub.club/skill/garrytan-gstack-setup-deploy) | garrytan | ⭐ 59.9k | Configures deployment settings detecting platform,... |
+| [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-everything-claude-code-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
+| [loop-design-check](https://www.skillhub.club/skill/affaan-m-everything-claude-code-loop-design-check) | affaan-m | ⭐ 237.8k | Design a goal-oriented agent loop, and review it f... |
+| [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-ecc-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
+| [accessibility](https://www.skillhub.club/skill/affaan-m-ecc-accessibility) | affaan-m | ⭐ 237.8k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
+| [plan-design-review](https://www.skillhub.club/skill/garrytan-gstack-plan-design-review) | garrytan | ⭐ 60.0k | Interactive design plan review rating dimensions 0... |
+| [design-review](https://www.skillhub.club/skill/garrytan-gstack-design-review) | garrytan | ⭐ 59.9k | Visual QA that finds inconsistency, spacing issues... |
+| [design-consultation](https://www.skillhub.club/skill/garrytan-gstack-design-consultation) | garrytan | ⭐ 59.9k | Research-based design system creation with aesthet... |
 
 
 
@@ -209,15 +233,33 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📦 documentation
 
+<sub>7 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [nutrient-document-processing](https://www.skillhub.club/skill/affaan-m-ecc-nutrient-document-processing) | affaan-m | ⭐ 237.8k | Nutrient DWS API を使用してドキュメントの処理、変換、OCR、抽出、編集、署名、フォ... |
+| [docstring](https://www.skillhub.club/skill/pytorch-pytorch-docstring) | pytorch | ⭐ 98.7k | Provides detailed guidelines for writing PyTorch d... |
+| [resource-curator](https://www.skillhub.club/skill/leonardomso-33-js-concepts-resource-curator) | leonardomso | ⭐ 66.3k | This skill provides a systematic method for auditi... |
+| [docs](https://www.skillhub.club/skill/santifer-career-ops-docs) | santifer | ⭐ 62.8k |  |
+| [document-release](https://www.skillhub.club/skill/garrytan-gstack-document-release) | garrytan | ⭐ 59.9k | Post-ship documentation updates syncing README, AR... |
+| [docs-write](https://www.skillhub.club/skill/metabase-metabase-docs-write) | metabase | ⭐ 46.7k | This skill provides specific guidelines for writin... |
+| [docs-review](https://www.skillhub.club/skill/metabase-metabase-docs-review) | metabase | ⭐ 46.7k | A well-structured documentation review skill that ... |
+
+
+
+---
+
+## 📦 security
+
 <sub>5 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [docstring](https://www.skillhub.club/skill/pytorch-pytorch-docstring) | pytorch | ⭐ 98.7k | Provides detailed guidelines for writing PyTorch d... |
-| [resource-curator](https://www.skillhub.club/skill/leonardomso-33-js-concepts-resource-curator) | leonardomso | ⭐ 66.3k | This skill provides a systematic method for auditi... |
-| [document-release](https://www.skillhub.club/skill/garrytan-gstack-document-release) | garrytan | ⭐ 59.9k | Post-ship documentation updates syncing README, AR... |
-| [docs-review](https://www.skillhub.club/skill/metabase-metabase-docs-review) | metabase | ⭐ 46.7k | A well-structured documentation review skill that ... |
-| [docs-write](https://www.skillhub.club/skill/metabase-metabase-docs-write) | metabase | ⭐ 46.7k | This skill provides specific guidelines for writin... |
+| [1password](https://www.skillhub.club/skill/clawdbot-clawdbot-1password) | clawdbot | ⭐ 343.6k | This skill provides a structured workflow for usin... |
+| [laravel-security](https://www.skillhub.club/skill/affaan-m-everything-claude-code-laravel-security) | affaan-m | ⭐ 237.8k | Buenas prácticas de seguridad en Laravel para aute... |
+| [perl-security](https://www.skillhub.club/skill/affaan-m-ecc-perl-security) | affaan-m | ⭐ 237.8k | テイントモード、入力バリデーション、安全なプロセス実行、DBIパラメータ化クエリ、Webセキュリティ... |
+| [agent-architecture-audit](https://www.skillhub.club/skill/affaan-m-ecc-agent-architecture-audit) | affaan-m | ⭐ 237.8k | エージェントおよび LLM アプリケーション向けのフルスタック診断。12 層のエージェントスタックに... |
+| [cso](https://www.skillhub.club/skill/garrytan-gstack-cso) | garrytan | ⭐ 59.9k | Chief Security Officer mode with infrastructure au... |
 
 
 
@@ -238,16 +280,46 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
+## 📦 testing
+
+<sub>4 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 342.5k | Peekaboo is a CLI tool for macOS UI automation tha... |
+| [kotlin-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-kotlin-testing) | affaan-m | ⭐ 237.8k | Kotlin testing patterns with Kotest, MockK, corout... |
+| [perl-testing](https://www.skillhub.club/skill/affaan-m-ecc-perl-testing) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは perl-testing 用の日本語翻訳が必要です |
+| [writing-bundler-tests](https://www.skillhub.club/skill/oven-sh-bun-writing-bundler-tests) | oven-sh | ⭐ 88.6k | Provides detailed guidance for writing bundler tes... |
+
+
+
+---
+
+## 📦 backend
+
+<sub>4 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [mcp-server-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mcp-server-patterns) | affaan-m | ⭐ 237.8k | Build MCP servers with Node/TypeScript SDK — tools... |
+| [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-everything-claude-code-homelab-wireguard-vpn) | affaan-m | ⭐ 237.8k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
+| [api-connector-builder](https://www.skillhub.club/skill/affaan-m-ecc-api-connector-builder) | affaan-m | ⭐ 237.8k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
+| [Add Admin API Endpoint](https://www.skillhub.club/skill/tryghost-ghost-add-admin-api-endpoint) | TryGhost | ⭐ 52.3k | This skill provides step-by-step instructions for ... |
+
+
+
+---
+
 ## 📦 github
 
 <sub>4 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [github-release-management](https://www.skillhub.club/skill/ruvnet-ruview-github-release-management) | ruvnet | ⭐ 76.5k | Comprehensive GitHub release orchestration with AI... |
 | [github-workflow-automation](https://www.skillhub.club/skill/ruvnet-ruview-github-workflow-automation) | ruvnet | ⭐ 76.5k | Advanced GitHub Actions workflow automation with A... |
-| [github-code-review](https://www.skillhub.club/skill/ruvnet-ruview-github-code-review) | ruvnet | ⭐ 76.5k | Comprehensive GitHub code review with AI-powered s... |
+| [github-release-management](https://www.skillhub.club/skill/ruvnet-ruview-github-release-management) | ruvnet | ⭐ 76.5k | Comprehensive GitHub release orchestration with AI... |
 | [github-project-management](https://www.skillhub.club/skill/ruvnet-ruview-github-project-management) | ruvnet | ⭐ 76.5k | Comprehensive GitHub project management with swarm... |
+| [github-code-review](https://www.skillhub.club/skill/ruvnet-ruview-github-code-review) | ruvnet | ⭐ 76.5k | Comprehensive GitHub code review with AI-powered s... |
 
 
 
@@ -268,15 +340,15 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📦 ai-ml
+## 📦 research
 
 <sub>3 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [nano-banana-pro](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-banana-pro) | clawdbot | ⭐ 343.6k | A CLI wrapper for Google's Gemini 3 Pro Image API ... |
-| [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 340.2k | A Python script that generates multiple images usi... |
-| [agent-builder](https://www.skillhub.club/skill/shareai-lab-learn-claude-code-agent-builder) | shareAI-lab | ⭐ 45.7k | A scaffolding tool that generates working AI agent... |
+| [market-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-market-research) | affaan-m | ⭐ 237.8k | Conduct market research, competitive analysis, inv... |
+| [literature-review](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
+| [literature-review](https://www.skillhub.club/skill/affaan-m-ecc-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
 
 
 
@@ -324,41 +396,40 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 🎨 Design
-
-<sub>3 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [plan-design-review](https://www.skillhub.club/skill/garrytan-gstack-plan-design-review) | garrytan | ⭐ 60.0k | Interactive design plan review rating dimensions 0... |
-| [design-review](https://www.skillhub.club/skill/garrytan-gstack-design-review) | garrytan | ⭐ 59.9k | Visual QA that finds inconsistency, spacing issues... |
-| [design-consultation](https://www.skillhub.club/skill/garrytan-gstack-design-consultation) | garrytan | ⭐ 59.9k | Research-based design system creation with aesthet... |
-
-
-
----
-
-## 📦 security
+## 📊 Data & Analytics
 
 <sub>2 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [1password](https://www.skillhub.club/skill/clawdbot-clawdbot-1password) | clawdbot | ⭐ 343.6k | This skill provides a structured workflow for usin... |
-| [cso](https://www.skillhub.club/skill/garrytan-gstack-cso) | garrytan | ⭐ 59.9k | Chief Security Officer mode with infrastructure au... |
+| [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 343.7k | This skill wraps the songsee CLI tool to generate ... |
+| [ito-data-atlas-agent](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ito-data-atlas-agent) | affaan-m | ⭐ 237.8k | Design background Data Atlas style agents for Itô ... |
 
 
 
 ---
 
-## 📦 testing
+## 📦 ai-ml
 
 <sub>2 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 342.5k | Peekaboo is a CLI tool for macOS UI automation tha... |
-| [writing-bundler-tests](https://www.skillhub.club/skill/oven-sh-bun-writing-bundler-tests) | oven-sh | ⭐ 88.6k | Provides detailed guidance for writing bundler tes... |
+| [nano-banana-pro](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-banana-pro) | clawdbot | ⭐ 343.6k | A CLI wrapper for Google's Gemini 3 Pro Image API ... |
+| [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 340.2k | A Python script that generates multiple images usi... |
+
+
+
+---
+
+## 📦 mobile
+
+<sub>2 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [ios-icon-gen](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ios-icon-gen) | affaan-m | ⭐ 237.8k | SF Symbols（Apple ネイティブ 5,000 件以上）または Iconify API（2... |
+| [android-clean-architecture](https://www.skillhub.club/skill/affaan-m-ecc-android-clean-architecture) | affaan-m | ⭐ 237.8k | Android と Kotlin Multiplatform プロジェクトのクリーンアーキテクチャパ... |
 
 
 
@@ -377,37 +448,37 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📊 Data & Analytics
+## 📦 cloud
 
 <sub>1 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 343.7k | This skill wraps the songsee CLI tool to generate ... |
+| [homelab-pihole-dns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-homelab-pihole-dns) | affaan-m | ⭐ 237.8k | ホームラボ用Pi-hole DNS設定、広告ブロック、プライバシー、およびカスタムドメイン解決。 |
 
 
 
 ---
 
-## 📦 quality-assurance
+## ✍️ Writing
 
 <sub>1 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [Verification & Quality Assurance](https://www.skillhub.club/skill/ruvnet-ruview-verification-quality) | ruvnet | ⭐ 76.5k | Comprehensive truth scoring, code quality verifica... |
+| [article-writing](https://www.skillhub.club/skill/affaan-m-ecc-article-writing) | affaan-m | ⭐ 237.8k | Write articles, guides, blog posts, tutorials, new... |
 
 
 
 ---
 
-## 📦 workflow
+## 📦 github-integration
 
 <sub>1 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [stream-chain](https://www.skillhub.club/skill/ruvnet-ruview-stream-chain) | ruvnet | ⭐ 76.5k | Stream-JSON chaining for multi-agent pipelines, da... |
+| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-ruview-github-multi-repo) | ruvnet | ⭐ 76.5k | Multi-repository coordination, synchronization, an... |
 
 
 
@@ -425,13 +496,25 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📦 github-integration
+## 📦 workflow
 
 <sub>1 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [github-multi-repo](https://www.skillhub.club/skill/ruvnet-ruview-github-multi-repo) | ruvnet | ⭐ 76.5k | Multi-repository coordination, synchronization, an... |
+| [stream-chain](https://www.skillhub.club/skill/ruvnet-ruview-stream-chain) | ruvnet | ⭐ 76.5k | Stream-JSON chaining for multi-agent pipelines, da... |
+
+
+
+---
+
+## 📦 quality-assurance
+
+<sub>1 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [Verification & Quality Assurance](https://www.skillhub.club/skill/ruvnet-ruview-verification-quality) | ruvnet | ⭐ 76.5k | Comprehensive truth scoring, code quality verifica... |
 
 
 
@@ -521,18 +604,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📦 backend
-
-<sub>1 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [Add Admin API Endpoint](https://www.skillhub.club/skill/tryghost-ghost-add-admin-api-endpoint) | TryGhost | ⭐ 52.3k | This skill provides step-by-step instructions for ... |
-
-
-
----
-
 ## 🚀 How to Use | 使用方法
 
 1. **Find a skill** on [SkillHub](https://www.skillhub.club)
@@ -552,6 +623,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-04
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-05
 
 </div>
