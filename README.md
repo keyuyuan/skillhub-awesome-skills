@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-253566.3k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-14-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-15-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 253566.3k |
 | Categories | 18 |
-| Last Updated | 2026-08-14 |
+| Last Updated | 2026-08-15 |
 
 ---
 
@@ -53,8 +53,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
-| [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
+| [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
@@ -94,8 +94,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
-| [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
+| [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
 | [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
@@ -211,10 +211,10 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [ecc-tools-cost-audit](https://www.skillhub.club/skill/affaan-m-ecc-ecc-tools-cost-audit) | affaan-m | ⭐ 238.0k | ECC ツール、エージェント、スキル、および実装のコスト監査を実施します。プロンプト入力トークンを分... |
 | [django-security](https://www.skillhub.club/skill/affaan-m-ecc-django-security) | affaan-m | ⭐ 238.0k | Django security best practices, authentication, au... |
 | [agent-architecture-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-agent-architecture-audit) | affaan-m | ⭐ 237.9k | エージェントおよび LLM アプリケーション向けのフルスタック診断。12 層のエージェントスタックに... |
-| [security-review](https://www.skillhub.club/skill/affaan-m-ecc-security-review) | affaan-m | ⭐ 237.9k | Use this skill when adding authentication, handlin... |
 | [production-audit](https://www.skillhub.club/skill/affaan-m-ecc-production-audit) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは production-audit 用の日本語翻訳が必要です |
 | [defi-amm-security](https://www.skillhub.club/skill/affaan-m-ecc-defi-amm-security) | affaan-m | ⭐ 237.9k | DeFi自動マーケットメーカー（AMM）スマートコントラクトセキュリティ監査パターン。フラッシュロー... |
 | [springboot-security](https://www.skillhub.club/skill/affaan-m-ecc-springboot-security) | affaan-m | ⭐ 237.9k | Spring Security best practices for authn/authz, va... |
+| [security-review](https://www.skillhub.club/skill/affaan-m-ecc-security-review) | affaan-m | ⭐ 237.9k | Use this skill when adding authentication, handlin... |
 | [quarkus-security](https://www.skillhub.club/skill/affaan-m-ecc-quarkus-security) | affaan-m | ⭐ 237.9k | Buenas prácticas de seguridad en Quarkus para aute... |
 | [click-path-audit](https://www.skillhub.club/skill/affaan-m-ecc-click-path-audit) | affaan-m | ⭐ 237.9k | ユーザー向けボタン/タッチポイントを完全な状態変更シーケンスを通して追跡し、機能が個別に機能するが互... |
 | [production-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-production-audit) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは production-audit 用の日本語翻訳が必要です |
@@ -281,12 +281,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [xurl](https://www.skillhub.club/skill/nousresearch-hermes-agent-xurl) | NousResearch | ⭐ 226.0k | X/Twitter via xurl CLI: raw post search, posting, ... |
 | [shopify](https://www.skillhub.club/skill/nousresearch-hermes-agent-shopify) | NousResearch | ⭐ 226.0k | Query Shopify Admin/Storefront GraphQL APIs via cu... |
 | [llama-cpp](https://www.skillhub.club/skill/nousresearch-hermes-agent-llama-cpp) | NousResearch | ⭐ 226.0k | llama.cpp local GGUF inference + HF Hub model disc... |
-| [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
+| [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
-| [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
 | [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
 | [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
+| [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
 
 
 
@@ -566,6 +566,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-14
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-15
 
 </div>
