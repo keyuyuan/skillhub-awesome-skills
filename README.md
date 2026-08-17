@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-253566.3k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-16-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-17-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 253566.3k |
 | Categories | 18 |
-| Last Updated | 2026-08-16 |
+| Last Updated | 2026-08-17 |
 
 ---
 
@@ -44,8 +44,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | ⭐ Stars | Rating | Description |
 |-------|--------|---------|--------|-------------|
-| [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
+| [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
 | [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
@@ -85,8 +85,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
+| [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
 | [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
@@ -284,9 +284,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
 | [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
+| [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
 | [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
 | [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
-| [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
 
 
 
@@ -382,8 +382,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [frontend-design-direction](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-design-direction) | affaan-m | ⭐ 238.2k | フロントエンド設計の方向性、美的原則、および一貫した設計言語実装。 |
 | [accessibility](https://www.skillhub.club/skill/affaan-m-everything-claude-code-accessibility) | affaan-m | ⭐ 237.9k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
 | [design-system](https://www.skillhub.club/skill/affaan-m-ecc-design-system) | affaan-m | ⭐ 237.9k | アクセシビリティ、レスポンシブネス、テーマ設定、コンポーネント群、トークンを備えた本番環境対応デザイ... |
-| [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-everything-claude-code-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
 | [loop-design-check](https://www.skillhub.club/skill/affaan-m-everything-claude-code-loop-design-check) | affaan-m | ⭐ 237.8k | Design a goal-oriented agent loop, and review it f... |
+| [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-everything-claude-code-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
 | [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-ecc-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
 | [accessibility](https://www.skillhub.club/skill/affaan-m-ecc-accessibility) | affaan-m | ⭐ 237.8k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
 | [popular-web-designs](https://www.skillhub.club/skill/nousresearch-hermes-agent-popular-web-designs) | NousResearch | ⭐ 226.0k | 54 real design systems (Stripe, Linear, Vercel) as... |
@@ -409,8 +409,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [deep-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-deep-research) | affaan-m | ⭐ 238.0k | Multi-source deep research using firecrawl and exa... |
 | [prediction-market-oracle-research](https://www.skillhub.club/skill/affaan-m-ecc-prediction-market-oracle-research) | affaan-m | ⭐ 237.9k | Research prediction markets as data sources or ora... |
 | [prediction-market-oracle-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-prediction-market-oracle-research) | affaan-m | ⭐ 237.9k | Research prediction markets as data sources or ora... |
-| [market-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-market-research) | affaan-m | ⭐ 237.8k | Conduct market research, competitive analysis, inv... |
 | [literature-review](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
+| [market-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-market-research) | affaan-m | ⭐ 237.8k | Conduct market research, competitive analysis, inv... |
 | [literature-review](https://www.skillhub.club/skill/affaan-m-ecc-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
 | [parallel-cli](https://www.skillhub.club/skill/nousresearch-hermes-agent-parallel-cli) | NousResearch | ⭐ 226.0k | Agent-native web search, deep research, and enrich... |
 | [drug-discovery](https://www.skillhub.club/skill/nousresearch-hermes-agent-drug-discovery) | NousResearch | ⭐ 225.9k | Pharmaceutical research assistant for drug discove... |
@@ -566,6 +566,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-16
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-17
 
 </div>
