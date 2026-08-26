@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-253674.2k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-25-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-26-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 253674.2k |
 | Categories | 18 |
-| Last Updated | 2026-08-25 |
+| Last Updated | 2026-08-26 |
 
 ---
 
@@ -138,8 +138,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [obsidian](https://www.skillhub.club/skill/clawdbot-clawdbot-obsidian) | clawdbot | ⭐ 343.6k | This Skill provides CLI access to Obsidian vaults ... |
 | [food-order](https://www.skillhub.club/skill/clawdbot-clawdbot-food-order) | clawdbot | ⭐ 343.6k | This Claude Skill automates Foodora order reorderi... |
 | [blogwatcher](https://www.skillhub.club/skill/clawdbot-clawdbot-blogwatcher) | clawdbot | ⭐ 343.6k | A command-line tool for tracking RSS/Atom feed upd... |
-| [summarize](https://www.skillhub.club/skill/clawdbot-clawdbot-summarize) | clawdbot | ⭐ 343.6k | A CLI tool that summarizes content from URLs, loca... |
 | [ordercli](https://www.skillhub.club/skill/clawdbot-clawdbot-ordercli) | clawdbot | ⭐ 343.6k | A CLI tool for Foodora that lets users check past ... |
+| [summarize](https://www.skillhub.club/skill/clawdbot-clawdbot-summarize) | clawdbot | ⭐ 343.6k | A CLI tool that summarizes content from URLs, loca... |
 | [gifgrep](https://www.skillhub.club/skill/clawdbot-clawdbot-gifgrep) | clawdbot | ⭐ 343.5k | A CLI/TUI tool for searching GIFs from Tenor and G... |
 | [apple-reminders](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | ⭐ 343.5k | This skill provides terminal access to Apple Remin... |
 | [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 342.7k | This skill uses nano-pdf to edit PDF pages via nat... |
@@ -242,8 +242,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [ito-data-atlas-agent](https://www.skillhub.club/skill/affaan-m-ecc-ito-data-atlas-agent) | affaan-m | ⭐ 238.0k | Design background Data Atlas style agents for Itô ... |
 | [pubmed-database](https://www.skillhub.club/skill/affaan-m-ecc-scientific-db-pubmed-database) | affaan-m | ⭐ 237.9k | 生物医学文献、MeSH クエリ、PMID 検索、引用取得、および API を利用した文献モニタリング... |
 | [data-scraper-agent](https://www.skillhub.club/skill/affaan-m-ecc-data-scraper-agent) | affaan-m | ⭐ 237.9k | 任意のパブリックソース（ジョブボード、価格、ニュース、GitHub、スポーツなど）用の完全自動化され... |
-| [database-migrations](https://www.skillhub.club/skill/affaan-m-ecc-database-migrations) | affaan-m | ⭐ 237.9k | Database migration best practices for schema chang... |
 | [data-throughput-accelerator](https://www.skillhub.club/skill/affaan-m-ecc-data-throughput-accelerator) | affaan-m | ⭐ 237.9k | Use when large data ingestion, backfill, export, E... |
+| [database-migrations](https://www.skillhub.club/skill/affaan-m-ecc-database-migrations) | affaan-m | ⭐ 237.9k | Database migration best practices for schema chang... |
 | [pubmed-database](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-db-pubmed-database) | affaan-m | ⭐ 237.9k | 生物医学文献、MeSH クエリ、PMID 検索、引用取得、および API を利用した文献モニタリング... |
 | [ito-data-atlas-agent](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ito-data-atlas-agent) | affaan-m | ⭐ 237.8k | Design background Data Atlas style agents for Itô ... |
 | [excel-author](https://www.skillhub.club/skill/nousresearch-hermes-agent-excel-author) | NousResearch | ⭐ 226.0k | Build auditable financial workbooks headless via o... |
@@ -388,8 +388,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [accessibility](https://www.skillhub.club/skill/affaan-m-ecc-accessibility) | affaan-m | ⭐ 237.8k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
 | [popular-web-designs](https://www.skillhub.club/skill/nousresearch-hermes-agent-popular-web-designs) | NousResearch | ⭐ 226.0k | 54 real design systems (Stripe, Linear, Vercel) as... |
 | [design-md](https://www.skillhub.club/skill/nousresearch-hermes-agent-design-md) | NousResearch | ⭐ 226.0k | Author/validate/export Google's DESIGN.md token sp... |
-| [claude-design](https://www.skillhub.club/skill/nousresearch-hermes-agent-claude-design) | NousResearch | ⭐ 225.9k | Design one-off HTML artifacts (landing, deck, prot... |
 | [stable-diffusion-image-generation](https://www.skillhub.club/skill/nousresearch-hermes-agent-stable-diffusion) | NousResearch | ⭐ 225.9k | Text-to-image generation, inpainting, and img2img.... |
+| [claude-design](https://www.skillhub.club/skill/nousresearch-hermes-agent-claude-design) | NousResearch | ⭐ 225.9k | Design one-off HTML artifacts (landing, deck, prot... |
 | [n8n:content-design](https://www.skillhub.club/skill/n8n-io-n8n-content-design) | n8n-io | ⭐ 199.5k | Product content designer for UI copy. Use when wri... |
 | [n8n:design-system](https://www.skillhub.club/skill/n8n-io-n8n-design-system) | n8n-io | ⭐ 199.5k | Guidelines on using Design System styles and compo... |
 
@@ -566,6 +566,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-25
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-26
 
 </div>
