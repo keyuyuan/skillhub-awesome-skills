@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-253674.2k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-28-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-29-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 253674.2k |
+| Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-08-28 |
+| Last Updated | 2026-08-29 |
 
 ---
 
@@ -53,8 +53,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
-| [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
+| [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
@@ -81,7 +81,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 💻 Development
 
-<sub>756 skills</sub>
+<sub>755 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -94,8 +94,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
-| [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
+| [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
 | [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
@@ -116,7 +116,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
 | [model-usage](https://www.skillhub.club/skill/moltbot-moltbot-model-usage) | moltbot | ⭐ 343.7k | Use CodexBar CLI local cost usage to summarize per... |
 
-<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 756 →</a></div>
+<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 755 →</a></div>
 
 ---
 
@@ -143,8 +143,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [gifgrep](https://www.skillhub.club/skill/clawdbot-clawdbot-gifgrep) | clawdbot | ⭐ 343.5k | A CLI/TUI tool for searching GIFs from Tenor and G... |
 | [apple-reminders](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | ⭐ 343.5k | This skill provides terminal access to Apple Remin... |
 | [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 342.7k | This skill uses nano-pdf to edit PDF pages via nat... |
-| [inventory-demand-planning](https://www.skillhub.club/skill/affaan-m-ecc-inventory-demand-planning) | affaan-m | ⭐ 238.0k | 在庫管理、需要予測、補充戦略、およびサプライチェーン最適化。 Codified expertise ... |
 | [dynamic-workflow-mode](https://www.skillhub.club/skill/affaan-m-ecc-dynamic-workflow-mode) | affaan-m | ⭐ 238.0k | Design task-local harnesses, eval gates, and reusa... |
+| [inventory-demand-planning](https://www.skillhub.club/skill/affaan-m-ecc-inventory-demand-planning) | affaan-m | ⭐ 238.0k | 在庫管理、需要予測、補充戦略、およびサプライチェーン最適化。 Codified expertise ... |
 | [netmiko-ssh-automation](https://www.skillhub.club/skill/affaan-m-everything-claude-code-netmiko-ssh-automation) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは netmiko-ssh-automation 用の日本語翻訳が必要です |
 | [mle-workflow](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mle-workflow) | affaan-m | ⭐ 237.8k | Production machine-learning engineering workflow f... |
 | [inventory-demand-planning](https://www.skillhub.club/skill/affaan-m-everything-claude-code-inventory-demand-planning) | affaan-m | ⭐ 237.8k | 在庫管理、需要予測、補充戦略、およびサプライチェーン最適化。 Codified expertise ... |
@@ -199,11 +199,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📦 security
 
-<sub>22 skills</sub>
+<sub>23 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
 | [1password](https://www.skillhub.club/skill/clawdbot-clawdbot-1password) | clawdbot | ⭐ 343.6k | This skill provides a structured workflow for usin... |
+| [audit-the-list](https://www.skillhub.club/skill/vinta-awesome-python-audit-the-list) | vinta | ⭐ 316.8k | Audit README.md sections against the shortlist rul... |
 | [click-path-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-click-path-audit) | affaan-m | ⭐ 238.8k | ユーザー向けボタン/タッチポイントを完全な状態変更シーケンスを通して追跡し、機能が個別に機能するが互... |
 | [workspace-surface-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-workspace-surface-audit) | affaan-m | ⭐ 238.0k | アクティブなリポジトリ、MCPサーバー、プラグイン、コネクター、環境サーフェス、ツールのセットアップ... |
 | [security-bounty-hunter](https://www.skillhub.club/skill/affaan-m-everything-claude-code-security-bounty-hunter) | affaan-m | ⭐ 238.0k | リポジトリ内の悪用可能なバウンティ対象のセキュリティ問題を発見します。ノイズの多いローカルのみの発見... |
@@ -566,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-28
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-29
 
 </div>
