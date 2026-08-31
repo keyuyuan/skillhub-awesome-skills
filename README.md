@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-30-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-31-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-08-30 |
+| Last Updated | 2026-08-31 |
 
 ---
 
@@ -61,8 +61,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**himalaya**](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | 344.9k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
 | [**peekaboo**](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | 344.9k | - | Capture and automate macOS UI with the Peekaboo CL... |
-| [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 344.8k | - | Capture and automate macOS UI with the Peekaboo CL... |
+| [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
 | [**songsee**](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | 344.8k | - | Generate spectrograms and feature-panel visualizat... |
 | [**1password**](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | 344.8k | - | Set up and use 1Password CLI (op). Use when instal... |
@@ -101,8 +101,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [openai-image-gen](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | ⭐ 344.9k | Batch-generate images via OpenAI Images API. Rando... |
 | [peekaboo](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | ⭐ 344.9k | Capture and automate macOS UI with the Peekaboo CL... |
-| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 344.8k | Capture and automate macOS UI with the Peekaboo CL... |
+| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
 | [songsee](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | ⭐ 344.8k | Generate spectrograms and feature-panel visualizat... |
 | [1password](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | ⭐ 344.8k | Set up and use 1Password CLI (op). Use when instal... |
@@ -177,11 +177,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [windows-desktop-e2e](https://www.skillhub.club/skill/affaan-m-everything-claude-code-windows-desktop-e2e) | affaan-m | ⭐ 238.0k | E2E testing for Windows native desktop apps (WPF, ... |
 | [rust-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-rust-testing) | affaan-m | ⭐ 238.0k | Rust testing patterns including unit tests, integr... |
 | [e2e-testing](https://www.skillhub.club/skill/affaan-m-ecc-e2e-testing) | affaan-m | ⭐ 238.0k | Playwright E2E testing patterns, Page Object Model... |
-| [tdd-workflow](https://www.skillhub.club/skill/affaan-m-ecc-tdd-workflow) | affaan-m | ⭐ 237.9k | Use this skill when writing new features, fixing b... |
 | [swift-protocol-di-testing](https://www.skillhub.club/skill/affaan-m-ecc-swift-protocol-di-testing) | affaan-m | ⭐ 237.9k | Protocol-based dependency injection for testable S... |
+| [tdd-workflow](https://www.skillhub.club/skill/affaan-m-ecc-tdd-workflow) | affaan-m | ⭐ 237.9k | Use this skill when writing new features, fixing b... |
+| [csharp-testing](https://www.skillhub.club/skill/affaan-m-ecc-csharp-testing) | affaan-m | ⭐ 237.9k | xUnit、FluentAssertions、モッキング、統合テスト、テスト組織のベストプラクティス... |
 | [react-testing](https://www.skillhub.club/skill/affaan-m-ecc-react-testing) | affaan-m | ⭐ 237.9k | React component testing with React Testing Library... |
 | [python-testing](https://www.skillhub.club/skill/affaan-m-ecc-python-testing) | affaan-m | ⭐ 237.9k | Python testing best practices using pytest includi... |
-| [csharp-testing](https://www.skillhub.club/skill/affaan-m-ecc-csharp-testing) | affaan-m | ⭐ 237.9k | xUnit、FluentAssertions、モッキング、統合テスト、テスト組織のベストプラクティス... |
 | [rust-testing](https://www.skillhub.club/skill/affaan-m-ecc-rust-testing) | affaan-m | ⭐ 237.9k | Rust testing patterns including unit tests, integr... |
 | [cpp-testing](https://www.skillhub.club/skill/affaan-m-ecc-cpp-testing) | affaan-m | ⭐ 237.9k | Use only when writing/updating/fixing C++ tests, c... |
 | [react-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-testing) | affaan-m | ⭐ 237.9k | React component testing with React Testing Library... |
@@ -272,8 +272,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [fastapi-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-fastapi-patterns) | affaan-m | ⭐ 238.1k | FastAPI patterns for async APIs, dependency inject... |
 | [x-api](https://www.skillhub.club/skill/affaan-m-everything-claude-code-x-api) | affaan-m | ⭐ 238.0k | X/Twitter API integration for posting tweets, thre... |
 | [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-ecc-homelab-wireguard-vpn) | affaan-m | ⭐ 238.0k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
-| [x-api](https://www.skillhub.club/skill/affaan-m-ecc-x-api) | affaan-m | ⭐ 237.9k | X/Twitter API integration for posting tweets, thre... |
 | [api-connector-builder](https://www.skillhub.club/skill/affaan-m-everything-claude-code-api-connector-builder) | affaan-m | ⭐ 237.9k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
+| [x-api](https://www.skillhub.club/skill/affaan-m-ecc-x-api) | affaan-m | ⭐ 237.9k | X/Twitter API integration for posting tweets, thre... |
 | [backend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-backend-patterns) | affaan-m | ⭐ 237.9k | Backend architecture patterns, API design, databas... |
 | [mcp-server-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mcp-server-patterns) | affaan-m | ⭐ 237.8k | Build MCP servers with Node/TypeScript SDK — tools... |
 | [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-everything-claude-code-homelab-wireguard-vpn) | affaan-m | ⭐ 237.8k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
@@ -301,8 +301,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 |-------|--------|-------|-------------|
 | [nano-banana-pro](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-banana-pro) | clawdbot | ⭐ 343.6k | A CLI wrapper for Google's Gemini 3 Pro Image API ... |
 | [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 340.2k | A Python script that generates multiple images usi... |
-| [fal-ai-media](https://www.skillhub.club/skill/affaan-m-ecc-fal-ai-media) | affaan-m | ⭐ 238.8k | Unified media generation via fal.ai MCP — image, v... |
 | [cost-aware-llm-pipeline](https://www.skillhub.club/skill/affaan-m-everything-claude-code-cost-aware-llm-pipeline) | affaan-m | ⭐ 238.8k | LLM APIの使用量のコスト最適化パターン — タスクの複雑さによるモデルルーティング、予算追跡、... |
+| [fal-ai-media](https://www.skillhub.club/skill/affaan-m-ecc-fal-ai-media) | affaan-m | ⭐ 238.8k | Unified media generation via fal.ai MCP — image, v... |
 | [fal-ai-media](https://www.skillhub.club/skill/affaan-m-everything-claude-code-fal-ai-media) | affaan-m | ⭐ 238.1k | Unified media generation via fal.ai MCP — image, v... |
 | [regex-vs-llm-structured-text](https://www.skillhub.club/skill/affaan-m-everything-claude-code-regex-vs-llm-structured-text) | affaan-m | ⭐ 238.0k | 構造化テキストの解析に正規表現と大規模言語モデルのどちらを使うかを選択するための意思決定フレームワー... |
 | [ai-regression-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ai-regression-testing) | affaan-m | ⭐ 237.9k | AI 支援開発のためのリグレッションテスト戦略。データベース依存なしのサンドボックスモード API ... |
@@ -354,16 +354,16 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
+| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
 | [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
 | [vue-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-vue-patterns) | affaan-m | ⭐ 238.0k | Vue.js 3 Composition API patterns, component archi... |
 | [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
 | [react-patterns](https://www.skillhub.club/skill/affaan-m-ecc-react-patterns) | affaan-m | ⭐ 237.9k | React 18/19 patterns including hooks discipline, s... |
-| [react-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-patterns) | affaan-m | ⭐ 237.9k | React 18/19 patterns including hooks discipline, s... |
 | [react-native-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-native-patterns) | affaan-m | ⭐ 237.9k | React Native and Expo app patterns — Expo Router n... |
 | [react-performance](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-performance) | affaan-m | ⭐ 237.9k | React and Next.js performance optimization pattern... |
+| [react-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-patterns) | affaan-m | ⭐ 237.9k | React 18/19 patterns including hooks discipline, s... |
 | [concept-diagrams](https://www.skillhub.club/skill/nousresearch-hermes-agent-concept-diagrams) | NousResearch | ⭐ 226.0k | Generate flat, minimal educational SVG visuals as ... |
 | [pretext](https://www.skillhub.club/skill/nousresearch-hermes-agent-pretext) | NousResearch | ⭐ 225.9k | Build creative browser demos with DOM-free text la... |
 | [frontend-query-mutation](https://www.skillhub.club/skill/langflow-ai-langflow-frontend-query-mutation) | langflow-ai | ⭐ 152.9k | Guide for implementing Langflow frontend query and... |
@@ -389,8 +389,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [accessibility](https://www.skillhub.club/skill/affaan-m-ecc-accessibility) | affaan-m | ⭐ 237.8k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
 | [popular-web-designs](https://www.skillhub.club/skill/nousresearch-hermes-agent-popular-web-designs) | NousResearch | ⭐ 226.0k | 54 real design systems (Stripe, Linear, Vercel) as... |
 | [design-md](https://www.skillhub.club/skill/nousresearch-hermes-agent-design-md) | NousResearch | ⭐ 226.0k | Author/validate/export Google's DESIGN.md token sp... |
-| [stable-diffusion-image-generation](https://www.skillhub.club/skill/nousresearch-hermes-agent-stable-diffusion) | NousResearch | ⭐ 225.9k | Text-to-image generation, inpainting, and img2img.... |
 | [claude-design](https://www.skillhub.club/skill/nousresearch-hermes-agent-claude-design) | NousResearch | ⭐ 225.9k | Design one-off HTML artifacts (landing, deck, prot... |
+| [stable-diffusion-image-generation](https://www.skillhub.club/skill/nousresearch-hermes-agent-stable-diffusion) | NousResearch | ⭐ 225.9k | Text-to-image generation, inpainting, and img2img.... |
 | [n8n:content-design](https://www.skillhub.club/skill/n8n-io-n8n-content-design) | n8n-io | ⭐ 199.5k | Product content designer for UI copy. Use when wri... |
 | [n8n:design-system](https://www.skillhub.club/skill/n8n-io-n8n-design-system) | n8n-io | ⭐ 199.5k | Guidelines on using Design System styles and compo... |
 
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-30
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-08-31
 
 </div>
