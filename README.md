@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-02-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-03-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-03 |
 
 ---
 
@@ -285,9 +285,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
 | [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
+| [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
 | [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
 | [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
-| [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
 
 
 
@@ -309,8 +309,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [ai-first-engineering](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ai-first-engineering) | affaan-m | ⭐ 237.9k | AI エージェントが大量の実装出力を生成するチームのためのエンジニアリング運用モデル。 |
 | [cost-aware-llm-pipeline](https://www.skillhub.club/skill/affaan-m-ecc-cost-aware-llm-pipeline) | affaan-m | ⭐ 237.9k | LLM APIの使用量のコスト最適化パターン — タスクの複雑さによるモデルルーティング、予算追跡、... |
 | [tensorrt-llm](https://www.skillhub.club/skill/nousresearch-hermes-agent-tensorrt-llm) | NousResearch | ⭐ 226.0k | High-throughput LLM inference on NVIDIA GPUs. |
-| [qdrant-vector-search](https://www.skillhub.club/skill/nousresearch-hermes-agent-qdrant) | NousResearch | ⭐ 226.0k | Vector search engine for production RAG systems. |
 | [songwriting-and-ai-music](https://www.skillhub.club/skill/nousresearch-hermes-agent-songwriting-and-ai-music) | NousResearch | ⭐ 226.0k | Songwriting craft and Suno AI music prompts. |
+| [qdrant-vector-search](https://www.skillhub.club/skill/nousresearch-hermes-agent-qdrant) | NousResearch | ⭐ 226.0k | Vector search engine for production RAG systems. |
 | [honcho](https://www.skillhub.club/skill/nousresearch-hermes-agent-honcho) | NousResearch | ⭐ 226.0k | Configure and troubleshoot Honcho memory for Herme... |
 | [telephony](https://www.skillhub.club/skill/nousresearch-hermes-agent-telephony) | NousResearch | ⭐ 225.9k | Provision Twilio numbers, SMS/MMS, and AI outbound... |
 | [instructor](https://www.skillhub.club/skill/nousresearch-hermes-agent-instructor) | NousResearch | ⭐ 225.9k | Structured LLM outputs validated with Pydantic. |
@@ -354,8 +354,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
+| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
 | [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
 | [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-02
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-03
 
 </div>
