@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-04-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-05-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-09-04 |
+| Last Updated | 2026-09-05 |
 
 ---
 
@@ -55,8 +55,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
-| [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
+| [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
 | [**himalaya**](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | 344.9k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
@@ -278,8 +278,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [mcp-server-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mcp-server-patterns) | affaan-m | ⭐ 237.8k | Build MCP servers with Node/TypeScript SDK — tools... |
 | [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-everything-claude-code-homelab-wireguard-vpn) | affaan-m | ⭐ 237.8k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
 | [api-connector-builder](https://www.skillhub.club/skill/affaan-m-ecc-api-connector-builder) | affaan-m | ⭐ 237.8k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
-| [xurl](https://www.skillhub.club/skill/nousresearch-hermes-agent-xurl) | NousResearch | ⭐ 226.0k | X/Twitter via xurl CLI: raw post search, posting, ... |
 | [mcporter](https://www.skillhub.club/skill/nousresearch-hermes-agent-mcporter) | NousResearch | ⭐ 226.0k | List, auth, and call MCP servers/tools from the te... |
+| [xurl](https://www.skillhub.club/skill/nousresearch-hermes-agent-xurl) | NousResearch | ⭐ 226.0k | X/Twitter via xurl CLI: raw post search, posting, ... |
 | [llama-cpp](https://www.skillhub.club/skill/nousresearch-hermes-agent-llama-cpp) | NousResearch | ⭐ 226.0k | llama.cpp local GGUF inference + HF Hub model disc... |
 | [shopify](https://www.skillhub.club/skill/nousresearch-hermes-agent-shopify) | NousResearch | ⭐ 226.0k | Query Shopify Admin/Storefront GraphQL APIs via cu... |
 | [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
@@ -354,8 +354,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
 | [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
+| [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
 | [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
 | [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-04
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-05
 
 </div>
