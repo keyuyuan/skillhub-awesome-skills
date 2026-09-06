@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-05-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-06-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-09-05 |
+| Last Updated | 2026-09-06 |
 
 ---
 
@@ -47,14 +47,14 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
 | [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
+| [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
+| [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
 | [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
-| [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
 | [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
-| [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
@@ -72,8 +72,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**openclaw-pr-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | 344.6k | - | Maintainer workflow for reviewing, triaging, prepa... |
 | [**openclaw-parallels-smoke**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | 344.6k | - | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [**openclaw-ghsa-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw GitHub Security A... |
-| [**node-connect**](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | 344.3k | - | Diagnose OpenClaw node connection and pairing fail... |
 | [**parallels-discord-roundtrip**](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | 344.3k | - | Run the macOS Parallels smoke harness with Discord... |
+| [**node-connect**](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | 344.3k | - | Diagnose OpenClaw node connection and pairing fail... |
 
 <div align="right"><a href="https://www.skillhub.club/skills?sort=stars">View all →</a></div>
 
@@ -88,14 +88,14 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
 | [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
+| [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
+| [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
 | [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
-| [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
 | [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
-| [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
 | [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
@@ -112,8 +112,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [openclaw-pr-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for reviewing, triaging, prepa... |
 | [openclaw-parallels-smoke](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | ⭐ 344.6k | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [openclaw-ghsa-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw GitHub Security A... |
-| [node-connect](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | ⭐ 344.3k | Diagnose OpenClaw node connection and pairing fail... |
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
+| [node-connect](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | ⭐ 344.3k | Diagnose OpenClaw node connection and pairing fail... |
 | [model-usage](https://www.skillhub.club/skill/moltbot-moltbot-model-usage) | moltbot | ⭐ 343.7k | Use CodexBar CLI local cost usage to summarize per... |
 
 <div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 755 →</a></div>
@@ -177,8 +177,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [windows-desktop-e2e](https://www.skillhub.club/skill/affaan-m-everything-claude-code-windows-desktop-e2e) | affaan-m | ⭐ 238.0k | E2E testing for Windows native desktop apps (WPF, ... |
 | [rust-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-rust-testing) | affaan-m | ⭐ 238.0k | Rust testing patterns including unit tests, integr... |
 | [e2e-testing](https://www.skillhub.club/skill/affaan-m-ecc-e2e-testing) | affaan-m | ⭐ 238.0k | Playwright E2E testing patterns, Page Object Model... |
-| [swift-protocol-di-testing](https://www.skillhub.club/skill/affaan-m-ecc-swift-protocol-di-testing) | affaan-m | ⭐ 237.9k | Protocol-based dependency injection for testable S... |
 | [tdd-workflow](https://www.skillhub.club/skill/affaan-m-ecc-tdd-workflow) | affaan-m | ⭐ 237.9k | Use this skill when writing new features, fixing b... |
+| [swift-protocol-di-testing](https://www.skillhub.club/skill/affaan-m-ecc-swift-protocol-di-testing) | affaan-m | ⭐ 237.9k | Protocol-based dependency injection for testable S... |
 | [csharp-testing](https://www.skillhub.club/skill/affaan-m-ecc-csharp-testing) | affaan-m | ⭐ 237.9k | xUnit、FluentAssertions、モッキング、統合テスト、テスト組織のベストプラクティス... |
 | [react-testing](https://www.skillhub.club/skill/affaan-m-ecc-react-testing) | affaan-m | ⭐ 237.9k | React component testing with React Testing Library... |
 | [python-testing](https://www.skillhub.club/skill/affaan-m-ecc-python-testing) | affaan-m | ⭐ 237.9k | Python testing best practices using pytest includi... |
@@ -272,8 +272,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [fastapi-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-fastapi-patterns) | affaan-m | ⭐ 238.1k | FastAPI patterns for async APIs, dependency inject... |
 | [x-api](https://www.skillhub.club/skill/affaan-m-everything-claude-code-x-api) | affaan-m | ⭐ 238.0k | X/Twitter API integration for posting tweets, thre... |
 | [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-ecc-homelab-wireguard-vpn) | affaan-m | ⭐ 238.0k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
-| [api-connector-builder](https://www.skillhub.club/skill/affaan-m-everything-claude-code-api-connector-builder) | affaan-m | ⭐ 237.9k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
 | [x-api](https://www.skillhub.club/skill/affaan-m-ecc-x-api) | affaan-m | ⭐ 237.9k | X/Twitter API integration for posting tweets, thre... |
+| [api-connector-builder](https://www.skillhub.club/skill/affaan-m-everything-claude-code-api-connector-builder) | affaan-m | ⭐ 237.9k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
 | [backend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-backend-patterns) | affaan-m | ⭐ 237.9k | Backend architecture patterns, API design, databas... |
 | [mcp-server-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mcp-server-patterns) | affaan-m | ⭐ 237.8k | Build MCP servers with Node/TypeScript SDK — tools... |
 | [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-everything-claude-code-homelab-wireguard-vpn) | affaan-m | ⭐ 237.8k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-05
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-06
 
 </div>
