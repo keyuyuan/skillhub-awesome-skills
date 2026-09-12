@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-11-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-12-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-09-11 |
+| Last Updated | 2026-09-12 |
 
 ---
 
@@ -52,9 +52,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
-| [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
+| [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**himalaya**](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | 344.9k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
@@ -64,8 +64,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 344.8k | - | Capture and automate macOS UI with the Peekaboo CL... |
 | [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
-| [**songsee**](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | 344.8k | - | Generate spectrograms and feature-panel visualizat... |
 | [**1password**](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | 344.8k | - | Set up and use 1Password CLI (op). Use when instal... |
+| [**songsee**](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | 344.8k | - | Generate spectrograms and feature-panel visualizat... |
 | [**bear-notes**](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | 344.8k | - | Create, search, and manage Bear notes via grizzly ... |
 | [**goplaces**](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | 344.8k | - | Query Google Places API (New) via the goplaces CLI... |
 | [**openclaw-release-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw releases, prerele... |
@@ -93,9 +93,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
-| [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
+| [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [openai-image-gen](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | ⭐ 344.9k | Batch-generate images via OpenAI Images API. Rando... |
@@ -104,8 +104,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 344.8k | Capture and automate macOS UI with the Peekaboo CL... |
 | [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
-| [songsee](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | ⭐ 344.8k | Generate spectrograms and feature-panel visualizat... |
 | [1password](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | ⭐ 344.8k | Set up and use 1Password CLI (op). Use when instal... |
+| [songsee](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | ⭐ 344.8k | Generate spectrograms and feature-panel visualizat... |
 | [bear-notes](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | ⭐ 344.8k | Create, search, and manage Bear notes via grizzly ... |
 | [goplaces](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | ⭐ 344.8k | Query Google Places API (New) via the goplaces CLI... |
 | [openclaw-release-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw releases, prerele... |
@@ -130,8 +130,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [apple-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-notes) | clawdbot | ⭐ 343.7k | This skill wraps the 'memo' CLI tool to manage App... |
 | [bear-notes](https://www.skillhub.club/skill/clawdbot-clawdbot-bear-notes) | clawdbot | ⭐ 343.7k | This skill provides CLI access to Bear notes on ma... |
 | [session-logs](https://www.skillhub.club/skill/clawdbot-clawdbot-session-logs) | clawdbot | ⭐ 343.6k | This skill provides jq-based shell commands to sea... |
-| [spotify-player](https://www.skillhub.club/skill/clawdbot-clawdbot-spotify-player) | clawdbot | ⭐ 343.6k | This skill provides terminal-based Spotify control... |
 | [video-frames](https://www.skillhub.club/skill/clawdbot-clawdbot-video-frames) | clawdbot | ⭐ 343.6k | A simple wrapper around ffmpeg to extract single f... |
+| [spotify-player](https://www.skillhub.club/skill/clawdbot-clawdbot-spotify-player) | clawdbot | ⭐ 343.6k | This skill provides terminal-based Spotify control... |
 | [things-mac](https://www.skillhub.club/skill/clawdbot-clawdbot-things-mac) | clawdbot | ⭐ 343.6k | This Skill provides CLI access to Things 3 on macO... |
 | [gog](https://www.skillhub.club/skill/clawdbot-clawdbot-gog) | clawdbot | ⭐ 343.6k | A CLI tool for interacting with Google Workspace s... |
 | [trello](https://www.skillhub.club/skill/clawdbot-clawdbot-trello) | clawdbot | ⭐ 343.6k | Provides curl commands to interact with Trello's R... |
@@ -206,8 +206,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [1password](https://www.skillhub.club/skill/clawdbot-clawdbot-1password) | clawdbot | ⭐ 343.6k | This skill provides a structured workflow for usin... |
 | [audit-the-list](https://www.skillhub.club/skill/vinta-awesome-python-audit-the-list) | vinta | ⭐ 316.8k | Audit README.md sections against the shortlist rul... |
 | [click-path-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-click-path-audit) | affaan-m | ⭐ 238.8k | ユーザー向けボタン/タッチポイントを完全な状態変更シーケンスを通して追跡し、機能が個別に機能するが互... |
-| [workspace-surface-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-workspace-surface-audit) | affaan-m | ⭐ 238.0k | アクティブなリポジトリ、MCPサーバー、プラグイン、コネクター、環境サーフェス、ツールのセットアップ... |
 | [security-bounty-hunter](https://www.skillhub.club/skill/affaan-m-everything-claude-code-security-bounty-hunter) | affaan-m | ⭐ 238.0k | リポジトリ内の悪用可能なバウンティ対象のセキュリティ問題を発見します。ノイズの多いローカルのみの発見... |
+| [workspace-surface-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-workspace-surface-audit) | affaan-m | ⭐ 238.0k | アクティブなリポジトリ、MCPサーバー、プラグイン、コネクター、環境サーフェス、ツールのセットアップ... |
 | [security-scan](https://www.skillhub.club/skill/affaan-m-everything-claude-code-security-scan) | affaan-m | ⭐ 238.0k | AgentShield を使用して、Claude Code の設定（.claude/ ディレクトリ）... |
 | [django-security](https://www.skillhub.club/skill/affaan-m-ecc-django-security) | affaan-m | ⭐ 238.0k | Django security best practices, authentication, au... |
 | [ecc-tools-cost-audit](https://www.skillhub.club/skill/affaan-m-ecc-ecc-tools-cost-audit) | affaan-m | ⭐ 238.0k | ECC ツール、エージェント、スキル、および実装のコスト監査を実施します。プロンプト入力トークンを分... |
@@ -337,8 +337,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [codehealth-mcp](https://www.skillhub.club/skill/affaan-m-everything-claude-code-codehealth-mcp) | affaan-m | ⭐ 238.8k | Real-time structural Code Health via CodeScene MCP... |
 | [jira-integration](https://www.skillhub.club/skill/affaan-m-ecc-jira-integration) | affaan-m | ⭐ 238.0k | Jira チケットの取得、要件分析、チケットステータスの更新、コメントの追加、またはイシューのトラン... |
 | [agent-self-evaluation](https://www.skillhub.club/skill/affaan-m-everything-claude-code-agent-self-evaluation) | affaan-m | ⭐ 237.9k | Use after completing any non-trivial task. The age... |
-| [jira-integration](https://www.skillhub.club/skill/affaan-m-everything-claude-code-jira-integration) | affaan-m | ⭐ 237.8k | Jira チケットの取得、要件分析、チケットステータスの更新、コメントの追加、またはイシューのトラン... |
 | [laravel-plugin-discovery](https://www.skillhub.club/skill/affaan-m-everything-claude-code-laravel-plugin-discovery) | affaan-m | ⭐ 237.8k | Laravel プラグイン検出、パッケージ管理、依存関係解決、およびサービスプロバイダ統合。 |
+| [jira-integration](https://www.skillhub.club/skill/affaan-m-everything-claude-code-jira-integration) | affaan-m | ⭐ 237.8k | Jira チケットの取得、要件分析、チケットステータスの更新、コメントの追加、またはイシューのトラン... |
 | [laravel-plugin-discovery](https://www.skillhub.club/skill/affaan-m-ecc-laravel-plugin-discovery) | affaan-m | ⭐ 237.8k | Laravel プラグイン検出、パッケージ管理、依存関係解決、およびサービスプロバイダ統合。 |
 | [touchdesigner-mcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-touchdesigner-mcp) | NousResearch | ⭐ 226.0k | Control TouchDesigner via twozero MCP. |
 | [blender-mcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-blender-mcp) | NousResearch | ⭐ 226.0k | Drive Blender via the catalog blender MCP, with bp... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-11
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-12
 
 </div>
