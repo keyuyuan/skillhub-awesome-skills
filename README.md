@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-15-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-16-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-09-15 |
+| Last Updated | 2026-09-16 |
 
 ---
 
@@ -66,11 +66,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
 | [**1password**](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | 344.8k | - | Set up and use 1Password CLI (op). Use when instal... |
 | [**songsee**](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | 344.8k | - | Generate spectrograms and feature-panel visualizat... |
-| [**bear-notes**](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | 344.8k | - | Create, search, and manage Bear notes via grizzly ... |
 | [**goplaces**](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | 344.8k | - | Query Google Places API (New) via the goplaces CLI... |
+| [**bear-notes**](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | 344.8k | - | Create, search, and manage Bear notes via grizzly ... |
 | [**openclaw-release-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw releases, prerele... |
-| [**openclaw-pr-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | 344.6k | - | Maintainer workflow for reviewing, triaging, prepa... |
 | [**openclaw-ghsa-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw GitHub Security A... |
+| [**openclaw-pr-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | 344.6k | - | Maintainer workflow for reviewing, triaging, prepa... |
 | [**openclaw-parallels-smoke**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | 344.6k | - | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [**node-connect**](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | 344.3k | - | Diagnose OpenClaw node connection and pairing fail... |
 | [**parallels-discord-roundtrip**](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | 344.3k | - | Run the macOS Parallels smoke harness with Discord... |
@@ -106,11 +106,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
 | [1password](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | ⭐ 344.8k | Set up and use 1Password CLI (op). Use when instal... |
 | [songsee](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | ⭐ 344.8k | Generate spectrograms and feature-panel visualizat... |
-| [bear-notes](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | ⭐ 344.8k | Create, search, and manage Bear notes via grizzly ... |
 | [goplaces](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | ⭐ 344.8k | Query Google Places API (New) via the goplaces CLI... |
+| [bear-notes](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | ⭐ 344.8k | Create, search, and manage Bear notes via grizzly ... |
 | [openclaw-release-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw releases, prerele... |
-| [openclaw-pr-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for reviewing, triaging, prepa... |
 | [openclaw-ghsa-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw GitHub Security A... |
+| [openclaw-pr-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for reviewing, triaging, prepa... |
 | [openclaw-parallels-smoke](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | ⭐ 344.6k | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [node-connect](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | ⭐ 344.3k | Diagnose OpenClaw node connection and pairing fail... |
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
@@ -354,8 +354,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
+| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
 | [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
 | [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-15
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-09-16
 
 </div>
