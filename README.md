@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-02-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-03-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-10-02 |
+| Last Updated | 2026-10-03 |
 
 ---
 
@@ -44,8 +44,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | ⭐ Stars | Rating | Description |
 |-------|--------|---------|--------|-------------|
-| [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
+| [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
 | [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
@@ -69,8 +69,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**goplaces**](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | 344.8k | - | Query Google Places API (New) via the goplaces CLI... |
 | [**bear-notes**](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | 344.8k | - | Create, search, and manage Bear notes via grizzly ... |
 | [**openclaw-release-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw releases, prerele... |
-| [**openclaw-ghsa-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw GitHub Security A... |
 | [**openclaw-pr-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | 344.6k | - | Maintainer workflow for reviewing, triaging, prepa... |
+| [**openclaw-ghsa-maintainer**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | 344.6k | - | Maintainer workflow for OpenClaw GitHub Security A... |
 | [**openclaw-parallels-smoke**](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | 344.6k | - | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [**node-connect**](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | 344.3k | - | Diagnose OpenClaw node connection and pairing fail... |
 | [**parallels-discord-roundtrip**](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | 344.3k | - | Run the macOS Parallels smoke harness with Discord... |
@@ -85,8 +85,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
+| [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
 | [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
@@ -109,8 +109,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [goplaces](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | ⭐ 344.8k | Query Google Places API (New) via the goplaces CLI... |
 | [bear-notes](https://www.skillhub.club/skill/moltbot-moltbot-bear-notes) | moltbot | ⭐ 344.8k | Create, search, and manage Bear notes via grizzly ... |
 | [openclaw-release-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-release-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw releases, prerele... |
-| [openclaw-ghsa-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw GitHub Security A... |
 | [openclaw-pr-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-pr-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for reviewing, triaging, prepa... |
+| [openclaw-ghsa-maintainer](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-ghsa-maintainer) | openclaw | ⭐ 344.6k | Maintainer workflow for OpenClaw GitHub Security A... |
 | [openclaw-parallels-smoke](https://www.skillhub.club/skill/openclaw-openclaw-openclaw-parallels-smoke) | openclaw | ⭐ 344.6k | End-to-end Parallels smoke, upgrade, and rerun wor... |
 | [node-connect](https://www.skillhub.club/skill/openclaw-openclaw-node-connect) | openclaw | ⭐ 344.3k | Diagnose OpenClaw node connection and pairing fail... |
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
@@ -285,8 +285,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
 | [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
-| [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
 | [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
+| [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
 | [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
 
 
@@ -410,8 +410,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [deep-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-deep-research) | affaan-m | ⭐ 238.0k | Multi-source deep research using firecrawl and exa... |
 | [prediction-market-oracle-research](https://www.skillhub.club/skill/affaan-m-ecc-prediction-market-oracle-research) | affaan-m | ⭐ 237.9k | Research prediction markets as data sources or ora... |
 | [prediction-market-oracle-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-prediction-market-oracle-research) | affaan-m | ⭐ 237.9k | Research prediction markets as data sources or ora... |
-| [literature-review](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
 | [market-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-market-research) | affaan-m | ⭐ 237.8k | Conduct market research, competitive analysis, inv... |
+| [literature-review](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
 | [literature-review](https://www.skillhub.club/skill/affaan-m-ecc-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
 | [parallel-cli](https://www.skillhub.club/skill/nousresearch-hermes-agent-parallel-cli) | NousResearch | ⭐ 226.0k | Agent-native web search, deep research, and enrich... |
 | [drug-discovery](https://www.skillhub.club/skill/nousresearch-hermes-agent-drug-discovery) | NousResearch | ⭐ 225.9k | Pharmaceutical research assistant for drug discove... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-02
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-03
 
 </div>
