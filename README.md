@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-05-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-06-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-10-05 |
+| Last Updated | 2026-10-06 |
 
 ---
 
@@ -48,8 +48,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
 | [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
-| [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
+| [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
@@ -89,8 +89,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
 | [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
-| [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
+| [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
@@ -282,12 +282,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [mcporter](https://www.skillhub.club/skill/nousresearch-hermes-agent-mcporter) | NousResearch | ⭐ 226.0k | List, auth, and call MCP servers/tools from the te... |
 | [llama-cpp](https://www.skillhub.club/skill/nousresearch-hermes-agent-llama-cpp) | NousResearch | ⭐ 226.0k | llama.cpp local GGUF inference + HF Hub model disc... |
 | [shopify](https://www.skillhub.club/skill/nousresearch-hermes-agent-shopify) | NousResearch | ⭐ 226.0k | Query Shopify Admin/Storefront GraphQL APIs via cu... |
-| [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
+| [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
 | [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
-| [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
 | [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
+| [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
 
 
 
@@ -410,8 +410,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [deep-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-deep-research) | affaan-m | ⭐ 238.0k | Multi-source deep research using firecrawl and exa... |
 | [prediction-market-oracle-research](https://www.skillhub.club/skill/affaan-m-ecc-prediction-market-oracle-research) | affaan-m | ⭐ 237.9k | Research prediction markets as data sources or ora... |
 | [prediction-market-oracle-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-prediction-market-oracle-research) | affaan-m | ⭐ 237.9k | Research prediction markets as data sources or ora... |
-| [market-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-market-research) | affaan-m | ⭐ 237.8k | Conduct market research, competitive analysis, inv... |
 | [literature-review](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
+| [market-research](https://www.skillhub.club/skill/affaan-m-everything-claude-code-market-research) | affaan-m | ⭐ 237.8k | Conduct market research, competitive analysis, inv... |
 | [literature-review](https://www.skillhub.club/skill/affaan-m-ecc-scientific-thinking-literature-review) | affaan-m | ⭐ 237.8k | 学術、生物医学、技術、科学的なトピックに対するシステマティックな文献レビューワークフロー。検索計画、... |
 | [parallel-cli](https://www.skillhub.club/skill/nousresearch-hermes-agent-parallel-cli) | NousResearch | ⭐ 226.0k | Agent-native web search, deep research, and enrich... |
 | [drug-discovery](https://www.skillhub.club/skill/nousresearch-hermes-agent-drug-discovery) | NousResearch | ⭐ 225.9k | Pharmaceutical research assistant for drug discove... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-05
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-06
 
 </div>
