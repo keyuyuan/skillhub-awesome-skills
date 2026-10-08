@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-07-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-08-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-10-07 |
+| Last Updated | 2026-10-08 |
 
 ---
 
@@ -47,11 +47,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
 | [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
+| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
-| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
@@ -61,8 +61,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
 | [**peekaboo**](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | 344.9k | - | Capture and automate macOS UI with the Peekaboo CL... |
-| [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
+| [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 344.8k | - | Capture and automate macOS UI with the Peekaboo CL... |
 | [**1password**](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | 344.8k | - | Set up and use 1Password CLI (op). Use when instal... |
 | [**songsee**](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | 344.8k | - | Generate spectrograms and feature-panel visualizat... |
@@ -88,11 +88,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
 | [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
+| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
-| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
@@ -101,8 +101,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [openai-image-gen](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | ⭐ 344.9k | Batch-generate images via OpenAI Images API. Rando... |
 | [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
 | [peekaboo](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | ⭐ 344.9k | Capture and automate macOS UI with the Peekaboo CL... |
-| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
+| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 344.8k | Capture and automate macOS UI with the Peekaboo CL... |
 | [1password](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | ⭐ 344.8k | Set up and use 1Password CLI (op). Use when instal... |
 | [songsee](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | ⭐ 344.8k | Generate spectrograms and feature-panel visualizat... |
@@ -314,8 +314,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [honcho](https://www.skillhub.club/skill/nousresearch-hermes-agent-honcho) | NousResearch | ⭐ 226.0k | Configure and troubleshoot Honcho memory for Herme... |
 | [telephony](https://www.skillhub.club/skill/nousresearch-hermes-agent-telephony) | NousResearch | ⭐ 225.9k | Provision Twilio numbers, SMS/MMS, and AI outbound... |
 | [instructor](https://www.skillhub.club/skill/nousresearch-hermes-agent-instructor) | NousResearch | ⭐ 225.9k | Structured LLM outputs validated with Pydantic. |
-| [llm-wiki](https://www.skillhub.club/skill/nousresearch-hermes-agent-llm-wiki) | NousResearch | ⭐ 225.9k | Karpathy's LLM Wiki: build/query interlinked markd... |
 | [chroma](https://www.skillhub.club/skill/nousresearch-hermes-agent-chroma) | NousResearch | ⭐ 225.9k | Embedding database for RAG and semantic search. |
+| [llm-wiki](https://www.skillhub.club/skill/nousresearch-hermes-agent-llm-wiki) | NousResearch | ⭐ 225.9k | Karpathy's LLM Wiki: build/query interlinked markd... |
 | [n8n:create-instance-ai-eval](https://www.skillhub.club/skill/n8n-io-n8n-create-instance-ai-eval) | n8n-io | ⭐ 199.5k | Authors a new Instance AI workflow eval case — wri... |
 
 
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-07
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-08
 
 </div>
