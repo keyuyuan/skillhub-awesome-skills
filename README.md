@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-08-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-09-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-10-08 |
+| Last Updated | 2026-10-09 |
 
 ---
 
@@ -47,8 +47,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**video-frames**](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | 344.9k | - | Extract frames or short clips from videos using ff... |
 | [**oracle**](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | 344.9k | - | Best practices for using the oracle CLI (prompt + ... |
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
-| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
+| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
 | [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
@@ -88,8 +88,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [video-frames](https://www.skillhub.club/skill/molt-bot-clawdbot-video-frames) | molt-bot | ⭐ 344.9k | Extract frames or short clips from videos using ff... |
 | [oracle](https://www.skillhub.club/skill/openclaw-openclaw-oracle) | openclaw | ⭐ 344.9k | Best practices for using the oracle CLI (prompt + ... |
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
-| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
+| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
 | [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
@@ -177,8 +177,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [windows-desktop-e2e](https://www.skillhub.club/skill/affaan-m-everything-claude-code-windows-desktop-e2e) | affaan-m | ⭐ 238.0k | E2E testing for Windows native desktop apps (WPF, ... |
 | [rust-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-rust-testing) | affaan-m | ⭐ 238.0k | Rust testing patterns including unit tests, integr... |
 | [e2e-testing](https://www.skillhub.club/skill/affaan-m-ecc-e2e-testing) | affaan-m | ⭐ 238.0k | Playwright E2E testing patterns, Page Object Model... |
-| [swift-protocol-di-testing](https://www.skillhub.club/skill/affaan-m-ecc-swift-protocol-di-testing) | affaan-m | ⭐ 237.9k | Protocol-based dependency injection for testable S... |
 | [tdd-workflow](https://www.skillhub.club/skill/affaan-m-ecc-tdd-workflow) | affaan-m | ⭐ 237.9k | Use this skill when writing new features, fixing b... |
+| [swift-protocol-di-testing](https://www.skillhub.club/skill/affaan-m-ecc-swift-protocol-di-testing) | affaan-m | ⭐ 237.9k | Protocol-based dependency injection for testable S... |
 | [csharp-testing](https://www.skillhub.club/skill/affaan-m-ecc-csharp-testing) | affaan-m | ⭐ 237.9k | xUnit、FluentAssertions、モッキング、統合テスト、テスト組織のベストプラクティス... |
 | [react-testing](https://www.skillhub.club/skill/affaan-m-ecc-react-testing) | affaan-m | ⭐ 237.9k | React component testing with React Testing Library... |
 | [python-testing](https://www.skillhub.club/skill/affaan-m-ecc-python-testing) | affaan-m | ⭐ 237.9k | Python testing best practices using pytest includi... |
@@ -314,8 +314,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [honcho](https://www.skillhub.club/skill/nousresearch-hermes-agent-honcho) | NousResearch | ⭐ 226.0k | Configure and troubleshoot Honcho memory for Herme... |
 | [telephony](https://www.skillhub.club/skill/nousresearch-hermes-agent-telephony) | NousResearch | ⭐ 225.9k | Provision Twilio numbers, SMS/MMS, and AI outbound... |
 | [instructor](https://www.skillhub.club/skill/nousresearch-hermes-agent-instructor) | NousResearch | ⭐ 225.9k | Structured LLM outputs validated with Pydantic. |
-| [chroma](https://www.skillhub.club/skill/nousresearch-hermes-agent-chroma) | NousResearch | ⭐ 225.9k | Embedding database for RAG and semantic search. |
 | [llm-wiki](https://www.skillhub.club/skill/nousresearch-hermes-agent-llm-wiki) | NousResearch | ⭐ 225.9k | Karpathy's LLM Wiki: build/query interlinked markd... |
+| [chroma](https://www.skillhub.club/skill/nousresearch-hermes-agent-chroma) | NousResearch | ⭐ 225.9k | Embedding database for RAG and semantic search. |
 | [n8n:create-instance-ai-eval](https://www.skillhub.club/skill/n8n-io-n8n-create-instance-ai-eval) | n8n-io | ⭐ 199.5k | Authors a new Instance AI workflow eval case — wri... |
 
 
@@ -354,8 +354,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
 | [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
+| [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
 | [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
 | [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-08
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-09
 
 </div>
