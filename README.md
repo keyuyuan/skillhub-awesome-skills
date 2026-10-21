@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-20-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-21-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-10-20 |
+| Last Updated | 2026-10-21 |
 
 ---
 
@@ -52,9 +52,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
+| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
-| [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
@@ -93,9 +93,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
+| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
-| [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
 | [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
@@ -250,8 +250,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [excel-author](https://www.skillhub.club/skill/nousresearch-hermes-agent-excel-author) | NousResearch | ⭐ 226.0k | Build auditable financial workbooks headless via o... |
 | [dspy](https://www.skillhub.club/skill/nousresearch-hermes-agent-dspy) | NousResearch | ⭐ 226.0k | DSPy: declarative LM programs, auto-optimize promp... |
 | [manim-video](https://www.skillhub.club/skill/nousresearch-hermes-agent-manim-video) | NousResearch | ⭐ 226.0k | Manim CE animations: 3Blue1Brown math/algo videos.... |
-| [osint-investigation](https://www.skillhub.club/skill/nousresearch-hermes-agent-osint-investigation) | NousResearch | ⭐ 226.0k | Follow the money via public records and sanctions ... |
 | [dcf-model](https://www.skillhub.club/skill/nousresearch-hermes-agent-dcf-model) | NousResearch | ⭐ 226.0k | Build discounted cash flow valuation workbooks in ... |
+| [osint-investigation](https://www.skillhub.club/skill/nousresearch-hermes-agent-osint-investigation) | NousResearch | ⭐ 226.0k | Follow the money via public records and sanctions ... |
 | [slime-rl-training](https://www.skillhub.club/skill/nousresearch-hermes-agent-slime) | NousResearch | ⭐ 225.9k | RL post-training for LLMs with Megatron and SGLang... |
 | [3-statement-model](https://www.skillhub.club/skill/nousresearch-hermes-agent-3-statement-model) | NousResearch | ⭐ 225.9k | Build integrated IS/BS/CF financial workbooks in E... |
 | [comps-analysis](https://www.skillhub.club/skill/nousresearch-hermes-agent-comps-analysis) | NousResearch | ⭐ 225.9k | Build comparable-company valuation workbooks in Ex... |
@@ -301,8 +301,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 |-------|--------|-------|-------------|
 | [nano-banana-pro](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-banana-pro) | clawdbot | ⭐ 343.6k | A CLI wrapper for Google's Gemini 3 Pro Image API ... |
 | [openai-image-gen](https://www.skillhub.club/skill/clawdbot-clawdbot-openai-image-gen) | clawdbot | ⭐ 340.2k | A Python script that generates multiple images usi... |
-| [fal-ai-media](https://www.skillhub.club/skill/affaan-m-ecc-fal-ai-media) | affaan-m | ⭐ 238.8k | Unified media generation via fal.ai MCP — image, v... |
 | [cost-aware-llm-pipeline](https://www.skillhub.club/skill/affaan-m-everything-claude-code-cost-aware-llm-pipeline) | affaan-m | ⭐ 238.8k | LLM APIの使用量のコスト最適化パターン — タスクの複雑さによるモデルルーティング、予算追跡、... |
+| [fal-ai-media](https://www.skillhub.club/skill/affaan-m-ecc-fal-ai-media) | affaan-m | ⭐ 238.8k | Unified media generation via fal.ai MCP — image, v... |
 | [fal-ai-media](https://www.skillhub.club/skill/affaan-m-everything-claude-code-fal-ai-media) | affaan-m | ⭐ 238.1k | Unified media generation via fal.ai MCP — image, v... |
 | [regex-vs-llm-structured-text](https://www.skillhub.club/skill/affaan-m-everything-claude-code-regex-vs-llm-structured-text) | affaan-m | ⭐ 238.0k | 構造化テキストの解析に正規表現と大規模言語モデルのどちらを使うかを選択するための意思決定フレームワー... |
 | [ai-first-engineering](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ai-first-engineering) | affaan-m | ⭐ 237.9k | AI エージェントが大量の実装出力を生成するチームのためのエンジニアリング運用モデル。 |
@@ -354,8 +354,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
 | [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
+| [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
 | [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
 | [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-20
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-21
 
 </div>
