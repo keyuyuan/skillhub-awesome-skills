@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-25-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-26-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 254237.6k |
 | Categories | 18 |
-| Last Updated | 2026-10-25 |
+| Last Updated | 2026-10-26 |
 
 ---
 
@@ -57,9 +57,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
-| [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
 | [**himalaya**](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | 344.9k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
+| [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
 | [**peekaboo**](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | 344.9k | - | Capture and automate macOS UI with the Peekaboo CL... |
 | [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
 | [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 344.8k | - | Capture and automate macOS UI with the Peekaboo CL... |
@@ -97,9 +97,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
-| [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
 | [openai-image-gen](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | ⭐ 344.9k | Batch-generate images via OpenAI Images API. Rando... |
+| [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
 | [peekaboo](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | ⭐ 344.9k | Capture and automate macOS UI with the Peekaboo CL... |
 | [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
 | [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 344.8k | Capture and automate macOS UI with the Peekaboo CL... |
@@ -143,8 +143,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [gifgrep](https://www.skillhub.club/skill/clawdbot-clawdbot-gifgrep) | clawdbot | ⭐ 343.5k | A CLI/TUI tool for searching GIFs from Tenor and G... |
 | [apple-reminders](https://www.skillhub.club/skill/clawdbot-clawdbot-apple-reminders) | clawdbot | ⭐ 343.5k | This skill provides terminal access to Apple Remin... |
 | [nano-pdf](https://www.skillhub.club/skill/clawdbot-clawdbot-nano-pdf) | clawdbot | ⭐ 342.7k | This skill uses nano-pdf to edit PDF pages via nat... |
-| [dynamic-workflow-mode](https://www.skillhub.club/skill/affaan-m-ecc-dynamic-workflow-mode) | affaan-m | ⭐ 238.0k | Design task-local harnesses, eval gates, and reusa... |
 | [inventory-demand-planning](https://www.skillhub.club/skill/affaan-m-ecc-inventory-demand-planning) | affaan-m | ⭐ 238.0k | 在庫管理、需要予測、補充戦略、およびサプライチェーン最適化。 Codified expertise ... |
+| [dynamic-workflow-mode](https://www.skillhub.club/skill/affaan-m-ecc-dynamic-workflow-mode) | affaan-m | ⭐ 238.0k | Design task-local harnesses, eval gates, and reusa... |
 | [netmiko-ssh-automation](https://www.skillhub.club/skill/affaan-m-everything-claude-code-netmiko-ssh-automation) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは netmiko-ssh-automation 用の日本語翻訳が必要です |
 | [mle-workflow](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mle-workflow) | affaan-m | ⭐ 237.8k | Production machine-learning engineering workflow f... |
 | [inventory-demand-planning](https://www.skillhub.club/skill/affaan-m-everything-claude-code-inventory-demand-planning) | affaan-m | ⭐ 237.8k | 在庫管理、需要予測、補充戦略、およびサプライチェーン最適化。 Codified expertise ... |
@@ -214,8 +214,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [agent-architecture-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-agent-architecture-audit) | affaan-m | ⭐ 237.9k | エージェントおよび LLM アプリケーション向けのフルスタック診断。12 層のエージェントスタックに... |
 | [production-audit](https://www.skillhub.club/skill/affaan-m-ecc-production-audit) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは production-audit 用の日本語翻訳が必要です |
 | [defi-amm-security](https://www.skillhub.club/skill/affaan-m-ecc-defi-amm-security) | affaan-m | ⭐ 237.9k | DeFi自動マーケットメーカー（AMM）スマートコントラクトセキュリティ監査パターン。フラッシュロー... |
-| [springboot-security](https://www.skillhub.club/skill/affaan-m-ecc-springboot-security) | affaan-m | ⭐ 237.9k | Spring Security best practices for authn/authz, va... |
 | [security-review](https://www.skillhub.club/skill/affaan-m-ecc-security-review) | affaan-m | ⭐ 237.9k | Use this skill when adding authentication, handlin... |
+| [springboot-security](https://www.skillhub.club/skill/affaan-m-ecc-springboot-security) | affaan-m | ⭐ 237.9k | Spring Security best practices for authn/authz, va... |
 | [quarkus-security](https://www.skillhub.club/skill/affaan-m-ecc-quarkus-security) | affaan-m | ⭐ 237.9k | Buenas prácticas de seguridad en Quarkus para aute... |
 | [click-path-audit](https://www.skillhub.club/skill/affaan-m-ecc-click-path-audit) | affaan-m | ⭐ 237.9k | ユーザー向けボタン/タッチポイントを完全な状態変更シーケンスを通して追跡し、機能が個別に機能するが互... |
 | [quarkus-security](https://www.skillhub.club/skill/affaan-m-everything-claude-code-quarkus-security) | affaan-m | ⭐ 237.9k | Buenas prácticas de seguridad en Quarkus para aute... |
@@ -242,8 +242,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [uspto-database](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-db-uspto-database) | affaan-m | ⭐ 238.0k | 公式記録の検索、PatentSearch クエリ、TSDR チェック、譲渡データ、および再現可能な ... |
 | [ito-data-atlas-agent](https://www.skillhub.club/skill/affaan-m-ecc-ito-data-atlas-agent) | affaan-m | ⭐ 238.0k | Design background Data Atlas style agents for Itô ... |
 | [pubmed-database](https://www.skillhub.club/skill/affaan-m-ecc-scientific-db-pubmed-database) | affaan-m | ⭐ 237.9k | 生物医学文献、MeSH クエリ、PMID 検索、引用取得、および API を利用した文献モニタリング... |
-| [database-migrations](https://www.skillhub.club/skill/affaan-m-ecc-database-migrations) | affaan-m | ⭐ 237.9k | Database migration best practices for schema chang... |
 | [data-throughput-accelerator](https://www.skillhub.club/skill/affaan-m-ecc-data-throughput-accelerator) | affaan-m | ⭐ 237.9k | Use when large data ingestion, backfill, export, E... |
+| [database-migrations](https://www.skillhub.club/skill/affaan-m-ecc-database-migrations) | affaan-m | ⭐ 237.9k | Database migration best practices for schema chang... |
 | [data-scraper-agent](https://www.skillhub.club/skill/affaan-m-ecc-data-scraper-agent) | affaan-m | ⭐ 237.9k | 任意のパブリックソース（ジョブボード、価格、ニュース、GitHub、スポーツなど）用の完全自動化され... |
 | [pubmed-database](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-db-pubmed-database) | affaan-m | ⭐ 237.9k | 生物医学文献、MeSH クエリ、PMID 検索、引用取得、および API を利用した文献モニタリング... |
 | [ito-data-atlas-agent](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ito-data-atlas-agent) | affaan-m | ⭐ 237.8k | Design background Data Atlas style agents for Itô ... |
@@ -280,8 +280,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [api-connector-builder](https://www.skillhub.club/skill/affaan-m-ecc-api-connector-builder) | affaan-m | ⭐ 237.8k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
 | [xurl](https://www.skillhub.club/skill/nousresearch-hermes-agent-xurl) | NousResearch | ⭐ 226.0k | X/Twitter via xurl CLI: raw post search, posting, ... |
 | [mcporter](https://www.skillhub.club/skill/nousresearch-hermes-agent-mcporter) | NousResearch | ⭐ 226.0k | List, auth, and call MCP servers/tools from the te... |
-| [shopify](https://www.skillhub.club/skill/nousresearch-hermes-agent-shopify) | NousResearch | ⭐ 226.0k | Query Shopify Admin/Storefront GraphQL APIs via cu... |
 | [llama-cpp](https://www.skillhub.club/skill/nousresearch-hermes-agent-llama-cpp) | NousResearch | ⭐ 226.0k | llama.cpp local GGUF inference + HF Hub model disc... |
+| [shopify](https://www.skillhub.club/skill/nousresearch-hermes-agent-shopify) | NousResearch | ⭐ 226.0k | Query Shopify Admin/Storefront GraphQL APIs via cu... |
 | [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
 | [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
@@ -567,6 +567,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-25
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-26
 
 </div>
