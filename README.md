@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-254237.6k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-27-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-255209.0k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-28-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 254237.6k |
+| Total GitHub Stars | 255209.0k |
 | Categories | 18 |
-| Last Updated | 2026-10-27 |
+| Last Updated | 2026-10-28 |
 
 ---
 
@@ -81,7 +81,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 💻 Development
 
-<sub>755 skills</sub>
+<sub>751 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -116,7 +116,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [parallels-discord-roundtrip](https://www.skillhub.club/skill/openclaw-openclaw-parallels-discord-roundtrip) | openclaw | ⭐ 344.3k | Run the macOS Parallels smoke harness with Discord... |
 | [model-usage](https://www.skillhub.club/skill/moltbot-moltbot-model-usage) | moltbot | ⭐ 343.7k | Use CodexBar CLI local cost usage to summarize per... |
 
-<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 755 →</a></div>
+<div align="right"><a href="https://www.skillhub.club/skills?category=development">View all 751 →</a></div>
 
 ---
 
@@ -163,11 +163,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📦 testing
 
-<sub>25 skills</sub>
+<sub>26 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
 | [peekaboo](https://www.skillhub.club/skill/clawdbot-clawdbot-peekaboo) | clawdbot | ⭐ 342.5k | Peekaboo is a CLI tool for macOS UI automation tha... |
+| [cpp-testing](https://www.skillhub.club/skill/affaan-m-ecc-cpp-testing-cf612da0fb) | affaan-m | ⭐ 291.4k | C++ テストの作成/更新/修正、GoogleTest/CTest の設定、失敗またはフレーキーなテ... |
 | [cpp-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-cpp-testing) | affaan-m | ⭐ 238.8k | Use only when writing/updating/fixing C++ tests, c... |
 | [golang-testing](https://www.skillhub.club/skill/affaan-m-ecc-golang-testing) | affaan-m | ⭐ 238.8k | Go testing best practices including table-driven t... |
 | [browser-qa](https://www.skillhub.club/skill/affaan-m-everything-claude-code-browser-qa) | affaan-m | ⭐ 238.8k | このスキルを使用して、機能をデプロイ後にブラウザ自動化を使用した自動ビジュアルテストとUI相互作用検... |
@@ -231,6 +232,39 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
+## 📦 backend
+
+<sub>22 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [backend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-backend-patterns-10da2e5428) | affaan-m | ⭐ 291.2k | Backend architecture patterns, API design, databas... |
+| [api-design](https://www.skillhub.club/skill/affaan-m-ecc-api-design-859fc6bf31) | affaan-m | ⭐ 290.9k | リソース命名、ステータス コード、ページネーション、フィルタリング、エラー応答、バージョン管理、およ... |
+| [fastapi-patterns](https://www.skillhub.club/skill/affaan-m-ecc-fastapi-patterns) | affaan-m | ⭐ 238.8k | FastAPI patterns for async APIs, dependency inject... |
+| [fastapi-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-fastapi-patterns) | affaan-m | ⭐ 238.1k | FastAPI patterns for async APIs, dependency inject... |
+| [x-api](https://www.skillhub.club/skill/affaan-m-everything-claude-code-x-api) | affaan-m | ⭐ 238.0k | X/Twitter API integration for posting tweets, thre... |
+| [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-ecc-homelab-wireguard-vpn) | affaan-m | ⭐ 238.0k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
+| [x-api](https://www.skillhub.club/skill/affaan-m-ecc-x-api) | affaan-m | ⭐ 237.9k | X/Twitter API integration for posting tweets, thre... |
+| [api-connector-builder](https://www.skillhub.club/skill/affaan-m-everything-claude-code-api-connector-builder) | affaan-m | ⭐ 237.9k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
+| [backend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-backend-patterns) | affaan-m | ⭐ 237.9k | Backend architecture patterns, API design, databas... |
+| [mcp-server-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mcp-server-patterns) | affaan-m | ⭐ 237.8k | Build MCP servers with Node/TypeScript SDK — tools... |
+| [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-everything-claude-code-homelab-wireguard-vpn) | affaan-m | ⭐ 237.8k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
+| [api-connector-builder](https://www.skillhub.club/skill/affaan-m-ecc-api-connector-builder) | affaan-m | ⭐ 237.8k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
+| [xurl](https://www.skillhub.club/skill/nousresearch-hermes-agent-xurl) | NousResearch | ⭐ 226.0k | X/Twitter via xurl CLI: raw post search, posting, ... |
+| [mcporter](https://www.skillhub.club/skill/nousresearch-hermes-agent-mcporter) | NousResearch | ⭐ 226.0k | List, auth, and call MCP servers/tools from the te... |
+| [llama-cpp](https://www.skillhub.club/skill/nousresearch-hermes-agent-llama-cpp) | NousResearch | ⭐ 226.0k | llama.cpp local GGUF inference + HF Hub model disc... |
+| [shopify](https://www.skillhub.club/skill/nousresearch-hermes-agent-shopify) | NousResearch | ⭐ 226.0k | Query Shopify Admin/Storefront GraphQL APIs via cu... |
+| [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
+| [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
+| [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
+| [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
+| [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
+| [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
+
+
+
+---
+
 ## 📊 Data & Analytics
 
 <sub>20 skills</sub>
@@ -257,37 +291,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [comps-analysis](https://www.skillhub.club/skill/nousresearch-hermes-agent-comps-analysis) | NousResearch | ⭐ 225.9k | Build comparable-company valuation workbooks in Ex... |
 | [data-table-manager](https://www.skillhub.club/skill/n8n-io-n8n-data-table-manager) | n8n-io | ⭐ 199.5k | Load before calling data-tables or parse-file. Use... |
 | [n8n:db-migrations](https://www.skillhub.club/skill/n8n-io-n8n-db-migrations) | n8n-io | ⭐ 199.5k | Authors n8n database migrations. Use when creating... |
-
-
-
----
-
-## 📦 backend
-
-<sub>20 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [fastapi-patterns](https://www.skillhub.club/skill/affaan-m-ecc-fastapi-patterns) | affaan-m | ⭐ 238.8k | FastAPI patterns for async APIs, dependency inject... |
-| [fastapi-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-fastapi-patterns) | affaan-m | ⭐ 238.1k | FastAPI patterns for async APIs, dependency inject... |
-| [x-api](https://www.skillhub.club/skill/affaan-m-everything-claude-code-x-api) | affaan-m | ⭐ 238.0k | X/Twitter API integration for posting tweets, thre... |
-| [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-ecc-homelab-wireguard-vpn) | affaan-m | ⭐ 238.0k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
-| [x-api](https://www.skillhub.club/skill/affaan-m-ecc-x-api) | affaan-m | ⭐ 237.9k | X/Twitter API integration for posting tweets, thre... |
-| [api-connector-builder](https://www.skillhub.club/skill/affaan-m-everything-claude-code-api-connector-builder) | affaan-m | ⭐ 237.9k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
-| [backend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-backend-patterns) | affaan-m | ⭐ 237.9k | Backend architecture patterns, API design, databas... |
-| [mcp-server-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-mcp-server-patterns) | affaan-m | ⭐ 237.8k | Build MCP servers with Node/TypeScript SDK — tools... |
-| [homelab-wireguard-vpn](https://www.skillhub.club/skill/affaan-m-everything-claude-code-homelab-wireguard-vpn) | affaan-m | ⭐ 237.8k | ホームラボWireGuard VPN設定、リモートアクセス、キー管理、およびエンドツーエンド暗号化。... |
-| [api-connector-builder](https://www.skillhub.club/skill/affaan-m-ecc-api-connector-builder) | affaan-m | ⭐ 237.8k | ターゲット リポジトリの既存統合パターンに正確に一致する新しい API コネクターまたはプロバイダー... |
-| [xurl](https://www.skillhub.club/skill/nousresearch-hermes-agent-xurl) | NousResearch | ⭐ 226.0k | X/Twitter via xurl CLI: raw post search, posting, ... |
-| [mcporter](https://www.skillhub.club/skill/nousresearch-hermes-agent-mcporter) | NousResearch | ⭐ 226.0k | List, auth, and call MCP servers/tools from the te... |
-| [llama-cpp](https://www.skillhub.club/skill/nousresearch-hermes-agent-llama-cpp) | NousResearch | ⭐ 226.0k | llama.cpp local GGUF inference + HF Hub model disc... |
-| [shopify](https://www.skillhub.club/skill/nousresearch-hermes-agent-shopify) | NousResearch | ⭐ 226.0k | Query Shopify Admin/Storefront GraphQL APIs via cu... |
-| [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
-| [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
-| [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
-| [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
-| [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
-| [minecraft-modpack-server](https://www.skillhub.club/skill/nousresearch-hermes-agent-minecraft-modpack-server) | NousResearch | ⭐ 225.9k | Host modded Minecraft servers (CurseForge, Modrint... |
 
 
 
@@ -504,10 +507,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## ✍️ Writing
 
-<sub>5 skills</sub>
+<sub>6 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
+| [article-writing](https://www.skillhub.club/skill/affaan-m-ecc-article-writing-50efc17bed) | affaan-m | ⭐ 291.0k | 記事、ガイド、ブログ投稿、チュートリアル、ニュースレター号、その他の長文コンテンツを、提供された例ま... |
 | [article-writing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-article-writing) | affaan-m | ⭐ 238.8k | Write articles, guides, blog posts, tutorials, new... |
 | [video-editing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-video-editing) | affaan-m | ⭐ 238.0k | AI-assisted video editing workflows for cutting, s... |
 | [video-editing](https://www.skillhub.club/skill/affaan-m-ecc-video-editing) | affaan-m | ⭐ 237.9k | AI-assisted video editing workflows for cutting, s... |
@@ -567,6 +571,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-27
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-28
 
 </div>
