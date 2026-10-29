@@ -6,8 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
-[![Stars](https://img.shields.io/badge/Total%20Stars-255209.0k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-28-green?style=flat-square)](https://www.skillhub.club)
+[![Stars](https://img.shields.io/badge/Total%20Stars-256320.5k-yellow?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-29-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -34,9 +34,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Metric | Value |
 |--------|-------|
 | Total Skills | 1000 |
-| Total GitHub Stars | 255209.0k |
+| Total GitHub Stars | 256320.5k |
 | Categories | 18 |
-| Last Updated | 2026-10-28 |
+| Last Updated | 2026-10-29 |
 
 ---
 
@@ -49,9 +49,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**local-places**](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | 344.9k | - | Search for places (restaurants, cafes, etc.) via G... |
 | [**spotify-player**](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | 344.9k | - | Terminal Spotify playback/search via spogo (prefer... |
 | [**things-mac**](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | 344.9k | - | Manage Things 3 via the `things` CLI on macOS (add... |
-| [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**templates**](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | 344.9k | - |  |
 | [**tmux**](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | 344.9k | - | Remote-control tmux sessions for interactive CLIs ... |
+| [**gemini**](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | 344.9k | - | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [**trello**](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | 344.9k | - | Manage Trello boards, lists, and cards via the Tre... |
 | [**notion**](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | 344.9k | - | Notion API for creating and managing pages, databa... |
 | [**discord**](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | 344.9k | - |  |
@@ -90,9 +90,9 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [local-places](https://www.skillhub.club/skill/openclaw-openclaw-local-places) | openclaw | ⭐ 344.9k | Search for places (restaurants, cafes, etc.) via G... |
 | [spotify-player](https://www.skillhub.club/skill/moltbot-moltbot-spotify-player) | moltbot | ⭐ 344.9k | Terminal Spotify playback/search via spogo (prefer... |
 | [things-mac](https://www.skillhub.club/skill/openclaw-openclaw-things-mac) | openclaw | ⭐ 344.9k | Manage Things 3 via the `things` CLI on macOS (add... |
-| [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [templates](https://www.skillhub.club/skill/openclaw-openclaw-templates) | openclaw | ⭐ 344.9k |  |
 | [tmux](https://www.skillhub.club/skill/openclaw-openclaw-tmux) | openclaw | ⭐ 344.9k | Remote-control tmux sessions for interactive CLIs ... |
+| [gemini](https://www.skillhub.club/skill/openclaw-openclaw-gemini) | openclaw | ⭐ 344.9k | Gemini CLI for one-shot Q&A, summaries, and genera... |
 | [trello](https://www.skillhub.club/skill/moltbot-moltbot-trello) | moltbot | ⭐ 344.9k | Manage Trello boards, lists, and cards via the Tre... |
 | [notion](https://www.skillhub.club/skill/clawdbot-clawdbot-notion) | clawdbot | ⭐ 344.9k | Notion API for creating and managing pages, databa... |
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
@@ -122,7 +122,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📦 productivity
 
-<sub>34 skills</sub>
+<sub>33 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -157,13 +157,48 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [baoyu-comic](https://www.skillhub.club/skill/nousresearch-hermes-agent-baoyu-comic) | NousResearch | ⭐ 225.9k | Knowledge comics (知识漫画): educational, biography, t... |
 | [sparse-autoencoder-training](https://www.skillhub.club/skill/nousresearch-hermes-agent-saelens) | NousResearch | ⭐ 225.9k | Train sparse autoencoders to interpret model featu... |
 
-<div align="right"><a href="https://www.skillhub.club/skills?category=productivity">View all 34 →</a></div>
+<div align="right"><a href="https://www.skillhub.club/skills?category=productivity">View all 33 →</a></div>
+
+---
+
+## 📦 security
+
+<sub>24 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [1password](https://www.skillhub.club/skill/clawdbot-clawdbot-1password) | clawdbot | ⭐ 343.6k | This skill provides a structured workflow for usin... |
+| [audit-the-list](https://www.skillhub.club/skill/vinta-awesome-python-audit-the-list) | vinta | ⭐ 316.8k | Audit README.md sections against the shortlist rul... |
+| [django-security](https://www.skillhub.club/skill/affaan-m-ecc-django-security-805e97faad) | affaan-m | ⭐ 291.8k | Django security best practices, authentication, au... |
+| [click-path-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-click-path-audit) | affaan-m | ⭐ 238.8k | ユーザー向けボタン/タッチポイントを完全な状態変更シーケンスを通して追跡し、機能が個別に機能するが互... |
+| [security-bounty-hunter](https://www.skillhub.club/skill/affaan-m-everything-claude-code-security-bounty-hunter) | affaan-m | ⭐ 238.0k | リポジトリ内の悪用可能なバウンティ対象のセキュリティ問題を発見します。ノイズの多いローカルのみの発見... |
+| [workspace-surface-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-workspace-surface-audit) | affaan-m | ⭐ 238.0k | アクティブなリポジトリ、MCPサーバー、プラグイン、コネクター、環境サーフェス、ツールのセットアップ... |
+| [security-scan](https://www.skillhub.club/skill/affaan-m-everything-claude-code-security-scan) | affaan-m | ⭐ 238.0k | AgentShield を使用して、Claude Code の設定（.claude/ ディレクトリ）... |
+| [django-security](https://www.skillhub.club/skill/affaan-m-ecc-django-security) | affaan-m | ⭐ 238.0k | Django security best practices, authentication, au... |
+| [ecc-tools-cost-audit](https://www.skillhub.club/skill/affaan-m-ecc-ecc-tools-cost-audit) | affaan-m | ⭐ 238.0k | ECC ツール、エージェント、スキル、および実装のコスト監査を実施します。プロンプト入力トークンを分... |
+| [agent-architecture-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-agent-architecture-audit) | affaan-m | ⭐ 237.9k | エージェントおよび LLM アプリケーション向けのフルスタック診断。12 層のエージェントスタックに... |
+| [production-audit](https://www.skillhub.club/skill/affaan-m-ecc-production-audit) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは production-audit 用の日本語翻訳が必要です |
+| [defi-amm-security](https://www.skillhub.club/skill/affaan-m-ecc-defi-amm-security) | affaan-m | ⭐ 237.9k | DeFi自動マーケットメーカー（AMM）スマートコントラクトセキュリティ監査パターン。フラッシュロー... |
+| [security-review](https://www.skillhub.club/skill/affaan-m-ecc-security-review) | affaan-m | ⭐ 237.9k | Use this skill when adding authentication, handlin... |
+| [springboot-security](https://www.skillhub.club/skill/affaan-m-ecc-springboot-security) | affaan-m | ⭐ 237.9k | Spring Security best practices for authn/authz, va... |
+| [quarkus-security](https://www.skillhub.club/skill/affaan-m-ecc-quarkus-security) | affaan-m | ⭐ 237.9k | Buenas prácticas de seguridad en Quarkus para aute... |
+| [click-path-audit](https://www.skillhub.club/skill/affaan-m-ecc-click-path-audit) | affaan-m | ⭐ 237.9k | ユーザー向けボタン/タッチポイントを完全な状態変更シーケンスを通して追跡し、機能が個別に機能するが互... |
+| [quarkus-security](https://www.skillhub.club/skill/affaan-m-everything-claude-code-quarkus-security) | affaan-m | ⭐ 237.9k | Buenas prácticas de seguridad en Quarkus para aute... |
+| [production-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-production-audit) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは production-audit 用の日本語翻訳が必要です |
+| [perl-security](https://www.skillhub.club/skill/affaan-m-everything-claude-code-perl-security) | affaan-m | ⭐ 237.9k | テイントモード、入力バリデーション、安全なプロセス実行、DBIパラメータ化クエリ、Webセキュリティ... |
+| [laravel-security](https://www.skillhub.club/skill/affaan-m-everything-claude-code-laravel-security) | affaan-m | ⭐ 237.8k | Buenas prácticas de seguridad en Laravel para aute... |
+| [perl-security](https://www.skillhub.club/skill/affaan-m-ecc-perl-security) | affaan-m | ⭐ 237.8k | テイントモード、入力バリデーション、安全なプロセス実行、DBIパラメータ化クエリ、Webセキュリティ... |
+| [agent-architecture-audit](https://www.skillhub.club/skill/affaan-m-ecc-agent-architecture-audit) | affaan-m | ⭐ 237.8k | エージェントおよび LLM アプリケーション向けのフルスタック診断。12 層のエージェントスタックに... |
+| [1password](https://www.skillhub.club/skill/nousresearch-hermes-agent-1password) | NousResearch | ⭐ 226.0k | Set up op CLI, sign in, and read or inject secrets... |
+| [oss-forensics](https://www.skillhub.club/skill/nousresearch-hermes-agent-oss-forensics) | NousResearch | ⭐ 225.9k | Supply chain investigation, evidence recovery, and... |
+
+
 
 ---
 
 ## 📦 testing
 
-<sub>26 skills</sub>
+<sub>24 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
@@ -191,42 +226,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [perl-testing](https://www.skillhub.club/skill/affaan-m-ecc-perl-testing) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは perl-testing 用の日本語翻訳が必要です |
 | [n8n:reproduce-bug](https://www.skillhub.club/skill/n8n-io-n8n-reproduce-bug) | n8n-io | ⭐ 199.5k | Reproduce a bug from a Linear ticket with a failin... |
 | [ibm-a11y-level1-audit](https://www.skillhub.club/skill/langflow-ai-langflow-ibm-a11y-level1-audit) | langflow-ai | ⭐ 152.9k | Audit Langflow frontend UI against IBM Equal Acces... |
-| [frontend-testing](https://www.skillhub.club/skill/langflow-ai-langflow-frontend-testing) | langflow-ai | ⭐ 152.9k |  |
-| [e2e-testing](https://www.skillhub.club/skill/langflow-ai-langflow-e2e-testing) | langflow-ai | ⭐ 152.9k | Write and review Playwright E2E tests for Langflow... |
-
-
-
----
-
-## 📦 security
-
-<sub>23 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [1password](https://www.skillhub.club/skill/clawdbot-clawdbot-1password) | clawdbot | ⭐ 343.6k | This skill provides a structured workflow for usin... |
-| [audit-the-list](https://www.skillhub.club/skill/vinta-awesome-python-audit-the-list) | vinta | ⭐ 316.8k | Audit README.md sections against the shortlist rul... |
-| [click-path-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-click-path-audit) | affaan-m | ⭐ 238.8k | ユーザー向けボタン/タッチポイントを完全な状態変更シーケンスを通して追跡し、機能が個別に機能するが互... |
-| [security-bounty-hunter](https://www.skillhub.club/skill/affaan-m-everything-claude-code-security-bounty-hunter) | affaan-m | ⭐ 238.0k | リポジトリ内の悪用可能なバウンティ対象のセキュリティ問題を発見します。ノイズの多いローカルのみの発見... |
-| [workspace-surface-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-workspace-surface-audit) | affaan-m | ⭐ 238.0k | アクティブなリポジトリ、MCPサーバー、プラグイン、コネクター、環境サーフェス、ツールのセットアップ... |
-| [security-scan](https://www.skillhub.club/skill/affaan-m-everything-claude-code-security-scan) | affaan-m | ⭐ 238.0k | AgentShield を使用して、Claude Code の設定（.claude/ ディレクトリ）... |
-| [django-security](https://www.skillhub.club/skill/affaan-m-ecc-django-security) | affaan-m | ⭐ 238.0k | Django security best practices, authentication, au... |
-| [ecc-tools-cost-audit](https://www.skillhub.club/skill/affaan-m-ecc-ecc-tools-cost-audit) | affaan-m | ⭐ 238.0k | ECC ツール、エージェント、スキル、および実装のコスト監査を実施します。プロンプト入力トークンを分... |
-| [agent-architecture-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-agent-architecture-audit) | affaan-m | ⭐ 237.9k | エージェントおよび LLM アプリケーション向けのフルスタック診断。12 層のエージェントスタックに... |
-| [production-audit](https://www.skillhub.club/skill/affaan-m-ecc-production-audit) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは production-audit 用の日本語翻訳が必要です |
-| [defi-amm-security](https://www.skillhub.club/skill/affaan-m-ecc-defi-amm-security) | affaan-m | ⭐ 237.9k | DeFi自動マーケットメーカー（AMM）スマートコントラクトセキュリティ監査パターン。フラッシュロー... |
-| [security-review](https://www.skillhub.club/skill/affaan-m-ecc-security-review) | affaan-m | ⭐ 237.9k | Use this skill when adding authentication, handlin... |
-| [springboot-security](https://www.skillhub.club/skill/affaan-m-ecc-springboot-security) | affaan-m | ⭐ 237.9k | Spring Security best practices for authn/authz, va... |
-| [quarkus-security](https://www.skillhub.club/skill/affaan-m-ecc-quarkus-security) | affaan-m | ⭐ 237.9k | Buenas prácticas de seguridad en Quarkus para aute... |
-| [click-path-audit](https://www.skillhub.club/skill/affaan-m-ecc-click-path-audit) | affaan-m | ⭐ 237.9k | ユーザー向けボタン/タッチポイントを完全な状態変更シーケンスを通して追跡し、機能が個別に機能するが互... |
-| [quarkus-security](https://www.skillhub.club/skill/affaan-m-everything-claude-code-quarkus-security) | affaan-m | ⭐ 237.9k | Buenas prácticas de seguridad en Quarkus para aute... |
-| [production-audit](https://www.skillhub.club/skill/affaan-m-everything-claude-code-production-audit) | affaan-m | ⭐ 237.9k | 日本語翻訳：このファイルは production-audit 用の日本語翻訳が必要です |
-| [perl-security](https://www.skillhub.club/skill/affaan-m-everything-claude-code-perl-security) | affaan-m | ⭐ 237.9k | テイントモード、入力バリデーション、安全なプロセス実行、DBIパラメータ化クエリ、Webセキュリティ... |
-| [laravel-security](https://www.skillhub.club/skill/affaan-m-everything-claude-code-laravel-security) | affaan-m | ⭐ 237.8k | Buenas prácticas de seguridad en Laravel para aute... |
-| [perl-security](https://www.skillhub.club/skill/affaan-m-ecc-perl-security) | affaan-m | ⭐ 237.8k | テイントモード、入力バリデーション、安全なプロセス実行、DBIパラメータ化クエリ、Webセキュリティ... |
-| [agent-architecture-audit](https://www.skillhub.club/skill/affaan-m-ecc-agent-architecture-audit) | affaan-m | ⭐ 237.8k | エージェントおよび LLM アプリケーション向けのフルスタック診断。12 層のエージェントスタックに... |
-| [1password](https://www.skillhub.club/skill/nousresearch-hermes-agent-1password) | NousResearch | ⭐ 226.0k | Set up op CLI, sign in, and read or inject secrets... |
-| [oss-forensics](https://www.skillhub.club/skill/nousresearch-hermes-agent-oss-forensics) | NousResearch | ⭐ 225.9k | Supply chain investigation, evidence recovery, and... |
 
 
 
@@ -267,11 +266,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📊 Data & Analytics
 
-<sub>20 skills</sub>
+<sub>21 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
 | [songsee](https://www.skillhub.club/skill/clawdbot-clawdbot-songsee) | clawdbot | ⭐ 343.7k | This skill wraps the songsee CLI tool to generate ... |
+| [database-migrations](https://www.skillhub.club/skill/affaan-m-ecc-database-migrations-393a1b2fc5) | affaan-m | ⭐ 291.6k | PostgreSQL、MySQL、一般的なORM（Prisma、Drizzle、Kysely、Dja... |
 | [database-migrations](https://www.skillhub.club/skill/affaan-m-everything-claude-code-database-migrations) | affaan-m | ⭐ 238.8k | Database migration best practices for schema chang... |
 | [uspto-database](https://www.skillhub.club/skill/affaan-m-everything-claude-code-scientific-db-uspto-database) | affaan-m | ⭐ 238.0k | 公式記録の検索、PatentSearch クエリ、TSDR チェック、譲渡データ、および再現可能な ... |
 | [ito-data-atlas-agent](https://www.skillhub.club/skill/affaan-m-ecc-ito-data-atlas-agent) | affaan-m | ⭐ 238.0k | Design background Data Atlas style agents for Itô ... |
@@ -351,51 +351,25 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📦 frontend
-
-<sub>15 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
-| [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
-| [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
-| [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
-| [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
-| [vue-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-vue-patterns) | affaan-m | ⭐ 238.0k | Vue.js 3 Composition API patterns, component archi... |
-| [react-patterns](https://www.skillhub.club/skill/affaan-m-ecc-react-patterns) | affaan-m | ⭐ 237.9k | React 18/19 patterns including hooks discipline, s... |
-| [react-performance](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-performance) | affaan-m | ⭐ 237.9k | React and Next.js performance optimization pattern... |
-| [react-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-patterns) | affaan-m | ⭐ 237.9k | React 18/19 patterns including hooks discipline, s... |
-| [react-native-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-native-patterns) | affaan-m | ⭐ 237.9k | React Native and Expo app patterns — Expo Router n... |
-| [concept-diagrams](https://www.skillhub.club/skill/nousresearch-hermes-agent-concept-diagrams) | NousResearch | ⭐ 226.0k | Generate flat, minimal educational SVG visuals as ... |
-| [pretext](https://www.skillhub.club/skill/nousresearch-hermes-agent-pretext) | NousResearch | ⭐ 225.9k | Build creative browser demos with DOM-free text la... |
-| [frontend-code-review](https://www.skillhub.club/skill/langflow-ai-langflow-frontend-code-review) | langflow-ai | ⭐ 152.9k | Review frontend code (.tsx, .ts, .js files) for qu... |
-| [frontend-i18n](https://www.skillhub.club/skill/langflow-ai-langflow-frontend-i18n) | langflow-ai | ⭐ 152.9k | Add, change, or review user-facing text in the Lan... |
-| [frontend-query-mutation](https://www.skillhub.club/skill/langflow-ai-langflow-frontend-query-mutation) | langflow-ai | ⭐ 152.9k | Guide for implementing Langflow frontend query and... |
-
-
-
----
-
-## 🎨 Design
+## 📦 devops
 
 <sub>13 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-design-direction](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-design-direction) | affaan-m | ⭐ 238.2k | フロントエンド設計の方向性、美的原則、および一貫した設計言語実装。 |
-| [accessibility](https://www.skillhub.club/skill/affaan-m-everything-claude-code-accessibility) | affaan-m | ⭐ 237.9k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
-| [design-system](https://www.skillhub.club/skill/affaan-m-ecc-design-system) | affaan-m | ⭐ 237.9k | アクセシビリティ、レスポンシブネス、テーマ設定、コンポーネント群、トークンを備えた本番環境対応デザイ... |
-| [loop-design-check](https://www.skillhub.club/skill/affaan-m-everything-claude-code-loop-design-check) | affaan-m | ⭐ 237.8k | Design a goal-oriented agent loop, and review it f... |
-| [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-everything-claude-code-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
-| [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-ecc-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
-| [accessibility](https://www.skillhub.club/skill/affaan-m-ecc-accessibility) | affaan-m | ⭐ 237.8k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
-| [popular-web-designs](https://www.skillhub.club/skill/nousresearch-hermes-agent-popular-web-designs) | NousResearch | ⭐ 226.0k | 54 real design systems (Stripe, Linear, Vercel) as... |
-| [design-md](https://www.skillhub.club/skill/nousresearch-hermes-agent-design-md) | NousResearch | ⭐ 226.0k | Author/validate/export Google's DESIGN.md token sp... |
-| [claude-design](https://www.skillhub.club/skill/nousresearch-hermes-agent-claude-design) | NousResearch | ⭐ 225.9k | Design one-off HTML artifacts (landing, deck, prot... |
-| [stable-diffusion-image-generation](https://www.skillhub.club/skill/nousresearch-hermes-agent-stable-diffusion) | NousResearch | ⭐ 225.9k | Text-to-image generation, inpainting, and img2img.... |
-| [n8n:design-system](https://www.skillhub.club/skill/n8n-io-n8n-design-system) | n8n-io | ⭐ 199.5k | Guidelines on using Design System styles and compo... |
-| [n8n:content-design](https://www.skillhub.club/skill/n8n-io-n8n-content-design) | n8n-io | ⭐ 199.5k | Product content designer for UI copy. Use when wri... |
+| [tmux](https://www.skillhub.club/skill/clawdbot-clawdbot-tmux) | clawdbot | ⭐ 343.6k | This skill enables remote control of tmux sessions... |
+| [model-usage](https://www.skillhub.club/skill/clawdbot-clawdbot-model-usage) | clawdbot | ⭐ 343.6k | This skill extracts per-model cost data from Codex... |
+| [camsnap](https://www.skillhub.club/skill/clawdbot-clawdbot-camsnap) | clawdbot | ⭐ 343.5k | This skill provides command-line access to RTSP/ON... |
+| [docker-patterns](https://www.skillhub.club/skill/affaan-m-ecc-docker-patterns-934a1d3eaf) | affaan-m | ⭐ 292.0k | Docker イメージの構築、最適化、マルチステージビルド、ネットワーク、ボリューム管理。本番環境デ... |
+| [deployment-patterns](https://www.skillhub.club/skill/affaan-m-ecc-deployment-patterns-9118ceb251) | affaan-m | ⭐ 291.7k | Kubernetes、Docker、Vercel、クラウドプロバイダーにおけるデプロイメントパターン... |
+| [deployment-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-deployment-patterns) | affaan-m | ⭐ 238.8k | Deployment workflows, CI/CD pipeline patterns, Doc... |
+| [docker-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-docker-patterns) | affaan-m | ⭐ 238.0k | Docker and Docker Compose patterns for local devel... |
+| [docker-patterns](https://www.skillhub.club/skill/affaan-m-ecc-docker-patterns) | affaan-m | ⭐ 238.0k | Docker and Docker Compose patterns for local devel... |
+| [deployment-patterns](https://www.skillhub.club/skill/affaan-m-ecc-deployment-patterns) | affaan-m | ⭐ 237.9k | Deployment workflows, CI/CD pipeline patterns, Doc... |
+| [kubernetes-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-kubernetes-patterns) | affaan-m | ⭐ 237.8k | Kubernetes workload patterns, resource management,... |
+| [kubernetes-patterns](https://www.skillhub.club/skill/affaan-m-ecc-kubernetes-patterns) | affaan-m | ⭐ 237.8k | Kubernetes workload patterns, resource management,... |
+| [hermes-s6-container-supervision](https://www.skillhub.club/skill/nousresearch-hermes-agent-hermes-s6-container-supervision) | NousResearch | ⭐ 226.0k | Modify or debug s6 services in the Hermes Docker i... |
+| [docker-management](https://www.skillhub.club/skill/nousresearch-hermes-agent-docker-management) | NousResearch | ⭐ 225.9k | Manage Docker containers, images, volumes, and Com... |
 
 
 
@@ -403,10 +377,11 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ## 📦 research
 
-<sub>12 skills</sub>
+<sub>13 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
+| [deep-research](https://www.skillhub.club/skill/affaan-m-ecc-deep-research-43e52e0798) | affaan-m | ⭐ 291.7k | コンテキスト深い研究を実施し、複雑なテーマについての権威ある答えを生成します。複数のソースをキュレー... |
 | [exa-search](https://www.skillhub.club/skill/affaan-m-ecc-exa-search) | affaan-m | ⭐ 238.8k | Neural search via Exa MCP for web, code, and compa... |
 | [exa-search](https://www.skillhub.club/skill/affaan-m-everything-claude-code-exa-search) | affaan-m | ⭐ 238.1k | Neural search via Exa MCP for web, code, and compa... |
 | [research-ops](https://www.skillhub.club/skill/affaan-m-everything-claude-code-research-ops) | affaan-m | ⭐ 238.0k | 証拠優先のECC現状調査ワークフロー。ユーザーが現在の公開証拠と提供されたローカルコンテキストに基づ... |
@@ -424,23 +399,48 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
-## 📦 devops
+## 🎨 Design
 
-<sub>11 skills</sub>
+<sub>13 skills</sub>
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [tmux](https://www.skillhub.club/skill/clawdbot-clawdbot-tmux) | clawdbot | ⭐ 343.6k | This skill enables remote control of tmux sessions... |
-| [model-usage](https://www.skillhub.club/skill/clawdbot-clawdbot-model-usage) | clawdbot | ⭐ 343.6k | This skill extracts per-model cost data from Codex... |
-| [camsnap](https://www.skillhub.club/skill/clawdbot-clawdbot-camsnap) | clawdbot | ⭐ 343.5k | This skill provides command-line access to RTSP/ON... |
-| [deployment-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-deployment-patterns) | affaan-m | ⭐ 238.8k | Deployment workflows, CI/CD pipeline patterns, Doc... |
-| [docker-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-docker-patterns) | affaan-m | ⭐ 238.0k | Docker and Docker Compose patterns for local devel... |
-| [docker-patterns](https://www.skillhub.club/skill/affaan-m-ecc-docker-patterns) | affaan-m | ⭐ 238.0k | Docker and Docker Compose patterns for local devel... |
-| [deployment-patterns](https://www.skillhub.club/skill/affaan-m-ecc-deployment-patterns) | affaan-m | ⭐ 237.9k | Deployment workflows, CI/CD pipeline patterns, Doc... |
-| [kubernetes-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-kubernetes-patterns) | affaan-m | ⭐ 237.8k | Kubernetes workload patterns, resource management,... |
-| [kubernetes-patterns](https://www.skillhub.club/skill/affaan-m-ecc-kubernetes-patterns) | affaan-m | ⭐ 237.8k | Kubernetes workload patterns, resource management,... |
-| [hermes-s6-container-supervision](https://www.skillhub.club/skill/nousresearch-hermes-agent-hermes-s6-container-supervision) | NousResearch | ⭐ 226.0k | Modify or debug s6 services in the Hermes Docker i... |
-| [docker-management](https://www.skillhub.club/skill/nousresearch-hermes-agent-docker-management) | NousResearch | ⭐ 225.9k | Manage Docker containers, images, volumes, and Com... |
+| [frontend-design-direction](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-design-direction) | affaan-m | ⭐ 238.2k | フロントエンド設計の方向性、美的原則、および一貫した設計言語実装。 |
+| [accessibility](https://www.skillhub.club/skill/affaan-m-everything-claude-code-accessibility) | affaan-m | ⭐ 237.9k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
+| [design-system](https://www.skillhub.club/skill/affaan-m-ecc-design-system) | affaan-m | ⭐ 237.9k | アクセシビリティ、レスポンシブネス、テーマ設定、コンポーネント群、トークンを備えた本番環境対応デザイ... |
+| [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-everything-claude-code-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
+| [loop-design-check](https://www.skillhub.club/skill/affaan-m-everything-claude-code-loop-design-check) | affaan-m | ⭐ 237.8k | Design a goal-oriented agent loop, and review it f... |
+| [liquid-glass-design](https://www.skillhub.club/skill/affaan-m-ecc-liquid-glass-design) | affaan-m | ⭐ 237.8k | 日本語翻訳：このファイルは liquid-glass-design 用の日本語翻訳が必要です |
+| [accessibility](https://www.skillhub.club/skill/affaan-m-ecc-accessibility) | affaan-m | ⭐ 237.8k | WCAG 2.2 レベル AA 標準を用いてインクルーシブなデジタルプロダクトを設計・実装・監査しま... |
+| [popular-web-designs](https://www.skillhub.club/skill/nousresearch-hermes-agent-popular-web-designs) | NousResearch | ⭐ 226.0k | 54 real design systems (Stripe, Linear, Vercel) as... |
+| [design-md](https://www.skillhub.club/skill/nousresearch-hermes-agent-design-md) | NousResearch | ⭐ 226.0k | Author/validate/export Google's DESIGN.md token sp... |
+| [claude-design](https://www.skillhub.club/skill/nousresearch-hermes-agent-claude-design) | NousResearch | ⭐ 225.9k | Design one-off HTML artifacts (landing, deck, prot... |
+| [stable-diffusion-image-generation](https://www.skillhub.club/skill/nousresearch-hermes-agent-stable-diffusion) | NousResearch | ⭐ 225.9k | Text-to-image generation, inpainting, and img2img.... |
+| [n8n:design-system](https://www.skillhub.club/skill/n8n-io-n8n-design-system) | n8n-io | ⭐ 199.5k | Guidelines on using Design System styles and compo... |
+| [n8n:content-design](https://www.skillhub.club/skill/n8n-io-n8n-content-design) | n8n-io | ⭐ 199.5k | Product content designer for UI copy. Use when wri... |
+
+
+
+---
+
+## 📦 frontend
+
+<sub>12 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
+| [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
+| [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
+| [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
+| [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
+| [vue-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-vue-patterns) | affaan-m | ⭐ 238.0k | Vue.js 3 Composition API patterns, component archi... |
+| [react-patterns](https://www.skillhub.club/skill/affaan-m-ecc-react-patterns) | affaan-m | ⭐ 237.9k | React 18/19 patterns including hooks discipline, s... |
+| [react-performance](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-performance) | affaan-m | ⭐ 237.9k | React and Next.js performance optimization pattern... |
+| [react-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-patterns) | affaan-m | ⭐ 237.9k | React 18/19 patterns including hooks discipline, s... |
+| [react-native-patterns](https://www.skillhub.club/skill/affaan-m-everything-claude-code-react-native-patterns) | affaan-m | ⭐ 237.9k | React Native and Expo app patterns — Expo Router n... |
+| [concept-diagrams](https://www.skillhub.club/skill/nousresearch-hermes-agent-concept-diagrams) | NousResearch | ⭐ 226.0k | Generate flat, minimal educational SVG visuals as ... |
+| [pretext](https://www.skillhub.club/skill/nousresearch-hermes-agent-pretext) | NousResearch | ⭐ 225.9k | Build creative browser demos with DOM-free text la... |
 
 
 
@@ -466,6 +466,26 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 ---
 
+## 📦 documentation
+
+<sub>9 skills</sub>
+
+| Skill | Author | Stars | Description |
+|-------|--------|-------|-------------|
+| [documentation-lookup](https://www.skillhub.club/skill/affaan-m-ecc-documentation-lookup-cb352055a7) | affaan-m | ⭐ 292.0k | 訓練データの代わりにContext7 MCP経由で最新のライブラリとフレームワークドキュメント使用。... |
+| [documentation-lookup](https://www.skillhub.club/skill/affaan-m-everything-claude-code-documentation-lookup) | affaan-m | ⭐ 238.0k | Use up-to-date library and framework docs via Cont... |
+| [visa-doc-translate](https://www.skillhub.club/skill/affaan-m-everything-claude-code-visa-doc-translate) | affaan-m | ⭐ 238.0k | ビザ申請書類（画像）を英語に翻訳し、原文と翻訳を含むバイリンガルPDFを作成する |
+| [documentation-lookup](https://www.skillhub.club/skill/affaan-m-ecc-documentation-lookup) | affaan-m | ⭐ 238.0k | Use up-to-date library and framework docs via Cont... |
+| [agentic-os](https://www.skillhub.club/skill/affaan-m-everything-claude-code-agentic-os) | affaan-m | ⭐ 237.9k | Claude Code 上に永続的なマルチエージェントオペレーティングシステムを構築します。カーネル... |
+| [nutrient-document-processing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-nutrient-document-processing) | affaan-m | ⭐ 237.9k | Nutrient DWS API を使用してドキュメントの処理、変換、OCR、抽出、編集、署名、フォ... |
+| [nutrient-document-processing](https://www.skillhub.club/skill/affaan-m-ecc-nutrient-document-processing) | affaan-m | ⭐ 237.8k | Nutrient DWS API を使用してドキュメントの処理、変換、OCR、抽出、編集、署名、フォ... |
+| [ocr-and-documents](https://www.skillhub.club/skill/nousresearch-hermes-agent-ocr-and-documents) | NousResearch | ⭐ 226.0k | Extract text from PDFs/scans (pymupdf, marker-pdf)... |
+| [n8n-docs-assistant](https://www.skillhub.club/skill/n8n-io-n8n-n8n-docs-assistant) | n8n-io | ⭐ 199.5k | Answers n8n product, setup, credential, node, host... |
+
+
+
+---
+
 ## 📦 mobile
 
 <sub>9 skills</sub>
@@ -481,25 +501,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [cisco-ios-patterns](https://www.skillhub.club/skill/affaan-m-ecc-cisco-ios-patterns) | affaan-m | ⭐ 237.9k | showコマンド、コンフィグ階層、ワイルドカードマスク、ACL配置、インターフェースハイジーン、安全... |
 | [ios-icon-gen](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ios-icon-gen) | affaan-m | ⭐ 237.8k | SF Symbols（Apple ネイティブ 5,000 件以上）または Iconify API（2... |
 | [android-clean-architecture](https://www.skillhub.club/skill/affaan-m-ecc-android-clean-architecture) | affaan-m | ⭐ 237.8k | Android と Kotlin Multiplatform プロジェクトのクリーンアーキテクチャパ... |
-
-
-
----
-
-## 📦 documentation
-
-<sub>8 skills</sub>
-
-| Skill | Author | Stars | Description |
-|-------|--------|-------|-------------|
-| [documentation-lookup](https://www.skillhub.club/skill/affaan-m-everything-claude-code-documentation-lookup) | affaan-m | ⭐ 238.0k | Use up-to-date library and framework docs via Cont... |
-| [visa-doc-translate](https://www.skillhub.club/skill/affaan-m-everything-claude-code-visa-doc-translate) | affaan-m | ⭐ 238.0k | ビザ申請書類（画像）を英語に翻訳し、原文と翻訳を含むバイリンガルPDFを作成する |
-| [documentation-lookup](https://www.skillhub.club/skill/affaan-m-ecc-documentation-lookup) | affaan-m | ⭐ 238.0k | Use up-to-date library and framework docs via Cont... |
-| [agentic-os](https://www.skillhub.club/skill/affaan-m-everything-claude-code-agentic-os) | affaan-m | ⭐ 237.9k | Claude Code 上に永続的なマルチエージェントオペレーティングシステムを構築します。カーネル... |
-| [nutrient-document-processing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-nutrient-document-processing) | affaan-m | ⭐ 237.9k | Nutrient DWS API を使用してドキュメントの処理、変換、OCR、抽出、編集、署名、フォ... |
-| [nutrient-document-processing](https://www.skillhub.club/skill/affaan-m-ecc-nutrient-document-processing) | affaan-m | ⭐ 237.8k | Nutrient DWS API を使用してドキュメントの処理、変換、OCR、抽出、編集、署名、フォ... |
-| [ocr-and-documents](https://www.skillhub.club/skill/nousresearch-hermes-agent-ocr-and-documents) | NousResearch | ⭐ 226.0k | Extract text from PDFs/scans (pymupdf, marker-pdf)... |
-| [n8n-docs-assistant](https://www.skillhub.club/skill/n8n-io-n8n-n8n-docs-assistant) | n8n-io | ⭐ 199.5k | Answers n8n product, setup, credential, node, host... |
 
 
 
@@ -571,6 +572,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-28
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-10-29
 
 </div>
