@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-256320.5k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-11-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-12-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 256320.5k |
 | Categories | 18 |
-| Last Updated | 2026-11-11 |
+| Last Updated | 2026-11-12 |
 
 ---
 
@@ -58,12 +58,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [**prose**](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | 344.9k | - | OpenProse VM skill pack. Activate on any `prose` c... |
 | [**bluebubbles**](https://www.skillhub.club/skill/clawdbot-clawdbot-bluebubbles) | clawdbot | 344.9k | - | This skill provides instructions for building a Bl... |
 | [**himalaya**](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | 344.9k | - | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
-| [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
 | [**server-methods**](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | 344.9k | - |  |
+| [**openai-image-gen**](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | 344.9k | - | Batch-generate images via OpenAI Images API. Rando... |
 | [**peekaboo**](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | 344.9k | - | Capture and automate macOS UI with the Peekaboo CL... |
+| [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**sag**](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | 344.8k | - | ElevenLabs text-to-speech with mac-style say UX. |
 | [**peekaboo**](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | 344.8k | - | Capture and automate macOS UI with the Peekaboo CL... |
-| [**gifgrep**](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | 344.8k | - | Search GIF providers with CLI/TUI, download result... |
 | [**1password**](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | 344.8k | - | Set up and use 1Password CLI (op). Use when instal... |
 | [**songsee**](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | 344.8k | - | Generate spectrograms and feature-panel visualizat... |
 | [**goplaces**](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | 344.8k | - | Query Google Places API (New) via the goplaces CLI... |
@@ -98,12 +98,12 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [discord](https://www.skillhub.club/skill/openclaw-openclaw-discord) | openclaw | ⭐ 344.9k |  |
 | [prose](https://www.skillhub.club/skill/molt-bot-clawdbot-prose) | molt-bot | ⭐ 344.9k | OpenProse VM skill pack. Activate on any `prose` c... |
 | [himalaya](https://www.skillhub.club/skill/openclaw-openclaw-himalaya) | openclaw | ⭐ 344.9k | CLI to manage emails via IMAP/SMTP. Use `himalaya`... |
-| [openai-image-gen](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | ⭐ 344.9k | Batch-generate images via OpenAI Images API. Rando... |
 | [server-methods](https://www.skillhub.club/skill/openclaw-openclaw-server-methods) | openclaw | ⭐ 344.9k |  |
+| [openai-image-gen](https://www.skillhub.club/skill/openclaw-openclaw-openai-image-gen) | openclaw | ⭐ 344.9k | Batch-generate images via OpenAI Images API. Rando... |
 | [peekaboo](https://www.skillhub.club/skill/moltbot-moltbot-peekaboo) | moltbot | ⭐ 344.9k | Capture and automate macOS UI with the Peekaboo CL... |
+| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [sag](https://www.skillhub.club/skill/moltbot-moltbot-sag) | moltbot | ⭐ 344.8k | ElevenLabs text-to-speech with mac-style say UX. |
 | [peekaboo](https://www.skillhub.club/skill/molt-bot-clawdbot-peekaboo) | molt-bot | ⭐ 344.8k | Capture and automate macOS UI with the Peekaboo CL... |
-| [gifgrep](https://www.skillhub.club/skill/moltbot-moltbot-gifgrep) | moltbot | ⭐ 344.8k | Search GIF providers with CLI/TUI, download result... |
 | [1password](https://www.skillhub.club/skill/molt-bot-clawdbot-1password) | molt-bot | ⭐ 344.8k | Set up and use 1Password CLI (op). Use when instal... |
 | [songsee](https://www.skillhub.club/skill/moltbot-moltbot-songsee) | moltbot | ⭐ 344.8k | Generate spectrograms and feature-panel visualizat... |
 | [goplaces](https://www.skillhub.club/skill/molt-bot-clawdbot-goplaces) | molt-bot | ⭐ 344.8k | Query Google Places API (New) via the goplaces CLI... |
@@ -209,8 +209,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [browser-qa](https://www.skillhub.club/skill/affaan-m-everything-claude-code-browser-qa) | affaan-m | ⭐ 238.8k | このスキルを使用して、機能をデプロイ後にブラウザ自動化を使用した自動ビジュアルテストとUI相互作用検... |
 | [fsharp-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-fsharp-testing) | affaan-m | ⭐ 238.2k | F#テストフレームワーク、プロパティベーステスト、および関数型アプローチ。 |
 | [e2e-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-e2e-testing) | affaan-m | ⭐ 238.0k | Playwright E2E testing patterns, Page Object Model... |
-| [windows-desktop-e2e](https://www.skillhub.club/skill/affaan-m-everything-claude-code-windows-desktop-e2e) | affaan-m | ⭐ 238.0k | E2E testing for Windows native desktop apps (WPF, ... |
 | [swift-protocol-di-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-swift-protocol-di-testing) | affaan-m | ⭐ 238.0k | Protocol-based dependency injection for testable S... |
+| [windows-desktop-e2e](https://www.skillhub.club/skill/affaan-m-everything-claude-code-windows-desktop-e2e) | affaan-m | ⭐ 238.0k | E2E testing for Windows native desktop apps (WPF, ... |
 | [rust-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-rust-testing) | affaan-m | ⭐ 238.0k | Rust testing patterns including unit tests, integr... |
 | [e2e-testing](https://www.skillhub.club/skill/affaan-m-ecc-e2e-testing) | affaan-m | ⭐ 238.0k | Playwright E2E testing patterns, Page Object Model... |
 | [swift-protocol-di-testing](https://www.skillhub.club/skill/affaan-m-ecc-swift-protocol-di-testing) | affaan-m | ⭐ 237.9k | Protocol-based dependency injection for testable S... |
@@ -429,8 +429,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 | Skill | Author | Stars | Description |
 |-------|--------|-------|-------------|
-| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-ecc-frontend-slides) | affaan-m | ⭐ 238.8k | Create stunning, animation-rich HTML presentations... |
+| [frontend-patterns](https://www.skillhub.club/skill/affaan-m-ecc-frontend-patterns) | affaan-m | ⭐ 238.8k | Frontend development patterns for React, Next.js, ... |
 | [frontend-slides](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-slides) | affaan-m | ⭐ 238.2k | Create stunning, animation-rich HTML presentations... |
 | [frontend-a11y](https://www.skillhub.club/skill/affaan-m-everything-claude-code-frontend-a11y) | affaan-m | ⭐ 238.1k | Accessibility patterns for React and Next.js — sem... |
 | [ui-to-vue](https://www.skillhub.club/skill/affaan-m-everything-claude-code-ui-to-vue) | affaan-m | ⭐ 238.0k | UIスクリーンショットやデザインエクスポートをVue 3コンポーネントに一括変換する際に使用。Van... |
@@ -572,6 +572,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-11-11
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-11-12
 
 </div>
