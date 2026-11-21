@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Skills](https://img.shields.io/badge/Skills-1000-blue?style=flat-square)](https://www.skillhub.club)
 [![Stars](https://img.shields.io/badge/Total%20Stars-256320.5k-yellow?style=flat-square)](https://www.skillhub.club)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-20-green?style=flat-square)](https://www.skillhub.club)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-21-green?style=flat-square)](https://www.skillhub.club)
 
 **[English](#-about) | [中文](#-关于)**
 
@@ -36,7 +36,7 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | Total Skills | 1000 |
 | Total GitHub Stars | 256320.5k |
 | Categories | 18 |
-| Last Updated | 2026-11-20 |
+| Last Updated | 2026-11-21 |
 
 ---
 
@@ -153,8 +153,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [huggingface-accelerate](https://www.skillhub.club/skill/nousresearch-hermes-agent-accelerate) | NousResearch | ⭐ 226.0k | Run PyTorch training across GPUs with minimal chan... |
 | [optimizing-attention-flash](https://www.skillhub.club/skill/nousresearch-hermes-agent-flash-attention) | NousResearch | ⭐ 226.0k | Speed up long-sequence transformer training and in... |
 | [pytorch-lightning](https://www.skillhub.club/skill/nousresearch-hermes-agent-pytorch-lightning) | NousResearch | ⭐ 225.9k | Clean training loops with built-in distributed sup... |
-| [baoyu-comic](https://www.skillhub.club/skill/nousresearch-hermes-agent-baoyu-comic) | NousResearch | ⭐ 225.9k | Knowledge comics (知识漫画): educational, biography, t... |
 | [fine-tuning-with-trl](https://www.skillhub.club/skill/nousresearch-hermes-agent-trl-fine-tuning) | NousResearch | ⭐ 225.9k | TRL: SFT, DPO, GRPO, RLOO reward modeling for LLM ... |
+| [baoyu-comic](https://www.skillhub.club/skill/nousresearch-hermes-agent-baoyu-comic) | NousResearch | ⭐ 225.9k | Knowledge comics (知识漫画): educational, biography, t... |
 | [sparse-autoencoder-training](https://www.skillhub.club/skill/nousresearch-hermes-agent-saelens) | NousResearch | ⭐ 225.9k | Train sparse autoencoders to interpret model featu... |
 
 <div align="right"><a href="https://www.skillhub.club/skills?category=productivity">View all 33 →</a></div>
@@ -213,8 +213,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [windows-desktop-e2e](https://www.skillhub.club/skill/affaan-m-everything-claude-code-windows-desktop-e2e) | affaan-m | ⭐ 238.0k | E2E testing for Windows native desktop apps (WPF, ... |
 | [rust-testing](https://www.skillhub.club/skill/affaan-m-everything-claude-code-rust-testing) | affaan-m | ⭐ 238.0k | Rust testing patterns including unit tests, integr... |
 | [e2e-testing](https://www.skillhub.club/skill/affaan-m-ecc-e2e-testing) | affaan-m | ⭐ 238.0k | Playwright E2E testing patterns, Page Object Model... |
-| [tdd-workflow](https://www.skillhub.club/skill/affaan-m-ecc-tdd-workflow) | affaan-m | ⭐ 237.9k | Use this skill when writing new features, fixing b... |
 | [swift-protocol-di-testing](https://www.skillhub.club/skill/affaan-m-ecc-swift-protocol-di-testing) | affaan-m | ⭐ 237.9k | Protocol-based dependency injection for testable S... |
+| [tdd-workflow](https://www.skillhub.club/skill/affaan-m-ecc-tdd-workflow) | affaan-m | ⭐ 237.9k | Use this skill when writing new features, fixing b... |
 | [react-testing](https://www.skillhub.club/skill/affaan-m-ecc-react-testing) | affaan-m | ⭐ 237.9k | React component testing with React Testing Library... |
 | [python-testing](https://www.skillhub.club/skill/affaan-m-ecc-python-testing) | affaan-m | ⭐ 237.9k | Python testing best practices using pytest includi... |
 | [rust-testing](https://www.skillhub.club/skill/affaan-m-ecc-rust-testing) | affaan-m | ⭐ 237.9k | Rust testing patterns including unit tests, integr... |
@@ -253,8 +253,8 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 | [mcporter](https://www.skillhub.club/skill/nousresearch-hermes-agent-mcporter) | NousResearch | ⭐ 226.0k | List, auth, and call MCP servers/tools from the te... |
 | [llama-cpp](https://www.skillhub.club/skill/nousresearch-hermes-agent-llama-cpp) | NousResearch | ⭐ 226.0k | llama.cpp local GGUF inference + HF Hub model disc... |
 | [shopify](https://www.skillhub.club/skill/nousresearch-hermes-agent-shopify) | NousResearch | ⭐ 226.0k | Query Shopify Admin/Storefront GraphQL APIs via cu... |
-| [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [fastmcp](https://www.skillhub.club/skill/nousresearch-hermes-agent-fastmcp) | NousResearch | ⭐ 226.0k | Build, test, and deploy Python MCP servers. |
+| [outlines](https://www.skillhub.club/skill/nousresearch-hermes-agent-outlines) | NousResearch | ⭐ 226.0k | Outlines: structured JSON/regex/Pydantic LLM gener... |
 | [siyuan](https://www.skillhub.club/skill/nousresearch-hermes-agent-siyuan) | NousResearch | ⭐ 225.9k | Query and edit a SiYuan knowledge base via its API... |
 | [canvas](https://www.skillhub.club/skill/nousresearch-hermes-agent-canvas) | NousResearch | ⭐ 225.9k | Fetch Canvas LMS courses and assignments via API t... |
 | [polymarket](https://www.skillhub.club/skill/nousresearch-hermes-agent-polymarket) | NousResearch | ⭐ 225.9k | Query Polymarket: markets, prices, orderbooks, his... |
@@ -572,6 +572,6 @@ A curated collection of **1000** Claude Skills for [Claude Code](https://claude.
 
 [![SkillHub](https://img.shields.io/badge/SkillHub-Visit%20Website-blue?style=for-the-badge)](https://www.skillhub.club)
 
-**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-11-20
+**Auto-generated by [SkillHub](https://www.skillhub.club)** | Updated: 2026-11-21
 
 </div>
